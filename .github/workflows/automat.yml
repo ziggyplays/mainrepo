@@ -1,8 +1,8 @@
 name: Update streams
 on:
   schedule:
-    - cron: "30 */4 * * *"
-workflow_dispatch
+    - cron: "30 */4 * * *' 
+    workflow_dispatch
 
 jobs:
   Update-streams:
