@@ -1,0 +1,35 @@
+name: Streams update
+on:
+  schedule:
+    - cron: '0 */8 * * *'  # Every 8h
+  workflow_dispatch:       # Manual launch
+
+jobs:
+  Update-streams:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: Streams update
+        run: |
+          #!/bin/bash
+          sed -i "/live_tvi\/live_tvi/ c https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" mainscr.m3u
+          sed -i "/live_cnn/ c https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" mainscr.m3u
+        
+
+      - name: setup git config
+        run: |
+          git config user.name "Automastream"
+          git config user.email "<>"
+
+      - name: commit
+        run: |
+          git pull
+          git add mainscr.m3u
+          git commit -m "Streams update"
+          git push origin live
+
+
+        
