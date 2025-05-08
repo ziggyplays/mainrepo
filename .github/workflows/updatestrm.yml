@@ -29,7 +29,6 @@ jobs:
           git pull
           git add mainscr.m3u
           git commit -m "Streams update"
-          git push origin live
-
+          git push origin main
 
         
