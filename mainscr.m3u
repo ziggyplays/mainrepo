@@ -21,13 +21,6 @@ https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/in
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI1IDQ6NDM6MTIgUE0maGFzaF92YWx1ZT1rMnRIS1NuaEtDdGwraG04VFJ6ZG9nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MGMxMzlhZTUtZmM0MC00ZDRhLWEzYTktYTVhZTJmZTA2MDYw/
 #EXTINF:-1 tvg-id="CMTV.HD.pt" group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cmtv.png",CMTV
 https://windnew.newkso.ru/wind/premium790/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
-
-#EXTINF:-1 tvg-id="SICRadical.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png",SIC Radical
-#EXTVLCOPT:http-origin=http://vavoo.to
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://vavoo.to/play/178864298/index.m3u8
-
 #EXTINF:-1 group-title="Portugal" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
 https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
@@ -75,8 +68,13 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CStar
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
+
 #EXTINF:-1 group-title="France" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/1024px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" ,TF1 Séries Films
-http://gratuittv.free.fr/Files/parispremier/live/playlist.m3u8
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/3049436856/index.m3u8
+
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'Équipe TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
 
@@ -93,7 +91,10 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 group-title="France" tvg-name="Paris Première" tvg-id="ParisPremiere.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ParisPremi%C3%A8re.webp" ,Paris Première
-http://gratuittv.free.fr/Files/parispremier/live/playlist.m3u8
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/1398895618/index.m3u8
 
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",Canal+
 https://windnew.newkso.ru/wind/premium121/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
@@ -408,110 +409,107 @@ http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="ClubbingTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" ,Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
 
+
 # Movies
-#EXTINF:-1 tvg-id="AXNMovies.pt" group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/axn-movies.png,AXN Movies
+
+#EXTINF:-1 tvg-id="AXNMovies.pt" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/axn-movies.png,AXN Movies
 https://ddy6new.newkso.ru/ddy6/premium717/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
 
-#EXTINF:-1 group-title="PORTUGAL",AXN HD (1)
+#EXTINF:-1 tvg-id="AXNHD.pt" group-title="Filmes",AXN
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/3143462075/index.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL",AXN WHITE (6)
+#EXTINF:-1 tvg-id="AXNWhite.pt" group-title="Filmes",AXN White
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/477021226/index.m3u8
 
-#EXTINF:-1 group-title="Portugal",AMC Portugal
-#EXTVLCOPT:http-origin=http://vavoo.to
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://vavoo.to/play/2341819341/index.m3u8
-
-#EXTINF:-1 group-title="Portugal",AMC Break
-#EXTVLCOPT:http-origin=http://vavoo.to
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://vavoo.to/play/1676049953/index.m3u8
-
-#EXTINF:-1 group-title="PORTUGAL",AMC CRIME (6)
-#EXTVLCOPT:http-origin=http://vavoo.to
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://vavoo.to/play/2077195788/index.m3u8
-
-#EXTINF:-1 group-title="PORTUGAL",AMC HD (1)
+#EXTINF:-1 tvg-id="AMC.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1024px-AMC_logo_2019.svg.png" group-title="Portugal",AMC Portugal
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/3322904148/index.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL",CANAL HOLLYWOOD (6)
+#EXTINF:-1 tvg-id="AMCBreak.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/1024px-AMC_Break.svg.png" group-title="Portugal",AMC Break
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/1676049953/index.m3u8
+
+#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/1024px-AMC_Crime.svg.png" group-title="Filmes",AMC Crime
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/2077195788/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalHollywood.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Canal_Hollywood_1.png/1024px-Canal_Hollywood_1.png" group-title="Filmes",Canal Hollywood
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/3628095071/index.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL",HOLLYWOOD HD (1)
-#EXTVLCOPT:http-origin=http://vavoo.to
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://vavoo.to/play/2412387466/index.m3u8
-
-#EXTINF:-1 group-title="PORTUGAL",CINE MUNDO (6)
+#EXTINF:-1 group-title="Filmes",Cine Mundo
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/2596009475/index.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL",STAR CHANNEL (6)
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Star_Channel_2023.svg/1024px-Star_Channel_2023.svg.png" group-title="Filmes",STAR Channel
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/473732861/index.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL",STAR COMEDY (6)
+#EXTINF:-1 tvg-id="StarComedy.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/1024px-Star_Comedy_2024.svg.png" group-title="Filmes",STAR Comedy
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/1282781678/index.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL",STAR CRIME (6)
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/1024px-Star_Crime_2023.svg.png" group-title="Filmes",STAR Crime
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/2422531998/index.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL",STAR LIFE (6)
+#EXTINF:-1 tvg-id="StarLife.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Star_Life_2023.svg/1024px-Star_Life_2023.svg.png" group-title="Filmes",STAR Life
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/4075632687/index.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL",STAR MOVIES (6)
+#EXTINF:-1 tvg-id="StarMovies.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/1024px-Star_Movies_2023.svg.png" group-title="Filmes",STAR Movies
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/891358544/index.m3u8
 
+
 # Lifestyle
 GH/a1xmedia/m3u/blob/main/a1x
 
-#EXTINF:-1 group-title="Lifestyle",24 Kitchen Portugal
+#EXTINF:-1 tvg-id="SICRadical.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png",SIC Radical
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://vavoo.to/play/574978281/index.m3u8
+http://vavoo.to/play/178864298/index.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL",CANAL Q (6)
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Canal-Q.svg/revision/latest/scale-to-width-down/1000?cb=20180528000318" group-title="Portugal",CANAL Q (6)
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/747491557/index.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL",CASA E COZINHA (6)
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/24Kitchen.svg/1024px-24Kitchen.svg.png" group-title="Lifestyle",24 Kitchen Portugal
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/574978281/index.m3u8
+
+#EXTINF:-1 tvg-id="CazaECozinha.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" group-title="Lifestyle",Casa e Cozinha
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -536,7 +534,7 @@ https://a1xs.vip/myzen4k
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/2111785550/index.m3u8
 
-#EXTINF:-1 tvg-id="Historia.pt" group-title="Lifestyle",História
+#EXTINF:-1 tvg-id="Historia.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Canal_de_Historia.png" group-title="Lifestyle",História
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
