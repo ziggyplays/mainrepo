@@ -16,7 +16,10 @@ http://vavoo.to/play/1394401047/index.m3u8
 http://vavoo.to/play/4163765902/index.m3u8
 
 #EXTINF:-1 tvg-id="SIC.pt" group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
-https://ddy6new.newkso.ru/ddy6/premium722/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/3762658364/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" tvg-id="TVI.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png",TVI
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDI1IDQ6NTE6MjEgUE0maGFzaF92YWx1ZT1WNVUxc2JXOW5nTFhqbkFMdy8yd3BBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZWQ3NDg3YjItNjZhNy00ZmY5LTkzYWYtN2UzODY1MDQ2ODg2/
@@ -96,7 +99,10 @@ https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758
 https://d2me2cx8crwpp6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-456wmaba0e7dw/index.m3u8
 
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNews
-https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/1916985380/index.m3u8
 
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
@@ -353,10 +359,16 @@ http://vavoo.to/play/1902600011/index.m3u8
 http://vavoo.to/play/1111300344/index.m3u8
 
 #EXTINF:-1 tvg-id="Sixx.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/1024px-Sixx_Logo.svg.png" ,Sixx
-https://ddy6new.newkso.ru/ddy6/premium732/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/2198569506/index.m3u8
 
 #EXTINF:-1 tvg-id="Pro7Maxx.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/1024px-ProSieben_MAXX_Logo.svg.png" ,ProSieben Maxx
-https://ddy6new.newkso.ru/ddy6/premium735/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/2024708328/index.m3u8
 
 
 # Luxembourg
@@ -371,73 +383,106 @@ https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
 # United Kingdom
 
 #EXTINF:-1 tvg-id="BBC1.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1024px-BBC_One_logo_2021.svg.png" ,BBC One
-https://ddy6new.newkso.ru/ddy6/premium356/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/470818901/index.m3u8
 
 #EXTINF:-1 tvg-id="BBC2.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/1024px-BBC_Two_logo_2021.svg.png" ,BBC Two
-https://dokko1new.newkso.ru/dokko1/premium357/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/396403603/index.m3u8
 
 #EXTINF:-1 tvg-id="ITV1.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1024px-ITV1_logo_%282022%29.svg.png" ,ITV1
-https://dokko1new.newkso.ru/dokko1/premium350/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/1573396436/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel4.uk" group-title="UK" tvg-logo=" https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/759px-Channel_4_%28On_Demand%29_2023.svg.png" ,Channel 4
-https://windnew.newkso.ru/wind/premium354/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/2042114524/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel5.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/707px-Channel_5_%28UK%29_2016.svg.png" ,Channel 5
-https://zekonew.newkso.ru/zeko/premium355/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/1155012716/index.m3u8
 
 #EXTINF:-1 tvg-id="BBC3.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/1024px-BBC_Three_2022.svg.png" ,BBC Three
-https://ddy6new.newkso.ru/ddy6/premium358/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/589867492/index.m3u8
 
 #EXTINF:-1 tvg-id="ITV2.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1024px-ITV2_logo_2022.svg.png" ,ITV2
-https://zekonew.newkso.ru/zeko/premium351/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/493678771/index.m3u8
 
 #EXTINF:-1 tvg-id="BBC4.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/1024px-BBC_Four_logo_2021.svg.png" ,BBC Four
-https://dokko1new.newkso.ru/dokko1/premium359/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/3034484844/index.m3u8
 
 #EXTINF:-1 tvg-id="ITV3.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1024px-ITV3_logo_2022.svg.png" ,ITV3
-https://zekonew.newkso.ru/zeko/premium352/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/537712899/index.m3u8
 
 #EXTINF:-1 tvg-id="ITV4.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1024px-ITV4_logo_%282022%29.svg.png" ,ITV4
-https://ddy6new.newkso.ru/ddy6/premium353/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/2452358419/index.m3u8
 
 #EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/s4c-uk.png" group-title="UK",S4C Wales
-https://dokko1new.newkso.ru/dokko1/premium670/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/1049807868/index.m3u8
 
 
 # Ireland
 
-#EXTINF:-1 tvg-id="RTE1.ie" group-title="Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1024px-RT%C3%89_One_2014.svg.png" ,RTÉ 1
-https://zekonew.newkso.ru/zeko/premium364/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTINF:-1 tvg-id="RTE1.ie" group-title="Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1024px-RT%C3%89_One_2014.svg.png" ,RTÉ One
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/3947654331/index.m3u8
 
-#EXTINF:-1 tvg-id="RTE2.ie" group-title="Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1024px-RT%C3%892_logo.svg.png" ,RTÉ 2
-https://zekonew.newkso.ru/zeko/premium365/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
-
-
-# Nordics
-
-#EXTINF:-1 group-title="Nordics" tvg-logo="https://i.ibb.co/6Rdh3h1Q/drtva.png",DR
-https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
-
-#EXTINF:-1 tvg-id="TV2.dk" group-title="Nordics",TV2
-https://ddy6new.newkso.ru/ddy6/premium817/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
-
-#EXTINF:-1 tvg-id="TV3.dk" group-title="Nordics",TV3
-https://ddy6new.newkso.ru/ddy6/premium819/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
-
-#EXTINF:-1 tvg-id="yle.fi" group-title="Nordics" tvg-logo="https://i.ibb.co/r29pMj4B/Ylew.png",yle
-https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
+#EXTINF:-1 tvg-id="RTE2.ie" group-title="Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1024px-RT%C3%892_logo.svg.png" ,RTÉ Two
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/3774672765/index.m3u8
 
 
 # Poland
 
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TVP_Info_%282024%29.svg/1024px-TVP_Info_%282024%29.svg.png",TVP Info
-https://irylek.ct8.pl/stream/tvpinfo?m3u8
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/3672476872/index.m3u8
 
 #EXTINF:-1 tvg-id="TVN24.pl" group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Tvn24_Logo.svg/799px-Tvn24_Logo.svg.png",TVN24
-https://dokko1new.newkso.ru/dokko1/premium444/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/3073846853/index.m3u8
 
 #EXTINF:-1 tvg-id="PolNews24.pl" group-title="Poland"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Polsat_News_2021_gradient.svg/767px-Polsat_News_2021_gradient.svg.png",Polsat News 24
-https://windnew.newkso.ru/wind/premium443/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/2199275678/index.m3u8
 
 
 # Ukraine
@@ -611,8 +656,11 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.ibb.co/Vt0XZKf/Cbcnews.png",CBC News
 https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
 
-#EXTINF:-1 tvg-id="BBCNews.uk" group-title="Info",BBC News
-https://dokko1new.newkso.ru/dokko1/premium349/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1024px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="Info",BBC News
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/3018021932/index.m3u8
 
 #EXTINF:-1 group-title="Info" tvg-id="SkyNewsInternational.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png",Sky News
 #KODIPROP:inputstream=inputstream.adaptive
@@ -652,6 +700,12 @@ http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="ClubbingTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" ,Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-id="AlmaLusa.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Logo-channel-c686df60-9ab4-11ea-84f1-15e394418217-250x250.png/revision/latest?cb=20220116184216", Alma Lusa
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/3972324290/index.m3u8
+
 
 # Movies
 
@@ -662,7 +716,10 @@ https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-raku
 http://vavoo.to/play/3143462075/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNMovies.pt" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/axn-movies.png,AXN Movies
-https://ddy6new.newkso.ru/ddy6/premium717/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/474759302/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNWhite.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/AXN_HD_Logo_2015.svg/1024px-AXN_HD_Logo_2015.svg.png" group-title="Filmes",AXN White
 #EXTVLCOPT:http-origin=http://vavoo.to
@@ -759,6 +816,7 @@ http://vavoo.to/play/2506540325/index.m3u8
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/2624088632/index.m3u8
+
 
 # Lifestyle
 GH/a1xmedia/m3u/blob/main/a1x
