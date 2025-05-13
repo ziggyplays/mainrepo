@@ -66,7 +66,10 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
 
 #EXTINF:-1 tvg-id="M6.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_(2020%2C_fond_clair).svg/1024px-Logo_M6_(2020%2C_fond_clair).svg.png" ,M6
-https://windnew.newkso.ru/wind/premium470/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/3813068770/index.m3u8
 
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",arte 🅶
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
@@ -147,7 +150,10 @@ http://vavoo.to/play/506999453/index.m3u8
 http://vavoo.to/play/1295523815/index.m3u8
 
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",Canal+
-https://windnew.newkso.ru/wind/premium121/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/837868540/index.m3u8
 
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",France 24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
@@ -261,31 +267,64 @@ https://windnew.newkso.ru/wind/premium857/mono.m3u8|Referer=https://caq21harderv
 # Germany
 
 #EXTINF:-1 group-title="Germany" tvg-id="DasErste.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/1024px-Das_Erste_2014.svg.png" ,Das Erste
-https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/index.m3u8
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/2814908252/index.m3u8
 
 #EXTINF:-1 group-title="Germany" tvg-id="ZDF.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1024px-ZDF_logo.svg.png" ,ZDF 🅶
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/3630825751/index.m3u8
 
 #EXTINF:-1 group-title="Germany" tvg-logo="https://i.ibb.co/Msmh0pG/rtlde.png",RTL
-https://ddy6new.newkso.ru/ddy6/premium740/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/2732807498/index.m3u8
 
 #EXTINF:-1 tvg-id="SAT1.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png" ,SAT.1
-https://ddy6new.newkso.ru/ddy6/premium729/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6http://vavoo.to/play/4122072531/index.m3u8
 
 #EXTINF:-1 tvg-id="Pro7.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1024px-ProSieben_Logo_2015.svg.png" ,ProSieben
-https://ddy6new.newkso.ru/ddy6/premium730/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/4292555000/index.m3u8
 
 #EXTINF:-1 tvg-id="Kabel1.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/1024px-Kabel_eins_Logo_2015.svg.png" ,Kabel Eins
-https://ddy6new.newkso.ru/ddy6/premium731/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/1176390362/index.m3u8
 
 #EXTINF:-1 tvg-id="RTLZwei.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/993px-RTLZWEI_Logo_2019.svg.png" ,RTL Zwei
-http://178.219.128.68:64888/RTL2
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/2877582637/index.m3u8
+
+#EXTINF:-1 tvg-id="Vox.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOX_Logo_2013.svg/1024px-VOX_Logo_2013.svg.png" ,VOX
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/2866655811/index.m3u8
 
 #EXTINF:-1 tvg-id="3sat.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/3sat_HD_2019.svg/1024px-3sat_HD_2019.svg.png" ,3sat
-https://ddy6new.newkso.ru/ddy6/premium726/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/1902600011/index.m3u8
 
 #EXTINF:-1 tvg-id="SuperRTL.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTL_Super_Logo_2023.svg/1024px-RTL_Super_Logo_2023.svg.png" ,Super RTL
-https://ddy6new.newkso.ru/ddy6/premium738/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/1111300344/index.m3u8
 
 #EXTINF:-1 tvg-id="Sixx.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/1024px-Sixx_Logo.svg.png" ,Sixx
 https://ddy6new.newkso.ru/ddy6/premium732/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
@@ -411,7 +450,10 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 http://vavoo.to/play/983685089/index.m3u8
 
 #EXTINF:-1 group-title="Russia" tvg-id="Channel5.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/1024px-5-tv_logo_%282023%29.svg.png",5 Kanal 🅶
-http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/2790952858/index.m3u8
 
 #EXTINF:-1 group-title="Russia" tvg-id="Friday.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg/1024px-%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg.png",Pyatnitsa!
 #EXTVLCOPT:http-origin=http://vavoo.to
@@ -420,10 +462,16 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 http://vavoo.to/play/856449196/index.m3u8
 
 #EXTINF:-1 group-title="Russia" tvg-id="TNT.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_tnt.png",TNT
-https://streaming.televizor-24-tochka.ru/live/38.m3u8
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/3710993242/index.m3u8
 
 #EXTINF:-1 group-title="Russia" tvg-id="TNTMusic.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/%D0%A2%D0%9D%D0%A2_Music_3.png",TNT Music
-https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/3783797318/index.m3u8
 
 
 # Canada
@@ -602,12 +650,6 @@ http://vavoo.to/play/477021226/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/3322904148/index.m3u8
 
-#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/1024px-AMC_Crime.svg.png" group-title="Filmes",AMC Crime
-#EXTVLCOPT:http-origin=http://vavoo.to
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://vavoo.to/play/2077195788/index.m3u8
-
 #EXTINF:-1 tvg-id="CanalHollywood.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Canal_Hollywood_1.png/1024px-Canal_Hollywood_1.png" group-title="Filmes",Canal Hollywood
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
@@ -660,6 +702,12 @@ GH/a1xmedia/m3u/blob/main/a1x
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/3518481964/index.m3u8
 
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Game_One_%282024%29.svg/1024px-Logo_Game_One_%282024%29.svg.png" group-title="Lifestyle",Game One
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/1479966396/index.m3u8
+
 #EXTINF:-1 tvg-id="SICRadical.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png",SIC Radical
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
@@ -678,6 +726,11 @@ http://vavoo.to/play/747491557/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/1676049953/index.m3u8
 
+#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/1024px-AMC_Crime.svg.png" group-title="Filmes",AMC Crime
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/2077195788/index.m3u8
 
 #EXTINF:-1 tvg-id="24Kitchen.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/24Kitchen.svg/1024px-24Kitchen.svg.png" group-title="Lifestyle",24Kitchen Portugal
 #EXTVLCOPT:http-origin=http://vavoo.to
@@ -691,43 +744,19 @@ http://vavoo.to/play/574978281/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/3354497993/index.m3u8
 
-#EXTINF:-1 tvg-id="GameOne.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Game_One_%282024%29.svg/1024px-Logo_Game_One_%282024%29.svg.png" group-title="Lifestyle",Game One
-#EXTVLCOPT:http-origin=http://vavoo.to
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://vavoo.to/play/1479966396/index.m3u8
-
-#EXTINF:-1 tvg-id="Love.Nature.ca" tvg-name="Love Nature 4K" tvg-logo="https://i.ibb.co/SdSKhsj/love-nature-4k.png" group-title="Lifestyle",Love Nature 4K
-https://a1xs.vip/lovent4k
-
-#EXTINF:-1 tvg-id="travelxp.4K.de" tvg-name="Travelxp 4K" tvg-logo="https://i.ibb.co/GCKtvqn/Travelxp-4-K.png" group-title="Lifestyle",Travelxp 4K
-https://a1xs.vip/travelxpuhd
-
-#EXTINF:-1 tvg-id="HOME.4K.pl" tvg-name="HOME 4K" tvg-logo="https://i.ibb.co/kg6GPds2/Home4k.webp" group-title="Lifestyle",Home 4K
-https://a1xs.vip/home4k
-
-#EXTINF:-1 tvg-id="Museum.4k.fr" tvg-name="MUSEUM TV 4K" tvg-logo="https://i.imgur.com/a55LkwU.png" group-title="Lifestyle",Museum TV 4K
-https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
-
-#EXTINF:-1 tvg-id="Loupe4k" tvg-name="Loupe 4K" tvg-logo="https://i.ibb.co/RP5Kv3k/loupe.png" group-title="Lifestyle",Loupe 4K
-https://a1xs.vip/loupe4k
-
-#EXTINF:-1 tvg-id="MyZen.4K.ro" tvg-name="MyZen 4K" tvg-logo="https://i.imgur.com/GDZobhF.png" group-title="Lifestyle",MyZen 4K
-https://a1xs.vip/myzen4k
-
-#EXTINF:-1 tvg-id="Odisseia.pt" group-title="Lifestyle",Odisseia
+#EXTINF:-1 tvg-id="Odisseia.pt" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vpyypr1462122978.png" group-title="Lifestyle",Odisseia
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/2111785550/index.m3u8
 
-#EXTINF:-1 tvg-id="Historia.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Canal_de_Historia.png" group-title="Lifestyle",História
+#EXTINF:-1 tvg-id="Historia.pt" tvg-logo="https://amcnetworks.pt/wp-content/uploads/2022/10/2022_HISTORIA_LOGO_HERO_3D_BLK_RGB.png" group-title="Lifestyle",História
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/525538314/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="Lifestyle",Discovery Channel Portugal
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1024px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Lifestyle",Discovery Channel Portugal
 #EXTVLCOPT:http-origin=http://vavoo.to
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -750,6 +779,36 @@ http://vavoo.to/play/1196955352/index.m3u8
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/2693289753/index.m3u8
+
+#EXTINF:-1 tvg-id="Love.Nature.ca" tvg-name="Love Nature 4K" tvg-logo="https://i.ibb.co/SdSKhsj/love-nature-4k.png" group-title="Lifestyle",Love Nature 4K
+https://a1xs.vip/lovent4k
+
+#EXTINF:-1 tvg-id="travelxp.4K.de" tvg-name="Travelxp 4K" tvg-logo="https://i.ibb.co/GCKtvqn/Travelxp-4-K.png" group-title="Lifestyle",Travelxp 4K
+https://a1xs.vip/travelxpuhd
+
+#EXTINF:-1 tvg-id="HOME.4K.pl" tvg-name="HOME 4K" tvg-logo="https://i.ibb.co/kg6GPds2/Home4k.webp" group-title="Lifestyle",Home 4K
+https://a1xs.vip/home4k
+
+#EXTINF:-1 tvg-id="Museum.4k.fr" tvg-name="MUSEUM TV 4K" tvg-logo="https://i.imgur.com/a55LkwU.png" group-title="Lifestyle",Museum TV 4K
+https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="Loupe4k" tvg-name="Loupe 4K" tvg-logo="https://i.ibb.co/RP5Kv3k/loupe.png" group-title="Lifestyle",Loupe 4K
+https://a1xs.vip/loupe4k
+
+#EXTINF:-1 tvg-id="MyZen.4K.ro" tvg-name="MyZen 4K" tvg-logo="https://i.imgur.com/GDZobhF.png" group-title="Lifestyle",MyZen 4K
+https://a1xs.vip/myzen4k
+
+#EXTINF:-1 tvg-id="Cacavision.pt" tvg-logo="https://www.pngkey.com/png/full/663-6635924_caca-png.png" group-title="Lifestyle", Caçavision
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/3682477794/index.m3u8
+
+#EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="Lifestyle",Caça E Pesca
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://vavoo.to/play/700421686/index.m3u8
 
 #EXTINF:-1 tvg-id="JDCV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/RMC_S00334306_program_logo.png" group-title="Lifestyle",J'irai dormir chez vous
 https://dwsx9zc2hxqhl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-k0j7zahecxb3y/index.m3u8
