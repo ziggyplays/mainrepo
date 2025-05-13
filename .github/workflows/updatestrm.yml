@@ -1,4 +1,4 @@
-name: TVICNN update
+name: updatestrmpor
 on:
   schedule:
     - cron: '0 */8 * * *'  # Every 8h
