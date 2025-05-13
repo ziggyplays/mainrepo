@@ -1,4 +1,4 @@
-name: Streams update
+name: TVICNN update
 on:
   schedule:
     - cron: '0 */8 * * *'  # Every 8h
