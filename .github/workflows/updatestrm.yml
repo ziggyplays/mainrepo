@@ -28,7 +28,7 @@ jobs:
         run: |
           git pull
           git add mainscr.m3u
-          git commit -m "Streams update"
+          git commit -m "Aktualizéiert"
           git push origin main
 
         
