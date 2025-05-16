@@ -1,3 +1,5 @@
+# Ëmbenennen "updatestrm.yml" fir de command erëm ze starten.
+
 name: updatestrmpor
 on:
   schedule:
