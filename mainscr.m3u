@@ -22,7 +22,7 @@ http://vavoo.to/play/4163765902/index.m3u8
 http://vavoo.to/play/3762658364/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" tvg-id="TVI.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDQ6NTA6NTMgUE0maGFzaF92YWx1ZT1mZElmM0xsWVhJT0pwWm5tOHh1QkFnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjViY2NlN2MtYWRhYS00M2I4LTk1ZWItMmRlOGJmNzBiNTg0/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDI1IDM6MzE6NTMgQU0maGFzaF92YWx1ZT1yQzI5Z2FPK2dnc1c5U2ZuYmhIYlBBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9M2M4OTQ4M2UtNzMyMi00YzVjLTllNzYtNDkyZGMwZmZjZjFj/
 
 #EXTINF:-1 tvg-id="RTP3.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" ,RTP3
 #EXTVLCOPT:http-origin=http://vavoo.to
@@ -36,7 +36,7 @@ http://vavoo.to/play/3310235454/index.m3u8
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDQ6NTA6NTQgUE0maGFzaF92YWx1ZT1rZmVjZGJDWVRJOEQydTA4NGs1T0pRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTEwY2ZlYjYtNThhZS00Mjg2LTg4NjgtMGE4YjMzMzA5ZDI4/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDI1IDM6MzE6NTQgQU0maGFzaF92YWx1ZT1jSUl6OU9kMzY3cmJEcGluNzdnL3pBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YmMyMTVlY2YtY2M2Mi00NjczLThjOTctNTg1ZDRlNGZhNjhl/
 
 #EXTINF:-1 tvg-id="CMTV.HD.pt" group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cmtv.png",CMTV
 #EXTVLCOPT:http-origin=http://vavoo.to
