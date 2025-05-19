@@ -33,4 +33,4 @@ jobs:
           git commit -m "Aktualiséiert"
           git push origin main
 
-        
+# Workflow credits: https://github.com/LITUATUI/M3UPT
