@@ -47,21 +47,21 @@ https://vavoo.to/vavoo-iptv/play/28525090523bed95eaf3d2
 #EXTINF:-1 group-title="France" tvg-id="LCP-AN.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_LCP-AN_%282019%29.svg/1024px-Logo_LCP-AN_%282019%29.svg.png",LCP-Public Sénat
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/res/lcp-dm-highest.m3u8
 #EXTINF:-1 tvg-id="W9.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/1024px-W9-Logo.svg.png",W9
-https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+https://vavoo.to/vavoo-iptv/play/12804661554f36ca1095a
 #EXTINF:-1 group-title="France" tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1024px-TMC_logo.svg.png" ,TMC
-https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+https://vavoo.to/vavoo-iptv/play/361211396f33e971ef526
 #EXTINF:-1 group-title="France" tvg-id="TFX.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TFX_logo.svg/1024px-TFX_logo.svg.png" ,TFX
-https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+https://vavoo.to/vavoo-iptv/play/3794086467dcb3e9b1728b
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",Gulli
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
+https://vavoo.to/vavoo-iptv/play/29885140037661f9e640d2
 #EXTINF:-1 group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_BFMTV_2019.svg/1024px-Logo_BFMTV_2019.svg.png",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNews
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-clair-hd-highest.m3u8
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
+https://vavoo.to/vavoo-iptv/play/8228734688467a2cc70b0
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/1024px-Franceinfo.svg.png",franceinfo:
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
+https://vavoo.to/vavoo-iptv/play/2704244202b0f2bb825715
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CStar
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 tvg-id="t18.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/1024px-Logo_de_la_chaine_T18.svg.png",T18
@@ -73,13 +73,13 @@ https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'Équipe TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
 #EXTINF:-1 group-title="France" tvg-id="6ter.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" ,6ter
-https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
+https://vavoo.to/vavoo-iptv/play/42396595075411bf41b9be
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC Story
-https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+https://vavoo.to/vavoo-iptv/play/9680712917f989558355c
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png",RMC Découverte
-https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+https://vavoo.to/vavoo-iptv/play/26066150769be8b83ee804
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",Chérie 25
-https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+https://vavoo.to/vavoo-iptv/play/19697030465be86491cf97
 
 #EXTINF:-1 group-title="France" tvg-name="Paris Première" tvg-id="ParisPremiere.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ParisPremi%C3%A8re.webp" ,Paris Première
 https://vavoo.to/vavoo-iptv/play/21397590080b92bf1cb6f0
