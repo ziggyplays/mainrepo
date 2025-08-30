@@ -214,53 +214,26 @@ https://nfsnew.newkso.ru/nfs/premium907/mono.m3u8|Referer=https://forcedtoplay.x
 # Spain
 
 #EXTINF:-1 tvg-id="DAZN1.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png",DAZN 1 Espana
-#EXTVLCOPT:http-origin=http://vavoo.to
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-http://vavoo.to/play/2941093452/index.m3u8
-
+https://vavoo.to/vavoo-iptv/play/294109345260e52343e322
 #EXTINF:-1 tvg-id="DAZN2.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png",DAZN 2 Espana
-#EXTVLCOPT:http-origin=http://vavoo.to
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-http://vavoo.to/play/3907910812/index.m3u8
-
+https://vavoo.to/vavoo-iptv/play/3907910812527bd3e7d3e0
 #EXTINF:-1 tvg-id="DAZN3.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png",DAZN 3 Espana
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NDcvbW9uby5tM3U4.m3u8
-
+https://vavoo.to/vavoo-iptv/play/35828421562da76fb1a617
 #EXTINF:-1 tvg-id="DAZN4.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png",DAZN 4 Espana
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NDgvbW9uby5tM3U4.m3u8
-
+https://vavoo.to/vavoo-iptv/play/1739393340c41541323f2f
+#EXTINF:-1 tvg-id="DAZNF1.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/1024px-DAZN_F1_2024_logo.svg.png",DAZN F1 Espana
+https://vavoo.to/vavoo-iptv/play/3129220252f261e3f0528e
+#EXTINF:-1 tvg-id="DAZNLL.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/DAZN_LALIGA_2024_logo.svg/1024px-DAZN_LALIGA_2024_logo.svg.png",DAZN LaLiga
+https://vavoo.to/vavoo-iptv/play/3461295847ebbe9fd4a3e0
 
 #EXTINF:-1 tvg-id="MoviD1.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Deportes
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzYvbW9uby5tM3U4.m3u8
-
+https://vavoo.to/vavoo-iptv/play/11881663439d233a8dd226
 #EXTINF:-1 tvg-id="MoviD2.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Deportes 2
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzgvbW9uby5tM3U4.m3u8
-
+https://vavoo.to/vavoo-iptv/play/16240905772a1bd64a3b10
 #EXTINF:-1 tvg-id="MoviLDC.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Deportes 3
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTI2L21vbm8ubTN1OA==.m3u8
-
+https://vavoo.to/vavoo-iptv/play/24287792447d19205dbe2c
 #EXTINF:-1 tvg-id="MoviLDC.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Deportes 4
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTI3L21vbm8ubTN1OA==.m3u8
+https://vavoo.to/vavoo-iptv/play/12757844343f601bb69fdf
 
 
 # United Kingdom
