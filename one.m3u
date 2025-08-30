@@ -4,22 +4,17 @@
 
 #EXTINF:-1 tvg-id="RTP1.pt" group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP1
 https://vavoo.to/vavoo-iptv/play/3213786206b9a8d9279d0a
-
 #EXTINF:-1 tvg-id="RTP2.pt" group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP2
 https://vavoo.to/vavoo-iptv/play/416376590230300f8c5498
-
 #EXTINF:-1 tvg-id="SIC.pt" group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-
 #EXTINF:-1 group-title="Portugal" tvg-id="TVI.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png",TVI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 
 #EXTINF:-1 tvg-id="RTP3.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" ,RTP3
 https://vavoo.to/vavoo-iptv/play/3310235454b9bd61572914
-
 #EXTINF:-1 group-title="Portugal" tvg-id="SICNoticias.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_Not%C3%ADcias_%282023%29.svg/1024px-SIC_Not%C3%ADcias_%282023%29.svg.png",SIC Notícias
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-
 #EXTINF:-1 group-title="Portugal" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 
@@ -37,85 +32,59 @@ https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3
 
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/1024px-Logo_TF1_2013.svg.png",TF1
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
-
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/France_2_-_logo_2018.svg/1024px-France_2_-_logo_2018.svg.png",France 2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
-
+https://vavoo.to/vavoo-iptv/play/3118025835b0fa704b6345
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/France_3_-_logo_2018.svg/1280px-France_3_-_logo_2018.svg.png",France 3
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/flor.m3u8
-
+https://vavoo.to/vavoo-iptv/play/1568526820de51fc140eb
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/France_4_-_logo_2018.svg/1024px-France_4_-_logo_2018.svg.png",France 4
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
-
+https://vavoo.to/vavoo-iptv/play/28154726aea7337828a2
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/France_5_-_logo_2018.svg/1024px-France_5_-_logo_2018.svg.png",France 5
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
-
+https://vavoo.to/vavoo-iptv/play/2249823338273b7989b2e7
 #EXTINF:-1 tvg-id="M6.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_(2020%2C_fond_clair).svg/1024px-Logo_M6_(2020%2C_fond_clair).svg.png",M6
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
-
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",arte
 https://vavoo.to/vavoo-iptv/play/28525090523bed95eaf3d2
-
 #EXTINF:-1 group-title="France" tvg-id="LCP-AN.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_LCP-AN_%282019%29.svg/1024px-Logo_LCP-AN_%282019%29.svg.png",LCP-Public Sénat
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/res/lcp-dm-highest.m3u8
-
 #EXTINF:-1 tvg-id="W9.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/1024px-W9-Logo.svg.png",W9
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
-
 #EXTINF:-1 group-title="France" tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1024px-TMC_logo.svg.png" ,TMC
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
-
 #EXTINF:-1 group-title="France" tvg-id="TFX.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TFX_logo.svg/1024px-TFX_logo.svg.png" ,TFX
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
-
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",Gulli
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
-
 #EXTINF:-1 group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_BFMTV_2019.svg/1024px-Logo_BFMTV_2019.svg.png",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
-
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNews
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-clair-hd-highest.m3u8
-
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
-
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/1024px-Franceinfo.svg.png",franceinfo:
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
-
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CStar
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
-
 #EXTINF:-1 tvg-id="t18.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/1024px-Logo_de_la_chaine_T18.svg.png",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/res/t18-dm-highest.m3u8
-
 #EXTINF:-1 tvg-id="Novo19.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/1024px-Logo_NOVO19_-_2025.svg.png",Novo 19
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/novo19.ts
-
 #EXTINF:-1 group-title="France" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/1024px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" ,TF1 Séries Films
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
-
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'Équipe TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
-
 #EXTINF:-1 group-title="France" tvg-id="6ter.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" ,6ter
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
-
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC Story
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
-
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png",RMC Découverte
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
-
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 
 #EXTINF:-1 group-title="France" tvg-name="Paris Première" tvg-id="ParisPremiere.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ParisPremi%C3%A8re.webp" ,Paris Première
 https://vavoo.to/vavoo-iptv/play/21397590080b92bf1cb6f0
-
 #EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/RTL9-logo-2023.svg/1024px-RTL9-logo-2023.svg.png" group-title="France",RTL9
 https://vavoo.to/vavoo-iptv/play/2938874346d9ebff0900a2
-
 #EXTINF:-1 tvg-id="Teva.fr" tvg-name="Téva" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/T%C3%A9va_logo_2021.svg/1024px-T%C3%A9va_logo_2021.svg.png" group-title="France",Téva
 https://vavoo.to/vavoo-iptv/play/2221887416d7fbe08fe097
 
@@ -131,13 +100,10 @@ https://d3sp7wui50dz5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="France" tvg-id="BFMAlsace.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/BFM-Alsace.svg/1024px-BFM-Alsace.svg.png" ,BFM Alsace
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
-
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/vmqkmDB/moselle.jpg",Moselle TV
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/qkkHNPR/vosges.png",Vosges TV
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png",Puissance TV
 https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 
@@ -146,19 +112,14 @@ https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u
 
 #EXTINF:-1 tvg-id="TVE1.es" group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/1148px-Logo_La_1.svg.png" ,TVE 1
 https://vavoo.to/vavoo-iptv/play/20212916825bf1f08b6496
-
 #EXTINF:-1 tvg-id="TVE2.es" group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1097px-Logo_La_2.svg.png" ,TVE 2
 https://vavoo.to/vavoo-iptv/play/779986648a39769595123
-
 #EXTINF:-1 tvg-id="Antena3.es" group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1092px-Antena_3_2025_%28sin_wordmark%29.svg.png" ,Antena 3
 https://vavoo.to/vavoo-iptv/play/2255480833e01ee307061e
-
 #EXTINF:-1 tvg-id="Cuatro.es" group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1024px-Logotipo_de_Cuatro.svg.png",Cuatro
 https://vavoo.to/vavoo-iptv/play/4194733823af66ad33c883
-
 #EXTINF:-1 tvg-id="Telecinco.es" group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1024px-Telecinco.svg.png",Telecinco
 https://vavoo.to/vavoo-iptv/play/3530959720aaf7aac4561
-
 #EXTINF:-1 tvg-id="LaSexta.es" group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/LaSexta_2024_Logo.svg/827px-LaSexta_2024_Logo.svg.png" ,La Sexta
 https://vavoo.to/vavoo-iptv/play/2389016718049b6c216ad
 
@@ -167,13 +128,10 @@ https://vavoo.to/vavoo-iptv/play/28816684640315c1e26095
 
 #EXTINF:-1 tvg-id="ETB1.es" group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/1024px-ETB1_2022_logo.svg.png" ,ETB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-
 #EXTINF:-1 tvg-id="ETB2.es" group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1024px-ETB2_2022_logo.svg.png" ,ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-
 #EXTINF:-1 tvg-id="TVGalicia.es" group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" ,TV Galicia
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
-
 #EXTINF:-1 group-title="Espana" tvg-id="TV3cat.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/1214px-TV3.svg.png",TV3 Catalunya
 https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 
@@ -187,22 +145,16 @@ https://vavoo.to/vavoo-iptv/play/53159852814b98ea8c2fc
 
 #EXTINF:-1 tvg-id="Rai1.it" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_1_logo.svg/1024px-Rai_1_logo.svg.png",Rai 1
 https://vavoo.to/vavoo-iptv/play/875922788627becc98639
-
 #EXTINF:-1 tvg-id="Rai2.it" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rai_2_logo.svg/1024px-Rai_2_logo.svg.png",Rai 2
 https://vavoo.to/vavoo-iptv/play/1939210164cf0608420d67
-
 #EXTINF:-1 tvg-id="Rai3.it" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Rai_3_logo.svg/1024px-Rai_3_logo.svg.png",Rai 3
 https://vavoo.to/vavoo-iptv/play/1324733956dd45e42ab076
-
 #EXTINF:-1 tvg-id="Rete4.it" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/1040px-Rete_4_-_Logo_2018.svg.png" ,Rete 4
 https://vavoo.to/vavoo-iptv/play/4198218214cee07ebbc292
-
 #EXTINF:-1 tvg-id="Canale5.it" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/1222px-Canale_5_-_2018_logo.svg.png" ,Canale 5
 https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d
-
 #EXTINF:-1 tvg-id="It1.it" group-title="Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/1024px-Italia_1.svg.png" ,Italia 1
 https://vavoo.to/vavoo-iptv/play/663536394520458805ef6
-
 #EXTINF:-1 tvg-id="La7.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/1014px-LA7_-_Logo_2011.svg.png" group-title="Italia",La7
 https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 
@@ -213,37 +165,27 @@ https://vavoo.to/vavoo-iptv/play/2143522071cfa887e2feb3
 
 #EXTINF:-1 group-title="Germany" tvg-id="DasErste.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/1024px-Das_Erste_2014.svg.png" ,Das Erste
 https://vavoo.to/vavoo-iptv/play/550012320c466b1bd3788
-
 #EXTINF:-1 group-title="Germany" tvg-id="ZDF.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1024px-ZDF_logo.svg.png" ,ZDF
 https://vavoo.to/vavoo-iptv/play/28662925545be6c8be8ec1
-
 #EXTINF:-1 group-title="Germany" tvg-logo="https://i.ibb.co/Msmh0pG/rtlde.png",RTL
 https://vavoo.to/vavoo-iptv/play/27281196731bd935dafe5f
-
 #EXTINF:-1 tvg-id="SAT1.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png" ,SAT.1
 https://vavoo.to/vavoo-iptv/play/4122072531461dc41e3c84
-
 #EXTINF:-1 tvg-id="Pro7.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1024px-ProSieben_Logo_2015.svg.png" ,ProSieben
 https://vavoo.to/vavoo-iptv/play/3488435572cb9067893c14
-
 #EXTINF:-1 tvg-id="Kabel1.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/1024px-Kabel_eins_Logo_2015.svg.png" ,Kabel Eins
 https://vavoo.to/vavoo-iptv/play/3390031045c0fa916eb545
-
 #EXTINF:-1 tvg-id="RTLZwei.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/993px-RTLZWEI_Logo_2019.svg.png" ,RTL Zwei
 https://vavoo.to/vavoo-iptv/play/160203873fc8ecba6377a
-
 #EXTINF:-1 tvg-id="Vox.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOX_Logo_2013.svg/1024px-VOX_Logo_2013.svg.png" ,VOX
 https://vavoo.to/vavoo-iptv/play/1008785305d4c07777f6aa
-
 #EXTINF:-1 tvg-id="3sat.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/3sat_HD_2019.svg/1024px-3sat_HD_2019.svg.png" ,3sat
 https://vavoo.to/vavoo-iptv/play/3228877884bc18a7941f56
 
 #EXTINF:-1 tvg-id="SuperRTL.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTL_Super_Logo_2023.svg/1024px-RTL_Super_Logo_2023.svg.png" ,Super RTL
 https://vavoo.to/vavoo-iptv/play/186579221069b6651b2005
-
 #EXTINF:-1 tvg-id="Sixx.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/1024px-Sixx_Logo.svg.png" ,Sixx
 https://vavoo.to/vavoo-iptv/play/1018615269527a186c7ec8
-
 #EXTINF:-1 tvg-id="Pro7Maxx.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/1024px-ProSieben_MAXX_Logo.svg.png" ,ProSieben Maxx
 https://vavoo.to/vavoo-iptv/play/1793902345ba4e8f87b805
 
@@ -252,7 +194,6 @@ https://vavoo.to/vavoo-iptv/play/191691580637456ed75f1b
 
 #EXTINF:-1 tvg-id="RBB.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rbb_Logo_2017.08.svg/1024px-Rbb_Logo_2017.08.svg.png",RBB
 https://vavoo.to/vavoo-iptv/play/314975002001d5fb89693d
-
 #EXTINF:-1 tvg-id="SWR.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/1024px-SWR_Logo_2023.svg.png",SWR
 https://vavoo.to/vavoo-iptv/play/3399533194c0a562623742
 
@@ -260,7 +201,6 @@ https://vavoo.to/vavoo-iptv/play/3399533194c0a562623742
 
 #EXTINF:-1 group-title="Luxembourg" tvg-logo="https://i.ibb.co/VprDD5J/rtllux.png",RTL
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
-
 #EXTINF:-1 group-title="Luxembourg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/RTL_Zwee_2023.svg/1024px-RTL_Zwee_2023.svg.png",RTL Zwee
 https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
 
@@ -269,34 +209,23 @@ https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBC1.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1024px-BBC_One_logo_2021.svg.png" ,BBC One
 https://vavoo.to/vavoo-iptv/play/4708189018e7c80cde0eb
-
 #EXTINF:-1 tvg-id="BBC2.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/1024px-BBC_Two_logo_2021.svg.png" ,BBC Two
 https://vavoo.to/vavoo-iptv/play/2105758006567811414eb2
-
 #EXTINF:-1 tvg-id="ITV1.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1024px-ITV1_logo_%282022%29.svg.png" ,ITV1
 https://vavoo.to/vavoo-iptv/play/5761772265272ae71e9e2
-
 #EXTINF:-1 tvg-id="Channel4.uk" group-title="UK" tvg-logo=" https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/759px-Channel_4_%28On_Demand%29_2023.svg.png" ,Channel 4
 https://vavoo.to/vavoo-iptv/play/23201362494838efda8ca4
-
 #EXTINF:-1 tvg-id="Channel5.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/707px-Channel_5_%28UK%29_2016.svg.png" ,Channel 5
 https://vavoo.to/vavoo-iptv/play/30730039139f8c853a7789
 
 #EXTINF:-1 tvg-id="BBC3.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/1024px-BBC_Three_2022.svg.png" ,BBC Three
-#EXTVLCOPT:http-origin=http://vavoo.to
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-http://vavoo.to/play/589867492/index.m3u8
-
+https://vavoo.to/vavoo-iptv/play/5898674922cb86a04fcd0
 #EXTINF:-1 tvg-id="ITV2.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1024px-ITV2_logo_2022.svg.png" ,ITV2
 https://vavoo.to/vavoo-iptv/play/5898674922cb86a04fcd0
-
 #EXTINF:-1 tvg-id="BBC4.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/1024px-BBC_Four_logo_2021.svg.png" ,BBC Four
 https://vavoo.to/vavoo-iptv/play/108837268588b4d929f810
-
 #EXTINF:-1 tvg-id="ITV3.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1024px-ITV3_logo_2022.svg.png" ,ITV3
 https://vavoo.to/vavoo-iptv/play/537712899327b1f11eb82
-
 #EXTINF:-1 tvg-id="ITV4.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1024px-ITV4_logo_%282022%29.svg.png" ,ITV4
 https://vavoo.to/vavoo-iptv/play/2452358419bb547b9d6149
 
@@ -307,7 +236,6 @@ https://vavoo.to/vavoo-iptv/play/10913752025cf9b50049b7
 
 #EXTINF:-1 tvg-id="RTE1.ie" group-title="Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1024px-RT%C3%89_One_2014.svg.png" ,RTÉ One
 https://vavoo.to/vavoo-iptv/play/57775324480c0c61310de
-
 #EXTINF:-1 tvg-id="RTE2.ie" group-title="Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1024px-RT%C3%892_logo.svg.png" ,RTÉ Two
 https://vavoo.to/vavoo-iptv/play/170810836424b093307a3c
 
@@ -316,7 +244,6 @@ https://vavoo.to/vavoo-iptv/play/170810836424b093307a3c
 
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TVP_Info_%282024%29.svg/1024px-TVP_Info_%282024%29.svg.png",TVP Info
 https://vavoo.to/vavoo-iptv/play/3672476872f7eb95d78f28
-
 #EXTINF:-1 tvg-id="TVN24.pl" group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Tvn24_Logo.svg/799px-Tvn24_Logo.svg.png",TVN24
 https://vavoo.to/vavoo-iptv/play/3073846853201b5a0b884f
 
@@ -337,31 +264,22 @@ https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 
 #EXTINF:-1 group-title="Russia" EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png",Perviy Kanal
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-
 #EXTINF:-1 group-title="Russia" tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png",Rossiya 1
 https://vavoo.to/vavoo-iptv/play/37003946697e6f099ea610
-
 #EXTINF:-1 group-title="Russia" tvg-id="NTV.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1024px-NTV_logo_2003.svg.png",NTV
 https://vavoo.to/vavoo-iptv/play/3337128760a75a9d1ccea7
-
 #EXTINF:-1 group-title="Russia" tvg-id="Channel5.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/1024px-5-tv_logo_%282023%29.svg.png",5 Kanal
 https://vavoo.to/vavoo-iptv/play/118303099373624d397e2a
-
 #EXTINF:-1 group-title="Russia" tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/1024px-Rossiya-24_Logo.svg.png",Rossiya 24
 https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
-
 #EXTINF:-1 group-title="Russia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/1024px-Russia-Cultura.svg.png",Rossiya K
 https://vavoo.to/vavoo-iptv/play/3547554077a3cba35322b8
-
 #EXTINF:-1 group-title="Russia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/885px-REN_TV_logo_2017.svg.png",REN TV
 https://vavoo.to/vavoo-iptv/play/34179420655d6c9ac9ae28
-
 #EXTINF:-1 group-title="Russia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_%D0%A1%D0%A2%D0%A1_23-10-2017.png",STS
 https://vavoo.to/vavoo-iptv/play/255848970f673d5b0f311
-
 #EXTINF:-1 group-title="Russia" tvg-id="Friday.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg/1024px-%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg.png",Pyatnitsa!
 https://vavoo.to/vavoo-iptv/play/856449196a28cd55e042b
-
 #EXTINF:-1 group-title="Russia" tvg-id="TNT.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_tnt.png",TNT
 https://vavoo.to/vavoo-iptv/play/372108342920ebb0aa2a3f
 
@@ -396,13 +314,10 @@ https://daddylive.sx/stream/stream-835.php
 
 #EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-name="ABC (KABC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/KABC-TV-Logo-2021.png" group-title="USA",ABC L.A.
 https://tvpass.org/live/abc-kabc-los-angeles-ca/hd/|Referer=https://tvpass.org/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://tvpass.org
-
 #EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-name="CBSLA (KCBS) Los Angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CBS_Los_Angeles_logo.svg/1024px-CBS_Los_Angeles_logo.svg.png" group-title="USA",CBS L.A.
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd/|Referer=https://tvpass.org/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://tvpass.org
-
 #EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-name="FOX (KTTV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fts-los-angeles-a.svg/1024px-Fts-los-angeles-a.svg.png" group-title="USA",FOX L.A.
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd/|Referer=https://tvpass.org/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://tvpass.org
-
 #EXTINF:-1 tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-name="NBC (KNBC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KNBC_2023.svg/1024px-KNBC_2023.svg.png" group-title="USA",NBC LA..
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd/|Referer=https://tvpass.org/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://tvpass.org
 
@@ -410,13 +325,10 @@ https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd/|Referer=https://tvpass.org/|
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/WABC-TV-Logo-2021.png" group-title="USA",ABC N.Y.
 https://daddylive.sx/stream/stream-51.php
-
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CBS_New_York_logo.svg/1024px-CBS_New_York_logo.svg.png" group-title="USA",CBS N.Y.
 https://daddylive.sx/stream/stream-52.php
-
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/1024px-Fts-new-york-a.svg.png" group-title="USA",FOX N.Y.
 https://daddylive.sx/stream/stream-54.php
-
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WNBC_2023.svg/1024px-WNBC_2023.svg.png" group-title="USA",NBC N.Y.
 https://daddylive.sx/stream/stream-53.php
 
@@ -428,34 +340,24 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 
 #EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1024px-Comedy_Central_2018.svg.png" group-title="USA",Comedy Central
 https://daddylive.sx/stream/stream-310.php
-
 #EXTINF:-1 tvg-id="VICE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/1024px-Vice_TV_logo.svg.png" group-title="USA",Vice TV
 https://daddylive.sx/stream/stream-659.php
-
 #EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/FX_Networks_logo.svg/1278px-FX_Networks_logo.svg.png" group-title="USA",FX
 https://daddylive.sx/stream/stream-317.php
-
 #EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1280px-FXX_Logo.svg.png" group-title="USA",FXX
 https://daddylive.sx/stream/stream-298.php
-
 #EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="USA",HBO
 https://daddylive.sx/stream/stream-321.php
-
 #EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1024px-HBO2_logo.svg.png" group-title="USA",HBO2
 https://daddylive.sx/stream/stream-689.php
-
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Paramount%2B_with_Showtime_logo.svg/1024px-Paramount%2B_with_Showtime_logo.svg.png" group-title="USA",ShowTime
 https://daddylive.sx/stream/stream-334.php
-
 #EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/1024px-Showtime_2.svg.png" group-title="USA",ShowTime 2
 https://daddylive.sx/stream/stream-792.php
-
 #EXTINF:-1 group-title="USA" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-name="National Geographic",National Geographic
 https://daddylive.sx/stream/stream-328.php
-
 #EXTINF:-1 group-title="USA" tvg-id="National.Geographic.Wild.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" tvg-name="National Geographic Wild",National Geographic Wild
 https://daddylive.sx/stream/stream-745.php
-
 #EXTINF:-1 group-title="USA" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-name="Discovery Channel",Discovery Channel
 https://daddylive.sx/stream/stream-313.php
 
@@ -463,10 +365,8 @@ https://daddylive.sx/stream/stream-313.php
 
 #EXTINF:-1 tvg-id="CNN.us" group-title="Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1024px-CNN.svg.png",CNN
 https://daddylive.sx/stream/stream-345.php
-
 #EXTINF:-1 tvg-id="CNBC.USA.us" group-title="Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/961px-CNBC_logo.svg.png",CNBC
 https://daddylive.sx/stream/stream-309.php
-
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Channel_logo.png" group-title="Info",Fox News
 https://daddylive.sx/stream/stream-347.php
 
@@ -479,15 +379,14 @@ https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index.m3u8
 
 #EXTINF:-1 group-title="Info" tvg-id="EuronewsEN.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews EN
 https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
+
 #EXTINF:-1 group-title="Info" #EXTINF:-1 tvg-logo="https://i.ibb.co/sd7qf1w7/icirdiqb.png",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.ibb.co/Vt0XZKf/Cbcnews.png",CBC News
 https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1024px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="Info",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-
 #EXTINF:-1 group-title="Info" tvg-id="SkyNewsInternational.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png",Sky News
 #KODIPROP:inputstream=inputstream.adaptive
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
@@ -564,48 +463,38 @@ GH/a1xmedia/m3u/blob/main/a1x
 
 #EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg/1024px-RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg.png" group-title="Portugal",RTP Memória
 https://vavoo.to/vavoo-iptv/play/359484756863389f637100
-
 #EXTINF:-1 tvg-id="GameOne.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Game_One_%282024%29.svg/1024px-Logo_Game_One_%282024%29.svg.png" group-title="Lifestyle",Game One
 https://vavoo.to/vavoo-iptv/play/95927214794c633f7cf15
-
 #EXTINF:-1 tvg-id="SICRadical.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png",SIC Radical
 https://vavoo.to/vavoo-iptv/play/114997012299821ebfef73
-
 #EXTINF:-1 tvg-id="CanalQ.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Canal-Q.svg/revision/latest/scale-to-width-down/1000?cb=20180528000318" group-title="Portugal",Canal Q
 https://vavoo.to/vavoo-iptv/play/27670925185f9621be33b0
+
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/24Kitchen.svg/1024px-24Kitchen.svg.png" group-title="Lifestyle",24Kitchen Portugal
+https://vavoo.to/vavoo-iptv/play/217677844105372e6f7b94
+#EXTINF:-1 tvg-id="CazaECozinha.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" group-title="Lifestyle",Casa e Cozinha
+https://vavoo.to/vavoo-iptv/play/3354497993e05327d67195
 
 #EXTINF:-1 tvg-id="AMCBreak.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/1024px-AMC_Break.svg.png" group-title="Lifestyle",AMC Break
 https://vavoo.to/vavoo-iptv/play/1676049953943aabe65b98
 #EXTINF:-1 tvg-id="AMCCrime.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/1024px-AMC_Crime.svg.png" group-title="Lifestyle",AMC Crime
 https://vavoo.to/vavoo-iptv/play/20771957888051379ac4aa
 
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/24Kitchen.svg/1024px-24Kitchen.svg.png" group-title="Lifestyle",24Kitchen Portugal
-https://vavoo.to/vavoo-iptv/play/217677844105372e6f7b94
-
-#EXTINF:-1 tvg-id="CazaECozinha.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" group-title="Lifestyle",Casa e Cozinha
-https://vavoo.to/vavoo-iptv/play/3354497993e05327d67195
-
 #EXTINF:-1 tvg-id="Odisseia.pt" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vpyypr1462122978.png" group-title="Lifestyle",Odisseia
 https://vavoo.to/vavoo-iptv/play/21117855506273662f1163
-
 #EXTINF:-1 tvg-id="Historia.pt" tvg-logo="https://amcnetworks.pt/wp-content/uploads/2022/10/2022_HISTORIA_LOGO_HERO_3D_BLK_RGB.png" group-title="Lifestyle",História
 https://vavoo.to/vavoo-iptv/play/52553831439c933d566ef
-
 #EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1024px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Lifestyle",Discovery Channel Portugal
 https://vavoo.to/vavoo-iptv/play/78318791484a7ab86cea1
-
 #EXTINF:-1 tvg-id="NatGeo.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png" group-title="Lifestyle",National Geographic PT
 https://vavoo.to/vavoo-iptv/play/1196955352dcf13e1e10c5
-
 #EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1024px-National_Geographic_Wild_logo.svg.png" group-title="Lifestyle",Nat Geo Wild PT
 https://vavoo.to/vavoo-iptv/play/278568941d0da5f3a5da0
 
 #EXTINF:-1 tvg-id="Love.Nature.ca" tvg-name="Love Nature 4K" tvg-logo="https://i.ibb.co/SdSKhsj/love-nature-4k.png" group-title="Lifestyle",Love Nature 4K
 https://a1xs.vip/lovent4k
-
 #EXTINF:-1 tvg-id="travelxp.4K.de" tvg-name="Travelxp 4K" tvg-logo="https://i.ibb.co/GCKtvqn/Travelxp-4-K.png" group-title="Lifestyle",Travelxp 4K
 https://a1xs.vip/travelxpuhd
-
 #EXTINF:-1 tvg-id="HOME.4K.pl" tvg-name="HOME 4K" tvg-logo="https://i.ibb.co/kg6GPds2/Home4k.webp" group-title="Lifestyle",Home 4K
 https://a1xs.vip/home4k
 
@@ -614,16 +503,13 @@ https://vavoo.to/vavoo-iptv/play/27363886393b5b106b00d8
 
 #EXTINF:-1 tvg-id="Loupe4k" tvg-name="Loupe 4K" tvg-logo="https://i.ibb.co/RP5Kv3k/loupe.png" group-title="Lifestyle",Loupe 4K
 https://a1xs.vip/loupe4k
-
 #EXTINF:-1 tvg-id="MyZen.4K.ro" tvg-name="MyZen 4K" tvg-logo="https://i.imgur.com/GDZobhF.png" group-title="Lifestyle",MyZen 4K
 https://a1xs.vip/myzen4k
 
 #EXTINF:-1 tvg-id="Cacavision.pt" tvg-logo="https://www.pngkey.com/png/full/663-6635924_caca-png.png" group-title="Lifestyle", Caçavision
 https://vavoo.to/vavoo-iptv/play/36824777946514747ec085
-
 #EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/caca-e-pesca-pt.png" group-title="Lifestyle",Caça e Pesca
 https://vavoo.to/vavoo-iptv/play/700421686a2540175cb7b
-
 #EXTINF:-1 tvg-id="OneToro.es" group-title="Lifestyle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk_0uSCZ0xNsRXOROPxNc1ZOTZ_YjdSa3vMA&s.png",OneToro
 https://vavoo.to/vavoo-iptv/play/14422677057467d8eb959e
 
