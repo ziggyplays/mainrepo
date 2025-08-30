@@ -1,0 +1,392 @@
+# Portugal
+
+#EXTINF:-1 tvg-id="SportTV+.pt" group-title="Portugal",Sport TV+
+https://vavoo.to/vavoo-iptv/play/3862034077c5920f2e95e0
+#EXTINF:-1 tvg-id="SportTV1.pt" group-title="Portugal",Sport TV 1
+https://vavoo.to/vavoo-iptv/play/10004270647c8377fd8313
+#EXTINF:-1 tvg-id="SportTV2.pt" group-title="Portugal",Sport TV 2
+https://vavoo.to/vavoo-iptv/play/234468235087a9bf800929
+#EXTINF:-1 tvg-id="SportTV3.pt" group-title="Portugal",Sport TV 3
+https://vavoo.to/vavoo-iptv/play/3064015582353b13df33ce
+#EXTINF:-1 tvg-id="SportTV4.pt" group-title="Portugal",Sport TV 4
+https://vavoo.to/vavoo-iptv/play/7562619003d91faa3445
+#EXTINF:-1 tvg-id="SportTV5.pt" group-title="Portugal",Sport TV 5
+https://vavoo.to/vavoo-iptv/play/9711041268146231bc411
+#EXTINF:-1 tvg-id="SportTV6.pt" group-title="Portugal",Sport TV 6
+https://vavoo.to/vavoo-iptv/play/2118231470742cd8dad95f
+#EXTINF:-1 tvg-id="SportTV7.pt" group-title="Portugal",Sport TV 7
+https://vavoo.to/vavoo-iptv/play/112627203002ec33f64535
+
+#EXTINF:-1 tvg-id="DAZN1.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png",DAZN 1 Portugal
+https://vavoo.to/vavoo-iptv/play/1814987647cc86abe9688f
+#EXTINF:-1 tvg-id="DAZN2.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png",DAZN 2 Portugal
+https://vavoo.to/vavoo-iptv/play/73079031913541c41cf1a
+#EXTINF:-1 tvg-id="DAZN3.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png",DAZN 3 Portugal
+https://vavoo.to/vavoo-iptv/play/384749599d2900186aa89
+#EXTINF:-1 tvg-id="DAZN4.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png",DAZN 4 Portugal
+https://vavoo.to/vavoo-iptv/play/35239756417ae61956b571
+#EXTINF:-1 tvg-id="DAZN5.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/DAZN_5.png",DAZN 5 Portugal
+https://vavoo.to/vavoo-iptv/play/51390701566ef1d64c07c
+
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1053px-Logo_Canal_11_FPF.svg.png" group-title="Portugal",Canal 11
+https://vavoo.to/vavoo-iptv/play/199161253abd385871b30
+
+#EXTINF:-1 tvg-id="BTV.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/1024px-BTV_Red.svg.png" group-title="Portugal",Benfica TV
+https://vavoo.to/vavoo-iptv/play/419434034c29c7a3c7b07
+#EXTINF:-1 tvg-id="PortoCanal.pt" group-title="Portugal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XCbfQy-ZUKwIVNDr6JKlWPjr7lq8OTWBkA&s.png" ,Porto Canal
+https://vavoo.to/vavoo-iptv/play/5515073437274878805c3
+#EXTINF:-1 tvg-id="SportingTV.pt" group-title="Portugal",Sporting TV
+https://vavoo.to/vavoo-iptv/play/676691326908891eb462f
+
+
+# France
+
+#EXTINF:-1 tvg-id="BeIN1.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",BeIN Sports 1
+https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
+
+#EXTINF:-1 tvg-id="BeIN2.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",BeIN Sports 2
+https://zekonew.newkso.ru/zeko/premium117/mono.m3u8
+
+#EXTINF:-1 tvg-id="BeIN3.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",BeIN Sports 3
+https://zekonew.newkso.ru/zeko/premium118/mono.m3u8
+
+#EXTINF:-1 tvg-id="BeIN4.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 4
+https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8
+
+#EXTINF:-1 tvg-id="BeIN5.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 5
+https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
+
+#EXTINF:-1 tvg-id="BeIN6.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 6
+https://ddy6new.newkso.ru/ddy6/premium496/mono.m3u8
+
+#EXTINF:-1 tvg-id="BeIN7.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 7
+https://ddy6new.newkso.ru/ddy6/premium497/mono.m3u8
+
+#EXTINF:-1 tvg-id="BeIN8.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 8
+https://ddy6new.newkso.ru/ddy6/premium498/mono.m3u8
+
+#EXTINF:-1 tvg-id="BeIN9.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 9
+https://ddy6new.newkso.ru/ddy6/premium499/mono.m3u8
+
+#EXTINF:-1 tvg-id="BeIN10.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 10
+https://ddy6new.newkso.ru/ddy6/premium500/mono.m3u8
+
+#EXTINF:-1 tvg-id="CanalSport.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",Canal+ Sport
+https://windnew.newkso.ru/wind/premium122/mono.m3u8
+
+#EXTINF:-1 tvg-id="Canal360.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png",Canal+ Sport 360
+https://windnew.newkso.ru/wind/premium464/mono.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport1.fr" group-title="France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-1-fr.png",Eurosport 1 FR
+https://ddy6new.newkso.ru/ddy6/premium772/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="Eurosport2.fr" group-title="France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-2-fr.png",Eurosport 2 FR
+https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="SportenFrance.fr" group-title="France "tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8a/Sport_en_France_2L_RVB.png" ,Sport en France
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+
+
+# Canada French
+
+#EXTINF:-1 tvg-id="TVA.Sports.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-ca.png",TVA Sports
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium833%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+
+#EXTINF:-1 tvg-id="TVA.Sports.2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-2-ca.png" group-title="Canada",TVA Sports 2
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium834%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+
+#EXTINF:-1 tvg-id="RDS.ca" group-title="Canada",RDS
+https://dokko1new.newkso.ru/dokko1/premium839/mono.m3u8
+
+#EXTINF:-1 tvg-id="RDS2.ca" group-title="Canada",RDS2
+https://dokko1new.newkso.ru/dokko1/premium840/mono.m3u8
+
+#EXTINF:-1 tvg-id="RDSInfo.ca" group-title="Canada",RDS Info
+https://dokko1new.newkso.ru/dokko1/premium841/mono.m3u8
+
+# Canada English
+
+#EXTINF:-1 tvg-id="TSN1.ca" group-title="Canada",TSN1
+https://zekonew.newkso.ru/zeko/premium111/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"|Origin="https://forcedtoplay.xyz"
+
+#EXTINF:-1 tvg-id="TSN2.ca" group-title="Canada",TSN2
+https://zekonew.newkso.ru/zeko/premium112/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"|Origin="https://forcedtoplay.xyz"
+
+#EXTINF:-1 tvg-id="TSN3.ca" group-title="Canada",TSN3
+https://zekonew.newkso.ru/zeko/premium113/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"|Origin="https://forcedtoplay.xyz"
+
+#EXTINF:-1 tvg-id="TSN4.ca" group-title="Canada",TSN4
+https://zekonew.newkso.ru/zeko/premium114/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"|Origin="https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="TSN5.ca" group-title="Canada",TSN5
+https://zekonew.newkso.ru/zeko/premium115/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"|Origin="https://forcedtoplay.xyz"
+
+#EXTINF:-1 tvg-id="SNW.ca" group-title="Canada",Sportsnet West
+https://windnew.newkso.ru/wind/premium407/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"|Origin="https://forcedtoplay.xyz"
+
+#EXTINF:-1 tvg-id="SNE.ca" group-title="Canada",Sportsnet East
+https://windnew.newkso.ru/wind/premium408/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"|Origin="https://forcedtoplay.xyz"
+
+#EXTINF:-1 tvg-id="SNO.ca" group-title="Canada",Sportsnet Ontario
+https://windnew.newkso.ru/wind/premium406/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"|Origin="https://forcedtoplay.xyz"
+
+#EXTINF:-1 tvg-id="SNP.ca" group-title="Canada",Sportsnet Pacific
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://wikinew.newkso.ru/wiki/primasportsnetpacific/mono.m3u8
+
+#EXTINF:-1 tvg-id="SN1.ca" group-title="Canada",Sportsnet One
+https://zekonew.newkso.ru/zeko/premium411/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"|Origin="https://forcedtoplay.xyz"
+
+#EXTINF:-1 tvg-id="SN360.ca" group-title="Canada",Sportsnet 360
+https://zekonew.newkso.ru/zeko/premium409/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"|Origin="https://forcedtoplay.xyz"
+
+#EXTINF:-1 tvg-id="SNWO.ca" group-title="Canada",Sportsnet World
+https://windnew.newkso.ru/wind/premium410/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"|Origin="https://forcedtoplay.xyz"
+
+
+# USA
+
+#EXTINF:-1 tvg-id="SNNY.us" group-title="USA",Sportsnet New York
+https://zekonew.newkso.ru/zeko/premium759/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="SNPIT.us" group-title="USA",Sportsnet Pittsburgh
+https://nfsnew.newkso.ru/nfs/premium922/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png" group-title="USA",ESPN
+https://zekonew.newkso.ru/zeko/premium44/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png" group-title="USA",ESPN2
+https://windnew.newkso.ru/wind/premium45/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="ESPN.U.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-u-us.png" group-title="USA",ESPNU
+https://zekonew.newkso.ru/zeko/premium316/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="MSG.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/MSG_Network_logo.png" ,MSG
+https://zekonew.newkso.ru/zeko/premium765/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" group-title="USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tnt-us.png",TNT
+https://zekonew.newkso.ru/zeko/premium338/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="FOXS1.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1024px-2015_Fox_Sports_1_logo.svg.png",FOX Sports 1
+https://zekonew.newkso.ru/zeko/premium39/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="FOXS2.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1024px-FS2_logo_2015.svg.png",FOX Sports 2
+https://zekonew.newkso.ru/zeko/premium758/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-us.png" group-title="USA",CBS Sports Network
+https://zekonew.newkso.ru/zeko/premium308/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="CBS,Sports.Golazo.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-golazo-network-us.png" group-title="USA",CBS Sports Golazo
+https://zekonew.newkso.ru/zeko/premium910/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="NBCSBay.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1024px-NBC_Sports_2023.svg.png" ,NBC Sports Bay Area
+https://windnew.newkso.ru/wind/premium753/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="NBCSBoston.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1024px-NBC_Sports_2023.svg.png"  ,NBC Sports Boston
+https://windnew.newkso.ru/wind/premium754/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="NBCSCA.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1024px-NBC_Sports_2023.svg.png",NBC Sports California
+https://windnew.newkso.ru/wind/premium755/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="NBCSChicago.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1024px-NBC_Sports_2023.svg.png"  ,NBC Sports Chicago
+https://windnew.newkso.ru/wind/premium776/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="NBCSPhiladelphia.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1024px-NBC_Sports_2023.svg.png",NBC Sports Philadelphia
+https://zekonew.newkso.ru/zeko/premium777/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="NBCSWashington.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1024px-NBC_Sports_2023.svg.png",NBC Sports Washington
+https://dokko1new.newkso.ru/dokko1/premium778/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Detroit.HD.us" group-title="USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",FanDuel Sports Network Detroit
+https://zekonew.newkso.ru/zeko/premium891/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Florida.us" group-title="USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",FanDuel Sports Network Florida
+https://zekonew.newkso.ru/zeko/premium892/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Great.Lakes.us" tvg-logo="group-title="USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",FanDuel Sports Network Great Lakes
+https://zekonew.newkso.ru/zeko/premium893/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Indiana.us" group-title="USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",FanDuel Sports Network Indiana
+https://zekonew.newkso.ru/zeko/premium894/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Midwest.St..Louis.us" group-title="USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",FanDuel Sports Network Midwest
+https://zekonew.newkso.ru/zeko/premium896/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.North.us" group-title="USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",FanDuel Sports Network North
+https://zekonew.newkso.ru/zeko/premium898/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Ohio.-.Cleveland.us" group-title="USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",FanDuel Sports Network Ohio
+https://nfsnew.newkso.ru/nfs/premium899/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Oklahoma.us" group-title="USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",FanDuel Sports Network Oklahoma
+https://zekonew.newkso.ru/zeko/premium900/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.SoCal.us" group-title="USA" tvg-logo=https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",FanDuel Sports Network SoCal
+https://nfsnew.newkso.ru/nfs/premium902/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.South.us" group-title="USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",FanDuel Sports Network South
+https://nfsnew.newkso.ru/nfs/premium903/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Southeast.us" group-title="USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",FanDuel Sports Network Southeast
+https://zekonew.newkso.ru/zeko/premium904/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="Fanduel.Sports.Sun.us" group-title="USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",FanDuel Sports Network Sun
+https://zekonew.newkso.ru/zeko/premium905/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.West.us" group-title="USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",FanDuel Sports Network West
+https://nfsnew.newkso.ru/nfs/premium906/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://forcedtoplay.xyz
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Wisconsin.us" group-title="USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",FanDuel Sports Network Wisconsin
+https://nfsnew.newkso.ru/nfs/premium907/mono.m3u8|Referer=https://forcedtoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://forcedtoplay.xyz
+
+
+# Spain
+
+#EXTINF:-1 tvg-id="DAZN1.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png",DAZN 1 Espana
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+http://vavoo.to/play/2941093452/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN2.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png",DAZN 2 Espana
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+http://vavoo.to/play/3907910812/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN3.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png",DAZN 3 Espana
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NDcvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="DAZN4.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png",DAZN 4 Espana
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NDgvbW9uby5tM3U4.m3u8
+
+
+#EXTINF:-1 tvg-id="MoviD1.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Deportes
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzYvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="MoviD2.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Deportes 2
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzgvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="MoviLDC.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Deportes 3
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTI2L21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="MoviLDC.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Deportes 4
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTI3L21vbm8ubTN1OA==.m3u8
+
+
+# United Kingdom
+
+#EXTINF:-1 tvg-id="Skyarena.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png",Sky Sports Arena
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNi9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="SkyME.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png",Sky Sports Main Event
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOC9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",TNT Sports 1
+https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"|Origin="https://forcedtoplay.xyz"
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",TNT Sports 2
+https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"|Origin="https://forcedtoplay.xyz"
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",TNT Sports 3
+https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"|Origin="https://forcedtoplay.xyz"
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-title="UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png",TNT Sports 4
+https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8|User-Agent="Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0"|Referer="https://forcedtoplay.xyz/"|Origin="https://forcedtoplay.xyz"
+
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="UK",TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
+
+# Italy
+
+#EXTINF:-1 tvg-id="Skyarena.it" group-title="Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png",Sky Sports Arena Italia
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NjIvbW9uby5tM3U4.m3u8
+
+
+# Germany
+
+#EXTINF:-1 tvg-id="SkyTE.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png",Sky Sports Top Event DE
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTU2L21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="DAZN1.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1024px-DAZN_1_Logo.svg.png",DAZN 1 Deutschland
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+http://vavoo.to/play/263339334/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN2.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1024px-DAZN_2.svg.png",DAZN 2 Deutschland
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+http://vavoo.to/play/1209157526/index.m3u8
+
+
+# Poland
+
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-name="Eleven Sports 1 4K" tvg-logo="https://i.imgur.com/k6MErsv.png" group-title="Poland",Eleven Sports 1 4K
+https://a1xs.vip/14001
+
+
+# Russia
+
+#EXTINF:-1 tvg-id="KHL.ru" group-title="Russia" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cf/%D0%9A%D0%A5%D0%9B_%D0%A2%D0%92_%282021%29.svg/revision/latest/scale-to-width-down/220?cb=20210904092712&path-prefix=ru",KHL
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+http://vavoo.to/play/289085459/index.m3u8
+
+#EXTINF:-1 tvg-id="KHLPrime.ru" group-title="Russia" tvg-logo="https://ramnet.ru/tv/logo/000000711.png",KHL Prime
+#EXTVLCOPT:http-origin=http://vavoo.to
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+http://vavoo.to/play/2741559865/index.m3u8
+
+#EXTINF:-1 tvg-id="MatchTV.ru" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-ru.png" group-title="Russia",Match! TV
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMjcvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-boets-ru.png" group-title="Russia",Match! Boets
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzk1L21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-premier-ru.png" group-title="Russia",Match! Premier
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://mckfq-mainrepo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NzMvbW9uby5tM3U4.m3u8
