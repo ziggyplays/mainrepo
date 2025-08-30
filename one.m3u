@@ -31,7 +31,7 @@ https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3
 # France
 
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/1024px-Logo_TF1_2013.svg.png",TF1
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+https://vavoo.to/vavoo-iptv/play/2913521200ae11151a1fc4
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/France_2_-_logo_2018.svg/1024px-France_2_-_logo_2018.svg.png",France 2
 https://vavoo.to/vavoo-iptv/play/3118025835b0fa704b6345
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/France_3_-_logo_2018.svg/1280px-France_3_-_logo_2018.svg.png",France 3
@@ -69,7 +69,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/res/t18-dm
 #EXTINF:-1 tvg-id="Novo19.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/1024px-Logo_NOVO19_-_2025.svg.png",Novo 19
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/novo19.ts
 #EXTINF:-1 group-title="France" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/1024px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" ,TF1 Séries Films
-https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+https://vavoo.to/vavoo-iptv/play/1760063888f6e9e21d8039
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'Équipe TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
 #EXTINF:-1 group-title="France" tvg-id="6ter.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" ,6ter
