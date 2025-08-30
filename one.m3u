@@ -561,12 +561,16 @@ GH/a1xmedia/m3u/blob/main/a1x
 
 #EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg/1024px-RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg.png" group-title="Portugal",RTP Memória
 https://vavoo.to/vavoo-iptv/play/359484756863389f637100
+
 #EXTINF:-1 tvg-id="GameOne.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Game_One_%282024%29.svg/1024px-Logo_Game_One_%282024%29.svg.png" group-title="Lifestyle",Game One
 https://vavoo.to/vavoo-iptv/play/95927214794c633f7cf15
+
 #EXTINF:-1 tvg-id="SICRadical.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png",SIC Radical
-https://vavoo.to/vavoo-iptv/play/1788642980ad9a247245d
+https://vavoo.to/vavoo-iptv/play/114997012299821ebfef73
+
 #EXTINF:-1 tvg-id="CanalQ.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Canal-Q.svg/revision/latest/scale-to-width-down/1000?cb=20180528000318" group-title="Portugal",Canal Q
 https://vavoo.to/vavoo-iptv/play/27670925185f9621be33b0
+
 #EXTINF:-1 tvg-id="AMCBreak.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/1024px-AMC_Break.svg.png" group-title="Lifestyle",AMC Break
 https://vavoo.to/vavoo-iptv/play/1676049953943aabe65b98
 #EXTINF:-1 tvg-id="AMCCrime.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/1024px-AMC_Crime.svg.png" group-title="Lifestyle",AMC Crime
@@ -579,10 +583,10 @@ https://vavoo.to/vavoo-iptv/play/217677844105372e6f7b94
 https://vavoo.to/vavoo-iptv/play/3354497993e05327d67195
 
 #EXTINF:-1 tvg-id="Odisseia.pt" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vpyypr1462122978.png" group-title="Lifestyle",Odisseia
-https://vavoo.to/vavoo-iptv/play/892615341748ec31a1ac1
+https://vavoo.to/vavoo-iptv/play/21117855506273662f1163
 
 #EXTINF:-1 tvg-id="Historia.pt" tvg-logo="https://amcnetworks.pt/wp-content/uploads/2022/10/2022_HISTORIA_LOGO_HERO_3D_BLK_RGB.png" group-title="Lifestyle",História
-https://vavoo.to/vavoo-iptv/play/1471702249632c76c543a9
+https://vavoo.to/vavoo-iptv/play/52553831439c933d566ef
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1024px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Lifestyle",Discovery Channel Portugal
 https://vavoo.to/vavoo-iptv/play/78318791484a7ab86cea1
