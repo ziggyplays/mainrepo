@@ -100,15 +100,15 @@ https://daddylive.sx/stream/stream-841.php
 # Canada English
 
 #EXTINF:-1 tvg-id="TSN1.ca" group-title="Canada",TSN1
-https://daddylive.sx/stream/stream-111.php
+https://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="TSN2.ca" group-title="Canada",TSN2
-https://daddylive.sx/stream/stream-112.php
+https://fl5.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 tvg-id="TSN3.ca" group-title="Canada",TSN3
-https://daddylive.sx/stream/stream-113.php
+https://fl5.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1 tvg-id="TSN4.ca" group-title="Canada",TSN4
-https://daddylive.sx/stream/stream-114.php
+https://fl5.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" group-title="Canada",TSN5
-https://daddylive.sx/stream/stream-115.php
+https://fl5.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-id="SNW.ca" group-title="Canada",Sportsnet West
 https://daddylive.sx/stream/stream-407.php
