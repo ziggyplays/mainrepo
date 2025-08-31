@@ -200,10 +200,9 @@ https://vavoo.to/vavoo-iptv/play/3399533194c0a562623742
 # Luxembourg
 
 #EXTINF:-1 group-title="Luxembourg" tvg-logo="https://i.ibb.co/VprDD5J/rtllux.png",RTL
-https://mckfq-mytv.hf.space/proxy?url=hhttps://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8&h_user-agent=Mozilla/5.0&h_referer=https://www.rtl.lu
+https://vavoo.to/vavoo-iptv/play/1082703593c754bc53c802
 #EXTINF:-1 group-title="Luxembourg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/RTL_Zwee_2023.svg/1024px-RTL_Zwee_2023.svg.png",RTL Zwee
-https://mckfq-mytv.hf.space/proxy?url=https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8&h_user-agent=Mozilla/5.0&h_referer=https://www.rtl.lu
-
+https://vavoo.to/vavoo-iptv/play/35959086591b1805164683
 
 # United Kingdom
 
@@ -374,7 +373,7 @@ https://daddylive.sx/stream/stream-347.php
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 
 #EXTINF:-1 group-title="Info" tvg-id="NHKWorldJapan.jp" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NHK-World.png",NHK World Japan
-https://mckfq-mytv.hf.space/proxy?url=https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index.m3u8&h_user-agent=Mozilla/5.0
+https://vavoo.to/vavoo-iptv/play/545089696a5997218fba8
 
 #EXTINF:-1 group-title="Info" tvg-id="EuronewsEN.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews EN
 https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
@@ -387,8 +386,7 @@ https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1024px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="Info",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title="Info" tvg-id="SkyNewsInternational.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png",Sky News
-#KODIPROP:inputstream=inputstream.adaptive
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+https://vavoo.to/vavoo-iptv/play/1872744987a405ded802d1
 
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
