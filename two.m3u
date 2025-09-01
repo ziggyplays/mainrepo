@@ -91,24 +91,32 @@ https://daddylive.sx/stream/stream-833.php
 https://daddylive.sx/stream/stream-834.php
 
 #EXTINF:-1 tvg-id="RDS.ca" group-title="Canada",RDS
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36
 https://daddylive.sx/stream/stream-839.php
 #EXTINF:-1 tvg-id="RDS2.ca" group-title="Canada",RDS2
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36
 https://daddylive.sx/stream/stream-840.php
 #EXTINF:-1 tvg-id="RDSInfo.ca" group-title="Canada",RDS Info
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36
 https://daddylive.sx/stream/stream-841.php
 
 # Canada English
 
 #EXTINF:-1 tvg-id="TSN1.ca" group-title="Canada",TSN1
-https://tvpass.org/live/tsn1/hd
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36
+https://daddylive.sx/stream/stream-111.php
 #EXTINF:-1 tvg-id="TSN2.ca" group-title="Canada",TSN2
-https://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36
+https://daddylive.sx/stream/stream-112.php
 #EXTINF:-1 tvg-id="TSN3.ca" group-title="Canada",TSN3
-https://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36
+https://daddylive.sx/stream/stream-113.php
 #EXTINF:-1 tvg-id="TSN4.ca" group-title="Canada",TSN4
-https://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36
+https://daddylive.sx/stream/stream-114.php
 #EXTINF:-1 tvg-id="TSN5.ca" group-title="Canada",TSN5
-https://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36
+https://daddylive.sx/stream/stream-115.php
 
 #EXTINF:-1 tvg-id="SNW.ca" group-title="Canada",Sportsnet West
 https://daddylive.sx/stream/stream-407.php
