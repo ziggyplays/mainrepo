@@ -183,15 +183,6 @@ https://vavoo.to/vavoo-iptv/play/22160139276e7125bea400
 #EXTINF:-1 group-title="Switzerland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RTS_2_Logo_2023.svg/616px-RTS_2_Logo_2023.svg.png",RTS 2
 https://vavoo.to/vavoo-iptv/play/1024436493593104033698
 
-# Austria
-
-#EXTINF:-1 group-title="Switzerland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/1024px-ORF_1_2019.svg.png",ORF 1
-https://vavoo.to/vavoo-iptv/play/35062001543c55f8238023
-#EXTINF:-1 group-title="Switzerland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/1024px-ORF2_logo_n.svg.png",ORF 2
-https://vavoo.to/vavoo-iptv/play/25393982828293f11930d8
-#EXTINF:-1 group-title="Switzerland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/1024px-ORF_III_Logo_Monochrom.svg.png",ORF 3
-https://vavoo.to/vavoo-iptv/play/33544307137e27ad4a29ae
-
 # United Kingdom
 
 #EXTINF:-1 tvg-id="BBC1.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1024px-BBC_One_logo_2021.svg.png" ,BBC One
@@ -262,6 +253,14 @@ https://vavoo.to/vavoo-iptv/play/314975002001d5fb89693d
 #EXTINF:-1 tvg-id="SWR.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/1024px-SWR_Logo_2023.svg.png",SWR
 https://vavoo.to/vavoo-iptv/play/3399533194c0a562623742
 
+# Austria
+
+#EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/1024px-ORF_1_2019.svg.png",ORF 1
+https://vavoo.to/vavoo-iptv/play/35062001543c55f8238023
+#EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/1024px-ORF2_logo_n.svg.png",ORF 2
+https://vavoo.to/vavoo-iptv/play/25393982828293f11930d8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/1024px-ORF_III_Logo_Monochrom.svg.png",ORF 3
+https://vavoo.to/vavoo-iptv/play/33544307137e27ad4a29ae
 
 # Poland
 
