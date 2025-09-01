@@ -35,7 +35,7 @@ https://vavoo.to/vavoo-iptv/play/2913521200ae11151a1fc4
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/France_2_-_logo_2018.svg/1024px-France_2_-_logo_2018.svg.png",France 2
 https://vavoo.to/vavoo-iptv/play/3118025835b0fa704b6345
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/France_3_-_logo_2018.svg/1280px-France_3_-_logo_2018.svg.png",France 3
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-lorraine-highest.m3u8
+https://vavoo.to/vavoo-iptv/play/35330736891b9b36efb55f
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/France_4_-_logo_2018.svg/1024px-France_4_-_logo_2018.svg.png",France 4
 https://vavoo.to/vavoo-iptv/play/28154726aea7337828a2
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/France_5_-_logo_2018.svg/1024px-France_5_-_logo_2018.svg.png",France 5
@@ -92,18 +92,17 @@ https://vavoo.to/vavoo-iptv/play/2221887416d7fbe08fe097
 https://vavoo.to/vavoo-iptv/play/8378685409c0983cf95f4
 
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",France 24
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+https://vavoo.to/vavoo-iptv/play/2875346882997d9ca0e27e
 
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM Business
-https://d3sp7wui50dz5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxxit4lrci140/index.m3u8
+https://vavoo.to/vavoo-iptv/play/1945266328e8e437e6162d
 
 #EXTINF:-1 group-title="France" tvg-id="BFMAlsace.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/BFM-Alsace.svg/1024px-BFM-Alsace.svg.png" ,BFM Alsace
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
+https://vavoo.to/vavoo-iptv/play/32407529590081a502d69b
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/vmqkmDB/moselle.jpg",Moselle TV
-https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+https://vavoo.to/vavoo-iptv/play/919813798781bbe15e25e
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/qkkHNPR/vosges.png",Vosges TV
-https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+https://vavoo.to/vavoo-iptv/play/1942805126785ea6af8849
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png",Puissance TV
 https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 
