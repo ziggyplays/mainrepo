@@ -1,4 +1,4 @@
-#EXTM3U
+va#EXTM3U
 
 # Portugal
 
@@ -135,7 +135,7 @@ https://crtvg-europa.flumotion.cloud/playlist.m3u8
 https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 
 #EXTINF:-1 group-title="Espana" tvg-id="TVE24h.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/1200px-Logo_Canal_24_horas.svg.png",Canal 24 horas
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
+https://vavoo.to/vavoo-iptv/play/2123081752508683e51860
 
 #EXTINF:-1 tvg-id="TDP.es" group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",Teledeporte
 https://vavoo.to/vavoo-iptv/play/53159852814b98ea8c2fc
@@ -285,7 +285,7 @@ https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 # Russia
 
 #EXTINF:-1 group-title="Russia" EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png",Perviy Kanal
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+https://vavoo.to/vavoo-iptv/play/3816805706731251182a76
 #EXTINF:-1 group-title="Russia" tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png",Rossiya 1
 https://vavoo.to/vavoo-iptv/play/37003946697e6f099ea610
 #EXTINF:-1 group-title="Russia" tvg-id="NTV.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1024px-NTV_logo_2003.svg.png",NTV
@@ -293,7 +293,7 @@ https://vavoo.to/vavoo-iptv/play/3337128760a75a9d1ccea7
 #EXTINF:-1 group-title="Russia" tvg-id="Channel5.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/1024px-5-tv_logo_%282023%29.svg.png",5 Kanal
 https://vavoo.to/vavoo-iptv/play/118303099373624d397e2a
 #EXTINF:-1 group-title="Russia" tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/1024px-Rossiya-24_Logo.svg.png",Rossiya 24
-https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
+https://vavoo.to/vavoo-iptv/play/762353583ddde07aed73f
 #EXTINF:-1 group-title="Russia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/1024px-Russia-Cultura.svg.png",Rossiya K
 https://vavoo.to/vavoo-iptv/play/3547554077a3cba35322b8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/885px-REN_TV_logo_2017.svg.png",REN TV
@@ -511,24 +511,20 @@ https://vavoo.to/vavoo-iptv/play/1196955352dcf13e1e10c5
 https://vavoo.to/vavoo-iptv/play/278568941d0da5f3a5da0
 
 #EXTINF:-1 tvg-id="Love.Nature.ca" tvg-name="Love Nature 4K" tvg-logo="https://i.ibb.co/SdSKhsj/love-nature-4k.png" group-title="Lifestyle",Love Nature 4K
-https://a1xs.vip/lovent4k
+https://vavoo.to/vavoo-iptv/play/10782221721cd1db332b6b
 #EXTINF:-1 tvg-id="travelxp.4K.de" tvg-name="Travelxp 4K" tvg-logo="https://i.ibb.co/GCKtvqn/Travelxp-4-K.png" group-title="Lifestyle",Travelxp 4K
-https://a1xs.vip/travelxpuhd
-#EXTINF:-1 tvg-id="HOME.4K.pl" tvg-name="HOME 4K" tvg-logo="https://i.ibb.co/kg6GPds2/Home4k.webp" group-title="Lifestyle",Home 4K
-https://a1xs.vip/home4k
+https://vavoo.to/vavoo-iptv/play/945137817dd1576f7782b
 
 #EXTINF:-1 tvg-id="Museum.4k.fr" tvg-name="MUSEUM TV 4K" tvg-logo="https://i.imgur.com/a55LkwU.png" group-title="Lifestyle",Museum TV
 https://vavoo.to/vavoo-iptv/play/27363886393b5b106b00d8
 
-#EXTINF:-1 tvg-id="Loupe4k" tvg-name="Loupe 4K" tvg-logo="https://i.ibb.co/RP5Kv3k/loupe.png" group-title="Lifestyle",Loupe 4K
-https://a1xs.vip/loupe4k
 #EXTINF:-1 tvg-id="MyZen.4K.ro" tvg-name="MyZen 4K" tvg-logo="https://i.imgur.com/GDZobhF.png" group-title="Lifestyle",MyZen 4K
-https://a1xs.vip/myzen4k
+https://vavoo.to/vavoo-iptv/play/2233165627cefa09c11eba
 
 #EXTINF:-1 tvg-id="Cacavision.pt" tvg-logo="https://www.pngkey.com/png/full/663-6635924_caca-png.png" group-title="Lifestyle", Caçavision
 https://vavoo.to/vavoo-iptv/play/36824777946514747ec085
 #EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/caca-e-pesca-pt.png" group-title="Lifestyle",Caça e Pesca
-https://vavoo.to/vavoo-iptv/play/700421686a2540175cb7b
+https://vavoo.to/vavoo-iptv/play/39888517753ee87fb99de4
 #EXTINF:-1 tvg-id="OneToro.es" group-title="Lifestyle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk_0uSCZ0xNsRXOROPxNc1ZOTZ_YjdSa3vMA&s.png",OneToro
 https://vavoo.to/vavoo-iptv/play/14422677057467d8eb959e
 
