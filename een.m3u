@@ -1,4 +1,4 @@
-va#EXTM3U
+#EXTM3U
 
 # Portugal
 
@@ -126,13 +126,13 @@ https://vavoo.to/vavoo-iptv/play/2389016718049b6c216ad
 https://vavoo.to/vavoo-iptv/play/28816684640315c1e26095
 
 #EXTINF:-1 tvg-id="ETB1.es" group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/1024px-ETB1_2022_logo.svg.png" ,ETB 1
-https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+https://vavoo.to/vavoo-iptv/play/4016507507eeadd1cf3d69
 #EXTINF:-1 tvg-id="ETB2.es" group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1024px-ETB2_2022_logo.svg.png" ,ETB 2
-https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+https://vavoo.to/vavoo-iptv/play/2831642787f993799dbef8
 #EXTINF:-1 tvg-id="TVGalicia.es" group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" ,TV Galicia
-https://crtvg-europa.flumotion.cloud/playlist.m3u8
+https://vavoo.to/vavoo-iptv/play/26428661941c7a1978342f
 #EXTINF:-1 group-title="Espana" tvg-id="TV3cat.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/1214px-TV3.svg.png",TV3 Catalunya
-https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
+https://vavoo.to/vavoo-iptv/play/2235179797b72f603efdd6
 
 #EXTINF:-1 group-title="Espana" tvg-id="TVE24h.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/1200px-Logo_Canal_24_horas.svg.png",Canal 24 horas
 https://vavoo.to/vavoo-iptv/play/2123081752508683e51860
@@ -485,7 +485,7 @@ https://vavoo.to/vavoo-iptv/play/359484756863389f637100
 #EXTINF:-1 tvg-id="GameOne.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Game_One_%282024%29.svg/1024px-Logo_Game_One_%282024%29.svg.png" group-title="Lifestyle",Game One
 https://vavoo.to/vavoo-iptv/play/1479966396202ff806f8d8
 #EXTINF:-1 tvg-id="SICRadical.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png",SIC Radical
-https://vavoo.to/vavoo-iptv/play/114997012299821ebfef73
+https://vavoo.to/vavoo-iptv/play/1788642980ad9a247245d
 #EXTINF:-1 tvg-id="CanalQ.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Canal-Q.svg/revision/latest/scale-to-width-down/1000?cb=20180528000318" group-title="Portugal",Canal Q
 https://vavoo.to/vavoo-iptv/play/27670925185f9621be33b0
 
