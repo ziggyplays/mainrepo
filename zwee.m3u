@@ -90,24 +90,24 @@ https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyhQJF1YJBlTXz44W1csWD0sNDUjOl
 #EXTINF:-1 tvg-id="TVA.Sports.2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-2-ca.png" group-title="Canada",TVA Sports 2
 https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyhQJF1YJBlTXz44W1csWD0sNDUjOlQkWEUsCSgkJ1daXj9SDhQGOl8kWzkxVxQjAw==.m3u8
 
-#EXTINF:-1 tvg-id="RDS.ca" group-title="Canada",RDS
+#EXTINF:-1 tvg-id="RDS.ca" group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/RDS_logo.svg/1024px-RDS_logo.svg.png",RDS
 https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyhQJF1YJBlTXz44W1csWD0sNDUjOlQkWEUsCSgkJ1daXj9SDhQNOl8kWzkxVxQjAw==.m3u8
-#EXTINF:-1 tvg-id="RDS2.ca" group-title="Canada",RDS2
+#EXTINF:-1 tvg-id="RDS2.ca" group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Reseau_Des_Sport_2.svg/1024px-Reseau_Des_Sport_2.svg.png",RDS2
 https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyhQJF1YJBlTXz44W1csWD0sNDUjOlQkWEUsCSgkJ1daXj9SDhU6Ol8kWzkxVxQjAw==.m3u8
-#EXTINF:-1 tvg-id="RDSInfo.ca" group-title="Canada",RDS Info
+#EXTINF:-1 tvg-id="RDSInfo.ca" group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Rds_info.svg/1024px-Rds_info.svg.png",RDS Info
 https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyhQJF1YJBlTXz44W1csWD0sNDUjOlQkWEUsCSgkJ1daXj9SDhUFOl8kWzkxVxQjAw==.m3u8
 
 # Canada English
 
-#EXTINF:-1 tvg-id="TSN1.ca" group-title="Canada",TSN1
+#EXTINF:-1 tvg-id="TSN1.ca" group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/1024px-TSN1.svg.png",TSN1
 https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8EBBkyVzZaJDxaBj8L.m3u8
-#EXTINF:-1 tvg-id="TSN2.ca" group-title="Canada",TSN2
+#EXTINF:-1 tvg-id="TSN2.ca" group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/1024px-TSN2.svg.png",TSN2
 https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8EBBgyVzZaJDxaBj8L.m3u8
-#EXTINF:-1 tvg-id="TSN3.ca" group-title="Canada",TSN3
+#EXTINF:-1 tvg-id="TSN3.ca" group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/1024px-TSN3.svg.png",TSN3
 https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8EBBsyVzZaJDxaBj8L.m3u8
-#EXTINF:-1 tvg-id="TSN4.ca" group-title="Canada",TSN4
+#EXTINF:-1 tvg-id="TSN4.ca" group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1024px-TSN4.svg.png",TSN4
 https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8EBBoyVzZaJDxaBj8L.m3u8
-#EXTINF:-1 tvg-id="TSN5.ca" group-title="Canada",TSN5
+#EXTINF:-1 tvg-id="TSN5.ca" group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1024px-TSN5.svg.png",TSN5
 https://world-proxifier.xyz/ddy/proxy?url=XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8EBB0yVzZaJDxaBj8L.m3u8
 
 #EXTINF:-1 tvg-id="SNW.ca" group-title="Canada",Sportsnet West
