@@ -162,9 +162,9 @@ https://vavoo.to/vavoo-iptv/play/2143522071cfa887e2feb3
 
 # Luxembourg
 
-#EXTINF:-1 group-title="Luxembourg" tvg-logo="https://i.ibb.co/VprDD5J/rtllux.png",RTL
+#EXTINF:-1 group-title="Luxembourg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/luxembourg/rtl-letzebuerg-lu.png",RTL
 https://vavoo.to/vavoo-iptv/play/1082703593c754bc53c802
-#EXTINF:-1 group-title="Luxembourg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/RTL_Zwee_2023.svg/1024px-RTL_Zwee_2023.svg.png",RTL Zwee
+#EXTINF:-1 group-title="Luxembourg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/luxembourg/rtl-zwee-lu.png",RTL Zwee
 https://vavoo.to/vavoo-iptv/play/35959086591b1805164683
 
 # Belgium
