@@ -432,6 +432,10 @@ http://mytv.dothome.co.kr/ch/catv/7.php
 https://vavoo.to/vavoo-iptv/play/1556364158c79f762e7b57
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Logo_Mezzo_Live_%282023%29.svg/1024px-Logo_Mezzo_Live_%282023%29.svg.png" group-title="Music",Mezzo Live
 https://vavoo.to/vavoo-iptv/play/187506502594b281da82dc
+#EXTINF:-1 tvg-id="StingrayClassica.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Stingray_Classica_Alternative.svg/1024px-Stingray_Classica_Alternative.svg.png" group-title="Music",Stingray Classica
+https://vavoo.to/vavoo-iptv/play/3164307077695efa4093e2
+#EXTINF:-1 tvg-id="StingrayDjazz.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stingray_Djazz.svg/1024px-Stingray_Djazz.svg.png" group-title="Music",Stingray Djazz
+https://vavoo.to/vavoo-iptv/play/2990700903b86880cef0e5
 #EXTINF:-1 group-title="Music" tvg-id="MTV.pt" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" tvg-name="MTV",MTV Portugal
 https://vavoo.to/vavoo-iptv/play/35557164194cdcc75fb42f
 #EXTINF:-1 group-title="Music" tvg-id="MTV.Live.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" tvg-name="MTV Live",MTV Live
