@@ -220,9 +220,9 @@ https://a1xs.vip/2000031
 
 # Russia
 
-#EXTINF:-1 tvg-id="KHL.ru" group-title="Russia" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cf/%D0%9A%D0%A5%D0%9B_%D0%A2%D0%92_%282021%29.svg/revision/latest/scale-to-width-down/220?cb=20210904092712&path-prefix=ru",KHL
+#EXTINF:-1 tvg-id="KHL.ru" group-title="Russia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/khl-ru.png",KHL
 https://vavoo.to/vavoo-iptv/play/2890854598f5b804149c2
-#EXTINF:-1 tvg-id="KHLPrime.ru" group-title="Russia" tvg-logo="https://ramnet.ru/tv/logo/000000711.png",KHL Prime
+#EXTINF:-1 tvg-id="KHLPrime.ru" group-title="Russia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/khl-prime-ru.png",KHL Prime
 https://vavoo.to/vavoo-iptv/play/274155986507fa3db19108
 
 #EXTINF:-1 tvg-id="MatchTV.ru" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-ru.png" group-title="Russia",Match! TV
