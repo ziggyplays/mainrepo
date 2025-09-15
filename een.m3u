@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/can
 #EXTINF:-1 tvg-id="t18.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/1024px-Logo_de_la_chaine_T18.svg.png",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/res/t18-dm-highest.m3u8
 #EXTINF:-1 tvg-id="Novo19.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/1024px-Logo_NOVO19_-_2025.svg.png",Novo 19
-https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.m3u8
+https://mckfq-mytv.hf.space/proxy?url=https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 #EXTINF:-1 group-title="France" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/1024px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" ,TF1 Séries Films
 https://vavoo.to/vavoo-iptv/play/1760063888f6e9e21d8039
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'Équipe TV
@@ -401,9 +401,9 @@ https://vavoo.to/vavoo-iptv/play/545089696a5997218fba8
 https://vavoo.to/vavoo-iptv/play/18459860014a4e14255cf
 
 #EXTINF:-1 group-title="Info" #EXTINF:-1 tvg-logo="https://i.ibb.co/sd7qf1w7/icirdiqb.png",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+https://mckfq-mytv.hf.space/proxy?url=https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.ibb.co/Vt0XZKf/Cbcnews.png",CBC News
-https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
+https://mckfq-mytv.hf.space/proxy?url=https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1024px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="Info",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
