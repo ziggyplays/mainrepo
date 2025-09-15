@@ -122,7 +122,7 @@ https://vavoo.to/vavoo-iptv/play/3530959720aaf7aac4561
 #EXTINF:-1 tvg-id="LaSexta.es" group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/LaSexta_2024_Logo.svg/827px-LaSexta_2024_Logo.svg.png" ,La Sexta
 https://vavoo.to/vavoo-iptv/play/2389016718049b6c216ad
 
-#EXTINF:-1 tvg-id="Movistar+.es" group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/1024px-Movistar_Plus%2B_2022_logo.svg.png" ,Movistar+
+#EXTINF:-1 tvg-id="Movistar+.es" group-title="Espana" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-plus-es.png" ,Movistar+
 https://vavoo.to/vavoo-iptv/play/28816684640315c1e26095
 
 #EXTINF:-1 tvg-id="ETB1.es" group-title="Espana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/1024px-ETB1_2022_logo.svg.png" ,ETB 1
@@ -233,7 +233,7 @@ https://vavoo.to/vavoo-iptv/play/3488435572cb9067893c14
 https://vavoo.to/vavoo-iptv/play/3390031045c0fa916eb545
 #EXTINF:-1 tvg-id="RTLZwei.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/993px-RTLZWEI_Logo_2019.svg.png" ,RTL Zwei
 https://vavoo.to/vavoo-iptv/play/160203873fc8ecba6377a
-#EXTINF:-1 tvg-id="Vox.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOX_Logo_2013.svg/1024px-VOX_Logo_2013.svg.png" ,VOX
+#EXTINF:-1 tvg-id="Vox.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/vox-de.png" ,VOX
 https://vavoo.to/vavoo-iptv/play/1008785305d4c07777f6aa
 #EXTINF:-1 tvg-id="3sat.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/3sat_HD_2019.svg/1024px-3sat_HD_2019.svg.png" ,3sat
 https://vavoo.to/vavoo-iptv/play/3228877884bc18a7941f56
@@ -242,7 +242,7 @@ https://vavoo.to/vavoo-iptv/play/3228877884bc18a7941f56
 https://vavoo.to/vavoo-iptv/play/186579221069b6651b2005
 #EXTINF:-1 tvg-id="Sixx.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/1024px-Sixx_Logo.svg.png" ,Sixx
 https://vavoo.to/vavoo-iptv/play/1018615269527a186c7ec8
-#EXTINF:-1 tvg-id="Pro7Maxx.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/1024px-ProSieben_MAXX_Logo.svg.png" ,ProSieben Maxx
+#EXTINF:-1 tvg-id="Pro7Maxx.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/pro-sieben-maxx-de.png" ,ProSieben Maxx
 https://vavoo.to/vavoo-iptv/play/1793902345ba4e8f87b805
 
 #EXTINF:-1 tvg-id="ntv.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/1024px-N-tv_logo-september2017.svg.png",n-tv
@@ -250,7 +250,7 @@ https://vavoo.to/vavoo-iptv/play/191691580637456ed75f1b
 
 #EXTINF:-1 tvg-id="RBB.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rbb_Logo_2017.08.svg/1024px-Rbb_Logo_2017.08.svg.png",RBB
 https://vavoo.to/vavoo-iptv/play/314975002001d5fb89693d
-#EXTINF:-1 tvg-id="SWR.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/1024px-SWR_Logo_2023.svg.png",SWR
+#EXTINF:-1 tvg-id="SWR.de" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/swr-de.png",SWR
 https://vavoo.to/vavoo-iptv/play/3399533194c0a562623742
 
 # Austria
@@ -361,7 +361,7 @@ https://world-proxifier.xyz/ddy/p/XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl5ROjgvX0
 
 #EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="USA",Comedy Central
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GBCYyVzZaJDxaBj8L/index.m3u8
-#EXTINF:-1 tvg-id="VICE.us" tvg-logo="hhttps://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/vice-us.png" group-title="USA",Vice TV
+#EXTINF:-1 tvg-id="VICE.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/vice-us.png" group-title="USA",Vice TV
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQJF1YJBlTXz44W1csWD0sNDUjOlQkWEUsCSgkJ1daXj9SDBINOl8kWzkxVxQjAw==/index.m3u8
 #EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png" group-title="USA",FX
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GBB8yVzZaJDxaBj8L/index.m3u8
@@ -509,9 +509,9 @@ https://vavoo.to/vavoo-iptv/play/21117855506273662f1163
 https://vavoo.to/vavoo-iptv/play/52553831439c933d566ef
 #EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/discovery-channel-es.png" group-title="Lifestyle",Discovery Channel Portugal
 https://vavoo.to/vavoo-iptv/play/78318791484a7ab86cea1
-#EXTINF:-1 tvg-id="NatGeo.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png" group-title="Lifestyle",National Geographic PT
+#EXTINF:-1 tvg-id="NatGeo.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/national-geographic-hd-es.png" group-title="Lifestyle",National Geographic PT
 https://vavoo.to/vavoo-iptv/play/1196955352dcf13e1e10c5
-#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1024px-National_Geographic_Wild_logo.svg.png" group-title="Lifestyle",Nat Geo Wild PT
+#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/national-geographic-wild-hd-es.png" group-title="Lifestyle",Wild National Geographic PT
 https://vavoo.to/vavoo-iptv/play/278568941d0da5f3a5da0
 
 #EXTINF:-1 tvg-id="Love.Nature.ca" tvg-name="Love Nature 4K" tvg-logo="https://i.ibb.co/SdSKhsj/love-nature-4k.png" group-title="Lifestyle",Love Nature 4K
