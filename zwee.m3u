@@ -2,21 +2,21 @@
 
 # Portugal
 
-#EXTINF:-1 tvg-id="SportTV+.pt" group-title="Portugal",Sport TV+
+#EXTINF:-1 tvg-id="SportTV+.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-mais-pt.png" group-title="Portugal",Sport TV+
 https://vavoo.to/vavoo-iptv/play/3862034077c5920f2e95e0
-#EXTINF:-1 tvg-id="SportTV1.pt" group-title="Portugal",Sport TV 1
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-1-pt.png" group-title="Portugal",Sport TV 1
 https://vavoo.to/vavoo-iptv/play/3966581533812bd3be6382
-#EXTINF:-1 tvg-id="SportTV2.pt" group-title="Portugal",Sport TV 2
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-2-pt.png" group-title="Portugal",Sport TV 2
 https://vavoo.to/vavoo-iptv/play/234468235087a9bf800929
-#EXTINF:-1 tvg-id="SportTV3.pt" group-title="Portugal",Sport TV 3
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-3-pt.png" group-title="Portugal",Sport TV 3
 https://vavoo.to/vavoo-iptv/play/3064015582353b13df33ce
-#EXTINF:-1 tvg-id="SportTV4.pt" group-title="Portugal",Sport TV 4
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-4-pt.png" group-title="Portugal",Sport TV 4
 https://vavoo.to/vavoo-iptv/play/3508326983f5dc4f61f1cb
-#EXTINF:-1 tvg-id="SportTV5.pt" group-title="Portugal",Sport TV 5
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-5-pt.png" group-title="Portugal",Sport TV 5
 https://vavoo.to/vavoo-iptv/play/9711041268146231bc411
-#EXTINF:-1 tvg-id="SportTV6.pt" group-title="Portugal",Sport TV 6
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-6-pt.png" group-title="Portugal",Sport TV 6
 https://vavoo.to/vavoo-iptv/play/2118231470742cd8dad95f
-#EXTINF:-1 tvg-id="SportTV7.pt" group-title="Portugal",Sport TV 7
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-logo="https://epg.pw/media/images/epg/2024/12/11/20241211020550349483_47.png" group-title="Portugal",Sport TV 7
 https://vavoo.to/vavoo-iptv/play/112627203002ec33f64535
 
 #EXTINF:-1 tvg-id="DAZN1.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png",DAZN 1 Portugal
@@ -193,9 +193,9 @@ https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8HBh4yVzZaJDxaBj8L/index.m3u8
 #EXTINF:-1 tvg-id="MoviD3.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Deportes 3
 https://vavoo.to/vavoo-iptv/play/24287792447d19205dbe2c
-#EXTINF:-1 tvg-id="MoviD4.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Deportes 4
+#EXTINF:-1 tvg-id="MoviD4.es" group-title="Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png",Movistar Deportes 4
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQJF1YJBlTXz44W1csWD0sNDUjOlQkWEUsCSgkJ1daXj9SDRcDOl8kWzkxVxQjAw==/index.m3u8
-#EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/movistar-laliga.png" group-title="Spain",Movistar Laliga
+#EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="Spain",Movistar Laliga
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl5ROjgvX0hfIl8DBydSKUklOV8GIh4=/index.m3u8
 
 
