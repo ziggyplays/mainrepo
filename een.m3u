@@ -312,84 +312,10 @@ https://vavoo.to/vavoo-iptv/play/2045635278962af29ba91e
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 
 
-# Canada
-
-#EXTINF:-1 tvg-id="CBC.(CBLT).Toronto,.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png" group-title="Canada",CBC
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQJF1YJBlTXz44W1csWD0sNDUjOlQkWEUsCSgkJ1daXj9SDhQEOl8kWzkxVxQjAw==/index.m3u8
-
-#EXTINF:-1 tvg-id="CTV.(CFCN).Calgary,.AB.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/1024px-CTV_logo_2018.svg.png" group-title="Canada",CTV
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8BOxgyVzZaJDxaBj8L/index.m3u8
-#EXTINF:-1 tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/1024px-CTV_2_2018.svg.png" group-title="Canada",CTV 2
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUzBbAwMDOkcsVjY4WgMiAw==/index.m3u8
-
-#EXTINF:-1 tvg-id="Global.BC.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/global-ca.png" group-title="Canada",Global
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQJF1YJBlTXz44W1csWD0sNDUjOlQkWEUsCSgkJ1daXj9SDhQAOl8kWzkxVxQjAw==/index.m3u8
-
-#EXTINF:-1 tvg-id="Noovo.(CFJP).Montreal,.QC.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Noovo_logo.svg/1024px-Noovo_logo.svg.png" group-title="Canada",Noovo
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQJF1YJBlTXz44W1csWD0sNDUjOlQkWEUsCSgkJ1daXj9SDhQBOl8kWzkxVxQjAw==/index.m3u8
-
-
-# USA
-
-# Western Feed - L.A. TV Pass
-
-#EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-name="ABC (KABC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/KABC-TV-Logo-2021.png" group-title="USA",ABC L.A.
-https://tvpass.org/live/abc-kabc-los-angeles-ca/hd/|Referer=https://tvpass.org/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://tvpass.org
-#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-name="CBSLA (KCBS) Los Angeles" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="USA",CBS L.A.
-https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd/|Referer=https://tvpass.org/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://tvpass.org
-#EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-name="FOX (KTTV)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png" group-title="USA",FOX L.A.
-https://tvpass.org/live/fox-kttv-los-angeles-ca/hd/|Referer=https://tvpass.org/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://tvpass.org
-#EXTINF:-1 tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-name="NBC (KNBC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KNBC_2023.svg/1024px-KNBC_2023.svg.png" group-title="USA",NBC LA..
-https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd/|Referer=https://tvpass.org/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://tvpass.org
-
-# Eastern Feed - N.Y.
-
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/WABC-TV-Logo-2021.png" group-title="USA",ABC N.Y.
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8ABCdSKUklOV8GIh4=/index.m3u8
-#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png" group-title="USA",CBS N.Y.
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8CAR8yVzZaJDxaBj8L/index.m3u8
-#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png" group-title="USA",FOX N.Y.
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8CAR4yVzZaJDxaBj8L/index.m3u8
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WNBC_2023.svg/1024px-WNBC_2023.svg.png" group-title="USA",NBC N.Y.
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8CAREyVzZaJDxaBj8L/index.m3u8
-
-#EXTINF:-1 tvg-id="PBS.-.Network.HD.-.Eastern.us" tvg-name="PBS (WNET) New York, NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1024px-PBS_logo_2019.svg.png" group-title="USA",PBS
-https://daddylive.sx/stream/stream-210.php
-
-#EXTINF:-1 group-title="USA" tvg-id="C-SPAN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" tvg-name="C-SPAN",C-SPAN
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl5ROjgvX0hfIl8CACYyVzZaJDxaBj8L/index.m3u8
-
-#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="USA",Comedy Central
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GBCYyVzZaJDxaBj8L/index.m3u8
-#EXTINF:-1 tvg-id="VICE.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/vice-us.png" group-title="USA",Vice TV
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQJF1YJBlTXz44W1csWD0sNDUjOlQkWEUsCSgkJ1daXj9SDBINOl8kWzkxVxQjAw==/index.m3u8
-#EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png" group-title="USA",FX
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GBB8yVzZaJDxaBj8L/index.m3u8
-#EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png" group-title="USA",FXX
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQUSsBW08kNElTLF0gJCQvLyhQUSsBOjgvX0hfIl8FDB4yVzZaJDxaBj8L/index.m3u8
-#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png" group-title="USA",HBO
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GBRkyVzZaJDxaBj8L/index.m3u8
-#EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-2-us.png" group-title="USA",HBO2
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUzBbAQYMOkcsVjY4WgMiAw==/index.m3u8
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Paramount%2B_with_Showtime_logo.svg/1024px-Paramount%2B_with_Showtime_logo.svg.png" group-title="USA",ShowTime
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl5ROjgvX0hfIl8GBhsyVzZaJDxaBj8L/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/1024px-Showtime_2.svg.png" group-title="USA",ShowTime 2
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8CDBgyVzZaJDxaBj8L/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-name="National Geographic",National Geographic
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GBR4yVzZaJDxaBj8L/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="National.Geographic.Wild.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" tvg-name="National Geographic Wild",National Geographic Wild
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8CBx0yVzZaJDxaBj8L/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-name="Discovery Channel",Discovery Channel
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GBBsyVzZaJDxaBj8L/index.m3u8
-
 # Info
 
-#EXTINF:-1 tvg-id="CNN.us" group-title="Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1024px-CNN.svg.png",CNN
+#EXTINF:-1 tvg-id="CNN.us" group-title="Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1024px-CNN.svg.png",CNN USA
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUzBbBgIAOkcsVjY4WgMiAw==/index.m3u8
-#EXTINF:-1 tvg-id="CNBC.USA.us" group-title="Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/961px-CNBC_logo.svg.png",CNBC
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GOxEyVzZaJDxaBj8L/index.m3u8
-#EXTINF:-1 tvg-id="Fox.News.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Channel_logo.png" group-title="Info",Fox News
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GBx8yVzZaJDxaBj8L/index.m3u8
 
 #EXTINF:-1 group-title="Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1024px-CNN_International_logo.svg.png",CNN International
 https://vavoo.to/vavoo-iptv/play/19625673545bc5198c7aa6
@@ -482,7 +408,6 @@ https://vavoo.to/vavoo-iptv/play/4154938214b3c7d6235f2a
 
 
 # Lifestyle
-GH/a1xmedia/m3u/blob/main/a1x
 
 #EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg/1024px-RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg.png" group-title="Portugal",RTP Memória
 https://vavoo.to/vavoo-iptv/play/359484756863389f637100
@@ -534,3 +459,149 @@ https://vavoo.to/vavoo-iptv/play/14422677057467d8eb959e
 
 #EXTINF:-1 tvg-id="JDCV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/RMC_S00334306_program_logo.png" group-title="Lifestyle",J'irai dormir chez vous
 https://dwsx9zc2hxqhl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-k0j7zahecxb3y/index.m3u8
+
+
+# Sports Europe
+
+# Portugal
+
+#EXTINF:-1 tvg-id="SportTV+.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-mais-pt.png" group-title="Portugal",Sport TV+
+https://vavoo.to/vavoo-iptv/play/3862034077c5920f2e95e0
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-1-pt.png" group-title="Portugal",Sport TV 1
+https://vavoo.to/vavoo-iptv/play/3966581533812bd3be6382
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-2-pt.png" group-title="Portugal",Sport TV 2
+https://vavoo.to/vavoo-iptv/play/234468235087a9bf800929
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-3-pt.png" group-title="Portugal",Sport TV 3
+https://vavoo.to/vavoo-iptv/play/3064015582353b13df33ce
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-4-pt.png" group-title="Portugal",Sport TV 4
+https://vavoo.to/vavoo-iptv/play/3508326983f5dc4f61f1cb
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-5-pt.png" group-title="Portugal",Sport TV 5
+https://vavoo.to/vavoo-iptv/play/9711041268146231bc411
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-6-pt.png" group-title="Portugal",Sport TV 6
+https://vavoo.to/vavoo-iptv/play/2118231470742cd8dad95f
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-logo="https://epg.pw/media/images/epg/2024/12/11/20241211020550349483_47.png" group-title="Portugal",Sport TV 7
+https://vavoo.to/vavoo-iptv/play/112627203002ec33f64535
+
+#EXTINF:-1 tvg-id="DAZN1.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png",DAZN 1 Portugal
+https://vavoo.to/vavoo-iptv/play/32945729021dd84aa61c3c
+#EXTINF:-1 tvg-id="DAZN2.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png",DAZN 2 Portugal
+https://vavoo.to/vavoo-iptv/play/419040949ddea38c105bd
+#EXTINF:-1 tvg-id="DAZN3.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png",DAZN 3 Portugal
+https://vavoo.to/vavoo-iptv/play/63085952504af605dfe1b
+#EXTINF:-1 tvg-id="DAZN4.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png",DAZN 4 Portugal
+https://vavoo.to/vavoo-iptv/play/25456135892e06791c206b
+#EXTINF:-1 tvg-id="DAZN5.pt" group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/DAZN_5.png",DAZN 5 Portugal
+https://vavoo.to/vavoo-iptv/play/28664674930389a91efe86
+
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-logo= "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/canal11-pt.png" group-title="Portugal",Canal 11
+https://vavoo.to/vavoo-iptv/play/199161253abd385871b30
+
+#EXTINF:-1 tvg-id="ABola.pt" tvg-logo= "https://static.wikia.nocookie.net/logopedia/images/b/b2/A_Bola_TV_logo.png/revision/latest?cb=20131129194554" group-title="Portugal",A Bola TV
+https://vavoo.to/vavoo-iptv/play/186535245741ba973dc10b
+
+#EXTINF:-1 tvg-id="BTV.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/1024px-BTV_Red.svg.png" group-title="Portugal",Benfica TV
+https://vavoo.to/vavoo-iptv/play/419434034c29c7a3c7b07
+#EXTINF:-1 tvg-id="PortoCanal.pt" group-title="Portugal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XCbfQy-ZUKwIVNDr6JKlWPjr7lq8OTWBkA&s.png" ,Porto Canal
+https://vavoo.to/vavoo-iptv/play/5515073437274878805c3
+#EXTINF:-1 tvg-id="SportingTV.pt" group-title="Portugal",Sporting TV
+https://vavoo.to/vavoo-iptv/play/676691326908891eb462f
+
+
+# France
+
+#EXTINF:-1 tvg-id="BeIN1.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",BeIN Sports 1
+https://vavoo.to/vavoo-iptv/play/38449168821b069f8d9798
+#EXTINF:-1 tvg-id="BeIN2.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",BeIN Sports 2
+https://vavoo.to/vavoo-iptv/play/27271322266c34c78c9b73
+#EXTINF:-1 tvg-id="BeIN3.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",BeIN Sports 3
+https://vavoo.to/vavoo-iptv/play/2683082226fbcf85179319
+#EXTINF:-1 tvg-id="BeIN4.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 4
+https://vavoo.to/vavoo-iptv/play/4250355899d0f70fa7fb88
+#EXTINF:-1 tvg-id="BeIN5.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 5
+https://vavoo.to/vavoo-iptv/play/322485479502e16bc7aebe
+#EXTINF:-1 tvg-id="BeIN6.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 6
+https://vavoo.to/vavoo-iptv/play/2274827227027ffe1c81ab
+#EXTINF:-1 tvg-id="BeIN7.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 7
+https://vavoo.to/vavoo-iptv/play/31367624755783abcdef98
+#EXTINF:-1 tvg-id="BeIN8.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 8
+https://vavoo.to/vavoo-iptv/play/95051103496c7d8966d04
+#EXTINF:-1 tvg-id="BeIN9.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 9
+https://vavoo.to/vavoo-iptv/play/96963594a9e24bfa368c
+#EXTINF:-1 tvg-id="BeIN10.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 10
+https://vavoo.to/vavoo-iptv/play/3800425623400df20f1836
+
+#EXTINF:-1 tvg-id="CanalSport.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",Canal+ Sport
+https://vavoo.to/vavoo-iptv/play/2391290436f997307577fc
+#EXTINF:-1 tvg-id="Canal360.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png",Canal+ Sport 360
+https://vavoo.to/vavoo-iptv/play/3411759213e112d2746c32
+#EXTINF:-1 tvg-id="CanalF1.fr" group-title="France" tvg-logo="https://static.wikia.nocookie.net/fejkowe-logaekranowe/images/7/7d/Canal%2B_f1-removebg-preview.png/revision/latest?cb=20230731170531&path-prefix=pl" ,Canal+ Formule 1
+https://vavoo.to/vavoo-iptv/play/401626311591b144b76e6a
+#EXTINF:-1 tvg-id="CanalMotoGP.fr" group-title="France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-moto-gp-fr.png" ,Canal+ MotoGP
+https://vavoo.to/vavoo-iptv/play/401626311591b144b76e6a
+
+#EXTINF:-1 tvg-id="Eurosport1.fr" group-title="France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-1-fr.png",Eurosport 1 FR
+https://vavoo.to/vavoo-iptv/play/2935192752de8d99286a38
+#EXTINF:-1 tvg-id="Eurosport2.fr" group-title="France" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-2-fr.png",Eurosport 2 FR
+https://vavoo.to/vavoo-iptv/play/391453244816ed0170f0da
+
+#EXTINF:-1 tvg-id="SportenFrance.fr" group-title="France "tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8a/Sport_en_France_2L_RVB.png" ,Sport en France
+https://vavoo.to/vavoo-iptv/play/28990515040b9592deaeeb
+
+
+# Spain
+
+#EXTINF:-1 tvg-id="DAZN1.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png",DAZN 1 Espana
+https://vavoo.to/vavoo-iptv/play/294109345260e52343e322
+#EXTINF:-1 tvg-id="DAZN2.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png",DAZN 2 Espana
+https://vavoo.to/vavoo-iptv/play/3907910812527bd3e7d3e0
+#EXTINF:-1 tvg-id="DAZN3.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png",DAZN 3 Espana
+https://vavoo.to/vavoo-iptv/play/35828421562da76fb1a617
+#EXTINF:-1 tvg-id="DAZN4.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png",DAZN 4 Espana
+https://vavoo.to/vavoo-iptv/play/1739393340c41541323f2f
+#EXTINF:-1 tvg-id="DAZNF1.es" group-title="Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-f1-es.png",DAZN F1 Espana
+https://vavoo.to/vavoo-iptv/play/3129220252f261e3f0528e
+#EXTINF:-1 tvg-id="DAZNLL.es" group-title="Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png",DAZN LaLiga
+https://vavoo.to/vavoo-iptv/play/3461295847ebbe9fd4a3e0
+
+#EXTINF:-1 tvg-id="DeportesMovistar.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Deportes por M+
+https://vavoo.to/vavoo-iptv/play/11881663439d233a8dd226
+
+
+# United Kingdom
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" group-title="UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
+https://vavoo.to/vavoo-iptv/play/67427762708663665a2e3
+#EXTINF:-1 tvg-id="SkySportsArena.uk" group-title="UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/other/sky-sports-arena-icon-alt-uk.png",Sky Sports Arena
+https://vavoo.to/vavoo-iptv/play/13866680333c42e55b4f34
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" group-title="UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-uk.png",Sky Sports Football
+https://vavoo.to/vavoo-iptv/play/1258853748f8875af76e51
+#EXTINF:-1 tvg-id="SkySportsPL.uk" group-title="UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-uk.png",Sky Sports Premier League
+https://vavoo.to/vavoo-iptv/play/126506577600afd406040
+#EXTINF:-1 tvg-id="SkySportsMix.uk" group-title="UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-mix-uk.png",Sky Sports Mix
+https://vavoo.to/vavoo-iptv/play/3733612719fb39b32b4b51
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",TNT Sports 1
+https://vavoo.to/vavoo-iptv/play/3640268356ada49976faea
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",TNT Sports 2
+https://vavoo.to/vavoo-iptv/play/267350338016fe75604f2c
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",TNT Sports 3
+https://vavoo.to/vavoo-iptv/play/27217277804702040fbfdb
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-title="UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png",TNT Sports 4
+https://vavoo.to/vavoo-iptv/play/270178612d3bf0bad8c5d
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="UK",TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
+
+
+# Russia
+
+#EXTINF:-1 tvg-id="KHL.ru" group-title="Russia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/khl-ru.png",KHL
+https://vavoo.to/vavoo-iptv/play/2890854598f5b804149c2
+#EXTINF:-1 tvg-id="KHLPrime.ru" group-title="Russia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/khl-prime-ru.png",KHL Prime
+https://vavoo.to/vavoo-iptv/play/274155986507fa3db19108
+
+#EXTINF:-1 tvg-id="MatchTV.ru" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-ru.png" group-title="Russia",Match! TV
+https://vavoo.to/vavoo-iptv/play/3213760279562369dfad61
+#EXTINF:-1 tvg-id="MatchPremier.ru" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-premier-ru.png" group-title="Russia",Match! Premier
+https://vavoo.to/vavoo-iptv/play/969769750e8e6ff224bdd
+#EXTINF:-1 tvg-id="MatchBoets.ru" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-boets-ru.png" group-title="Russia",Match! Boets
+https://vavoo.to/vavoo-iptv/play/11388711212e6db4b4e4af
