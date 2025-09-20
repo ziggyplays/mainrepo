@@ -2,9 +2,9 @@
 
 # Canada French
 
-#EXTINF:-1 tvg-id="TVA.Sports.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-ca.png",TVA Sports
+#EXTINF:-1 tvg-id="TVA.Sports.ca" group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-ca.png",TVA Sports
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQJF1YJBlTXz44W1csWD0sNDUjOlQkWEUsCSgkJ1daXj9SDhQHOl8kWzkxVxQjAw==/index.m3u8
-#EXTINF:-1 tvg-id="TVA.Sports.2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-2-ca.png" group-title="Canada",TVA Sports 2
+#EXTINF:-1 tvg-id="TVA.Sports.2.ca" group-title="Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-2-ca.png" group-title="Canada",TVA Sports 2
 https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQJF1YJBlTXz44W1csWD0sNDUjOlQkWEUsCSgkJ1daXj9SDhQGOl8kWzkxVxQjAw==/index.m3u8
 
 #EXTINF:-1 tvg-id="RDS.ca" group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/RDS_logo.svg/1024px-RDS_logo.svg.png",RDS
