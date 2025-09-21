@@ -453,7 +453,7 @@ https://vavoo.to/vavoo-iptv/play/39888517753ee87fb99de4
 https://vavoo.to/vavoo-iptv/play/14422677057467d8eb959e
 
 #EXTINF:-1 tvg-id="JDCV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/RMC_S00334306_program_logo.png" group-title="Cultura",J'irai dormir chez vous
-https://dwsx9zc2hxqhl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-k0j7zahecxb3y/index.m3u8
+https://jmp2.uk/sam-FRBD4800001P4.m3u8
 
 
 # Sports Europe
@@ -498,7 +498,7 @@ https://vavoo.to/vavoo-iptv/play/186535245741ba973dc10b
 https://vavoo.to/vavoo-iptv/play/419434034c29c7a3c7b07
 #EXTINF:-1 tvg-id="PortoCanal.pt" group-title="Desporto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XCbfQy-ZUKwIVNDr6JKlWPjr7lq8OTWBkA&s.png" ,Porto Canal
 https://vavoo.to/vavoo-iptv/play/5515073437274878805c3
-#EXTINF:-1 tvg-id="SportingTV.pt" group-title="Desporto",Sporting TV
+#EXTINF:-1 tvg-id="SportingTV.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sporting-tv-pt.png",Sporting TV
 https://vavoo.to/vavoo-iptv/play/676691326908891eb462f
 
 
