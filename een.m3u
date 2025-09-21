@@ -527,6 +527,14 @@ https://vavoo.to/vavoo-iptv/play/3800425623400df20f1836
 
 #EXTINF:-1 tvg-id="CanalSport.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",Canal+ Sport
 https://vavoo.to/vavoo-iptv/play/2391290436f997307577fc
+#EXTINF:-1 tvg-id="CanalSport2.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-2-pl.png",Canal+ Sport 2
+https://vavoo.to/vavoo-iptv/play/48980802439499014d23
+#EXTINF:-1 tvg-id="CanalSport3.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-3-pl.png",Canal+ Sport 3
+https://vavoo.to/vavoo-iptv/play/1066093298273080f2f774
+#EXTINF:-1 tvg-id="CanalSport4.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-4-pl.png",Canal+ Sport 4
+https://vavoo.to/vavoo-iptv/play/23768327380fdd2abc1caa
+#EXTINF:-1 tvg-id="CanalSport5.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-5-pl.png",Canal+ Sport 5
+https://vavoo.to/vavoo-iptv/play/2966142802a95f1626785d
 #EXTINF:-1 tvg-id="Canal360.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png",Canal+ Sport 360
 https://vavoo.to/vavoo-iptv/play/3411759213e112d2746c32
 
