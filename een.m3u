@@ -31,9 +31,9 @@ https://vavoo.to/vavoo-iptv/play/134859843227bbcd936c21
 # France
 
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/1024px-Logo_TF1_2013.svg.png",TF1
-https://vavoo.to/vavoo-iptv/play/2913521200ae11151a1fc4
+https://vavoo.to/vavoo-iptv/play/1334669376bf508b8ed995
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/France_2_-_logo_2018.svg/1024px-France_2_-_logo_2018.svg.png",France 2
-https://vavoo.to/vavoo-iptv/play/40258940576a1647c7007e
+https://vavoo.to/vavoo-iptv/play/3118025835b0fa704b6345
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/France_3_-_logo_2018.svg/1280px-France_3_-_logo_2018.svg.png",France 3
 https://vavoo.to/vavoo-iptv/play/35330736891b9b36efb55f
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/France_4_-_logo_2018.svg/1024px-France_4_-_logo_2018.svg.png",France 4
@@ -41,7 +41,7 @@ https://vavoo.to/vavoo-iptv/play/28154726aea7337828a2
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/France_5_-_logo_2018.svg/1024px-France_5_-_logo_2018.svg.png",France 5
 https://vavoo.to/vavoo-iptv/play/2249823338273b7989b2e7
 #EXTINF:-1 tvg-id="M6.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_(2020%2C_fond_clair).svg/1024px-Logo_M6_(2020%2C_fond_clair).svg.png",M6
-https://vavoo.to/vavoo-iptv/play/3435456326462b8ebc1f88
+https://vavoo.to/vavoo-iptv/play/688242401078f5e51c480
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",arte
 https://vavoo.to/vavoo-iptv/play/28525090523bed95eaf3d2
 #EXTINF:-1 group-title="Generalista" tvg-id="LCP-AN.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/lcp-fr.png",LCP-Public Sénat
@@ -415,7 +415,7 @@ https://vavoo.to/vavoo-iptv/play/27670925185f9621be33b0
 
 #EXTINF:-1 tvg-id="24Kitchen.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/24Kitchen.svg/1024px-24Kitchen.svg.png" group-title="Cultura",24Kitchen Portugal
 https://vavoo.to/vavoo-iptv/play/217677844105372e6f7b94
-#EXTINF:-1 tvg-id="CazaECozinha.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE_gIaR21wRM6wKxk3ZNUd9puTL39RM5Ml7jSMFuageI1af1JH9sqLbLG_rdNza-jncA&usqp=CAU" group-title="Cultura",Casa e Cozinha
+#EXTINF:-1 tvg-id="CazaECozinha.pt" tvg-logo="https://i.ibb.co/BKCgF75L/Casa-e-cozinha-Logo-fotor-bg-remover-2025092710047.png" group-title="Cultura",Casa e Cozinha
 https://vavoo.to/vavoo-iptv/play/3354497993e05327d67195
 
 #EXTINF:-1 tvg-id="AMCBreak.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/1024px-AMC_Break.svg.png" group-title="Cultura",AMC Break
