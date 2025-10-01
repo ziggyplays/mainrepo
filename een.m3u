@@ -365,47 +365,47 @@ https://vavoo.to/vavoo-iptv/play/3972324290e61b379317ce
 
 # Movies
 
-#EXTINF:-1 tvg-id="AXNHD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/AXN_HD_Logo_2015.svg/1024px-AXN_HD_Logo_2015.svg.png" group-title="Filmes",AXN HD
+#EXTINF:-1 tvg-id="AXNHD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/AXN_HD_Logo_2015.svg/1024px-AXN_HD_Logo_2015.svg.png" group-title="Cinema",AXN HD
 https://vavoo.to/vavoo-iptv/play/538838100d0590731cf6d
-#EXTINF:-1 tvg-id="AXNMovies.pt" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/axn-movies-hd-pt.png",AXN Movies
+#EXTINF:-1 tvg-id="AXNMovies.pt" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/axn-movies-hd-pt.png",AXN Movies
 https://vavoo.to/vavoo-iptv/play/47475930279ac9dcfd9c1
-#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1024px-AXN_White_logo_%282015%29.svg.png" group-title="Filmes",AXN White
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1024px-AXN_White_logo_%282015%29.svg.png" group-title="Cinema",AXN White
 https://vavoo.to/vavoo-iptv/play/47702122617bfc7ea0a24
-#EXTINF:-1 tvg-id="AMC.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/amc-hd-pt.png" group-title="Filmes",AMC Portugal
+#EXTINF:-1 tvg-id="AMC.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/amc-hd-pt.png" group-title="Cinema",AMC Portugal
 https://vavoo.to/vavoo-iptv/play/2341819341f129f357dbdb
-#EXTINF:-1 tvg-id="CanalHollywood.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1024px-HWD_logo.svg.png" group-title="Filmes",Canal Hollywood
+#EXTINF:-1 tvg-id="CanalHollywood.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1024px-HWD_logo.svg.png" group-title="Cinema",Canal Hollywood
 https://vavoo.to/vavoo-iptv/play/36280950716facb94eed69
-#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/CineMundo_2014.png/revision/latest?cb=20240801165050&path-prefix=pt" group-title="Filmes",CineMundo
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/CineMundo_2014.png/revision/latest?cb=20240801165050&path-prefix=pt" group-title="Cinema",CineMundo
 https://vavoo.to/vavoo-iptv/play/425440450378b6ca4cf7d3
-#EXTINF:-1 tvg-id="StarChannel.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Star_Channel_2023.svg/1024px-Star_Channel_2023.svg.png" group-title="Filmes",STAR Channel
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Star_Channel_2023.svg/1024px-Star_Channel_2023.svg.png" group-title="Cinema",STAR Channel
 https://vavoo.to/vavoo-iptv/play/473732861a37cc8a8aa9a
-#EXTINF:-1 tvg-id="StarComedy.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/1024px-Star_Comedy_2024.svg.png" group-title="Filmes",STAR Comedy
+#EXTINF:-1 tvg-id="StarComedy.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/1024px-Star_Comedy_2024.svg.png" group-title="Cinema",STAR Comedy
 https://vavoo.to/vavoo-iptv/play/12827816780db2bd5f3f4f
-#EXTINF:-1 tvg-id="StarCrime.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/1024px-Star_Crime_2023.svg.png" group-title="Filmes",STAR Crime
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/1024px-Star_Crime_2023.svg.png" group-title="Cinema",STAR Crime
 https://vavoo.to/vavoo-iptv/play/2422531998791bd1474314
-#EXTINF:-1 tvg-id="StarLife.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Star_Life_2023.svg/1024px-Star_Life_2023.svg.png" group-title="Filmes",STAR Life
+#EXTINF:-1 tvg-id="StarLife.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Star_Life_2023.svg/1024px-Star_Life_2023.svg.png" group-title="Cinema",STAR Life
 https://vavoo.to/vavoo-iptv/play/4075632687044396f1dc6a
-#EXTINF:-1 tvg-id="StarMovies.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/1024px-Star_Movies_2023.svg.png" group-title="Filmes",STAR Movies
+#EXTINF:-1 tvg-id="StarMovies.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/1024px-Star_Movies_2023.svg.png" group-title="Cinema",STAR Movies
 https://vavoo.to/vavoo-iptv/play/8913585440f7b064a2665
-#EXTINF:-1 tvg-id="StarMovies.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/6f7efcdd03d80c9117b317647a274fa26f56d00e/countries/united-states/syfy-us.png" group-title="Filmes",SyFy
+#EXTINF:-1 tvg-id="StarMovies.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/6f7efcdd03d80c9117b317647a274fa26f56d00e/countries/united-states/syfy-us.png" group-title="Cinema",SyFy
 https://vavoo.to/vavoo-iptv/play/1633515070747da24b8d0a
-#EXTINF:-1 tvg-id="CanalBoxOffice.fr" tvg-name="Canal+ Box Office" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="Filmes",Canal+ Box Office
+#EXTINF:-1 tvg-id="CanalBoxOffice.fr" tvg-name="Canal+ Box Office" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="Cinema",Canal+ Box Office
 https://vavoo.to/vavoo-iptv/play/3655983806eda3054f7e69
-#EXTINF:-1 tvg-id="CanalCinema.fr" tvg-name="Canal+ Cinéma(s)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/eb/C%2B_Cin%C3%A9ma%28s%29.png" group-title="Filmes",Canal+ Cinéma(s)
+#EXTINF:-1 tvg-id="CanalCinema.fr" tvg-name="Canal+ Cinéma(s)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/eb/C%2B_Cin%C3%A9ma%28s%29.png" group-title="Cinema",Canal+ Cinéma(s)
 https://vavoo.to/vavoo-iptv/play/2898387495718e66ec3be
-#EXTINF:-1 tvg-id="CanalGrandEcran.fr" tvg-name="Canal+ Grand Ecran" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/da/C%2B_Grand_%C3%89cran.png" group-title="Filmes",Canal+ Grand Ecran
+#EXTINF:-1 tvg-id="CanalGrandEcran.fr" tvg-name="Canal+ Grand Ecran" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/da/C%2B_Grand_%C3%89cran.png" group-title="Cinema",Canal+ Grand Ecran
 https://vavoo.to/vavoo-iptv/play/25481898009fc4dd96f118
-#EXTINF:-1 tvg-id="Canal+Series.fr" tvg-name="Canal+ Séries" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/C%2B_S%C3%A9ries.png" group-title="Filmes",Canal+ Séries
+#EXTINF:-1 tvg-id="Canal+Series.fr" tvg-name="Canal+ Séries" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/C%2B_S%C3%A9ries.png" group-title="Cinema",Canal+ Séries
 https://vavoo.to/vavoo-iptv/play/2141653939fb56edcf97da
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="Paramount Channel FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1052px-Paramount_Channel.svg.png" group-title="Filmes",Paramount Channel
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="Paramount Channel FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1052px-Paramount_Channel.svg.png" group-title="Cinema",Paramount Channel
 https://vavoo.to/vavoo-iptv/play/4154938214b3c7d6235f2a
 
 
-# Cultural
+# Entertainment
 
 #EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg/1024px-RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg.png" group-title="Generalista",RTP Memória
 https://vavoo.to/vavoo-iptv/play/359484756863389f637100
-#EXTINF:-1 tvg-id="GameOne.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Game_One_%282024%29.svg/1024px-Logo_Game_One_%282024%29.svg.png" group-title="Cultura",Game One
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Game_One_%282024%29.svg/1024px-Logo_Game_One_%282024%29.svg.png" group-title="Entretenimento",Game One
 https://vavoo.to/vavoo-iptv/play/1479966396202ff806f8d8
 #EXTINF:-1 tvg-id="SICRadical.pt" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png",SIC Radical
 https://vavoo.to/vavoo-iptv/play/1788642980ad9a247245d
@@ -414,49 +414,49 @@ https://vavoo.to/vavoo-iptv/play/27670925185f9621be33b0
 #EXTINF:-1 tvg-id="Localvisao.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/6f7efcdd03d80c9117b317647a274fa26f56d00e/countries/portugal/localvisao-tv-pt.png" group-title="Generalista",Localvisão
 https://vavoo.to/vavoo-iptv/play/4001042963fc5a476493a8
 
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/24Kitchen.svg/1024px-24Kitchen.svg.png" group-title="Cultura",24Kitchen Portugal
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/24Kitchen.svg/1024px-24Kitchen.svg.png" group-title="Entretenimento",24Kitchen Portugal
 https://vavoo.to/vavoo-iptv/play/217677844105372e6f7b94
-#EXTINF:-1 tvg-id="CazaECozinha.pt" tvg-logo="https://i.ibb.co/BKCgF75L/Casa-e-cozinha-Logo-fotor-bg-remover-2025092710047.png" group-title="Cultura",Casa e Cozinha
+#EXTINF:-1 tvg-id="CazaECozinha.pt" tvg-logo="https://i.ibb.co/BKCgF75L/Casa-e-cozinha-Logo-fotor-bg-remover-2025092710047.png" group-title="Entretenimento",Casa e Cozinha
 https://vavoo.to/vavoo-iptv/play/3354497993e05327d67195
 
-#EXTINF:-1 tvg-id="HGTV.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/6f7efcdd03d80c9117b317647a274fa26f56d00e/countries/united-states/hgtv-us.png" group-title="Cultura",HGTV
+#EXTINF:-1 tvg-id="HGTV.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/6f7efcdd03d80c9117b317647a274fa26f56d00e/countries/united-states/hgtv-us.png" group-title="Entretenimento",HGTV
 https://vavoo.to/vavoo-iptv/play/310002268589f0484d477b
 
-#EXTINF:-1 tvg-id="AMCBreak.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/1024px-AMC_Break.svg.png" group-title="Cultura",AMC Break
+#EXTINF:-1 tvg-id="AMCBreak.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/1024px-AMC_Break.svg.png" group-title="Entretenimento",AMC Break
 https://vavoo.to/vavoo-iptv/play/1676049953943aabe65b98
-#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/1024px-AMC_Crime.svg.png" group-title="Cultura",AMC Crime
+#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/1024px-AMC_Crime.svg.png" group-title="Entretenimento",AMC Crime
 https://vavoo.to/vavoo-iptv/play/20771957888051379ac4aa
 
-#EXTINF:-1 tvg-id="Odisseia.pt" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vpyypr1462122978.png" group-title="Cultura",Odisseia
+#EXTINF:-1 tvg-id="Odisseia.pt" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vpyypr1462122978.png" group-title="Entretenimento",Odisseia
 https://vavoo.to/vavoo-iptv/play/21117855506273662f1163
-#EXTINF:-1 tvg-id="Historia.pt" tvg-logo="https://amcnetworks.pt/wp-content/uploads/2022/10/2022_HISTORIA_LOGO_HERO_3D_BLK_RGB.png" group-title="Cultura",História
+#EXTINF:-1 tvg-id="Historia.pt" tvg-logo="https://amcnetworks.pt/wp-content/uploads/2022/10/2022_HISTORIA_LOGO_HERO_3D_BLK_RGB.png" group-title="Entretenimento",História
 https://vavoo.to/vavoo-iptv/play/52553831439c933d566ef
-#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/discovery-channel-es.png" group-title="Cultura",Discovery Channel Portugal
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/discovery-channel-es.png" group-title="Entretenimento",Discovery Channel Portugal
 https://vavoo.to/vavoo-iptv/play/78318791484a7ab86cea1
-#EXTINF:-1 tvg-id="NatGeo.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/national-geographic-hd-es.png" group-title="Cultura",National Geographic PT
+#EXTINF:-1 tvg-id="NatGeo.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/national-geographic-hd-es.png" group-title="Entretenimento",National Geographic PT
 https://vavoo.to/vavoo-iptv/play/1196955352dcf13e1e10c5
-#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/national-geographic-wild-hd-es.png" group-title="Cultura",Wild National Geographic PT
+#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/national-geographic-wild-hd-es.png" group-title="Entretenimento",Wild National Geographic PT
 https://vavoo.to/vavoo-iptv/play/278568941d0da5f3a5da0
 
-#EXTINF:-1 tvg-id="Love.Nature.ca" tvg-name="Love Nature 4K" tvg-logo="https://i.ibb.co/SdSKhsj/love-nature-4k.png" group-title="Cultura",Love Nature 4K
+#EXTINF:-1 tvg-id="Love.Nature.ca" tvg-name="Love Nature 4K" tvg-logo="https://i.ibb.co/SdSKhsj/love-nature-4k.png" group-title="Entretenimento",Love Nature 4K
 https://vavoo.to/vavoo-iptv/play/10782221721cd1db332b6b
-#EXTINF:-1 tvg-id="travelxp.4K.de" tvg-name="Travelxp 4K" tvg-logo="https://i.ibb.co/GCKtvqn/Travelxp-4-K.png" group-title="Cultura",Travelxp 4K
+#EXTINF:-1 tvg-id="travelxp.4K.de" tvg-name="Travelxp 4K" tvg-logo="https://i.ibb.co/GCKtvqn/Travelxp-4-K.png" group-title="Entretenimento",Travelxp 4K
 https://vavoo.to/vavoo-iptv/play/945137817dd1576f7782b
 
-#EXTINF:-1 tvg-id="Museum.4k.fr" tvg-name="MUSEUM TV 4K" tvg-logo="https://i.imgur.com/a55LkwU.png" group-title="Cultura",Museum TV
+#EXTINF:-1 tvg-id="Museum.4k.fr" tvg-name="MUSEUM TV 4K" tvg-logo="https://i.imgur.com/a55LkwU.png" group-title="Entretenimento",Museum TV
 https://vavoo.to/vavoo-iptv/play/27363886393b5b106b00d8
 
-#EXTINF:-1 tvg-id="MyZen.4K.ro" tvg-name="MyZen 4K" tvg-logo="https://i.imgur.com/GDZobhF.png" group-title="Cultura",MyZen 4K
+#EXTINF:-1 tvg-id="MyZen.4K.ro" tvg-name="MyZen 4K" tvg-logo="https://i.imgur.com/GDZobhF.png" group-title="Entretenimento",MyZen 4K
 https://vavoo.to/vavoo-iptv/play/2233165627cefa09c11eba
 
-#EXTINF:-1 tvg-id="Cacavision.pt" tvg-logo="https://www.pngkey.com/png/full/663-6635924_caca-png.png" group-title="Cultura", Caçavision
+#EXTINF:-1 tvg-id="Cacavision.pt" tvg-logo="https://www.pngkey.com/png/full/663-6635924_caca-png.png" group-title="Entretenimento", Caçavision
 https://vavoo.to/vavoo-iptv/play/36824777946514747ec085
-#EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/caca-e-pesca-pt.png" group-title="Cultura",Caça e Pesca
+#EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/caca-e-pesca-pt.png" group-title="Entretenimento",Caça e Pesca
 https://vavoo.to/vavoo-iptv/play/39888517753ee87fb99de4
-#EXTINF:-1 tvg-id="OneToro.es" group-title="Cultura" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk_0uSCZ0xNsRXOROPxNc1ZOTZ_YjdSa3vMA&s.png",OneToro
+#EXTINF:-1 tvg-id="OneToro.es" group-title="Entretenimento" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk_0uSCZ0xNsRXOROPxNc1ZOTZ_YjdSa3vMA&s.png",OneToro
 https://vavoo.to/vavoo-iptv/play/14422677057467d8eb959e
 
-#EXTINF:-1 tvg-id="JDCV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/RMC_S00334306_program_logo.png" group-title="Cultura",J'irai dormir chez vous
+#EXTINF:-1 tvg-id="JDCV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/RMC_S00334306_program_logo.png" group-title="Entretenimento",J'irai dormir chez vous
 https://jmp2.uk/sam-FRBD4800001P4.m3u8
 
 
