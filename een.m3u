@@ -3,13 +3,13 @@
 # Portugal
 
 #EXTINF:-1 tvg-id="RTP1.pt" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP1
-https://vavoo.to/vavoo-iptv/play/3213786206b9a8d9279d0a
+https://vavoo.to/vavoo-iptv/play/13944010473df831073dad
 #EXTINF:-1 tvg-id="RTP2.pt" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP2
-https://vavoo.to/vavoo-iptv/play/416376590230300f8c5498
+https://vavoo.to/vavoo-iptv/play/756792350076cff41c35a
 #EXTINF:-1 tvg-id="SIC.pt" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
 https://vavoo.to/vavoo-iptv/play/3099098765ec02550cde6f
 #EXTINF:-1 group-title="Generalista" tvg-id="TVI.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png",TVI
-https://vavoo.to/vavoo-iptv/play/26477881250b3e50ff9612
+https://vavoo.to/vavoo-iptv/play/3101553820b7b6d69e54fc
 
 #EXTINF:-1 tvg-id="RTP3.pt" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" ,RTP3
 https://vavoo.to/vavoo-iptv/play/3310235454b9bd61572914
@@ -428,15 +428,15 @@ https://vavoo.to/vavoo-iptv/play/1676049953943aabe65b98
 https://vavoo.to/vavoo-iptv/play/20771957888051379ac4aa
 
 #EXTINF:-1 tvg-id="Odisseia.pt" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vpyypr1462122978.png" group-title="Entretenimento",Odisseia
-https://vavoo.to/vavoo-iptv/play/21117855506273662f1163
+https://vavoo.to/vavoo-iptv/play/892615341748ec31a1ac1
 #EXTINF:-1 tvg-id="Historia.pt" tvg-logo="https://amcnetworks.pt/wp-content/uploads/2022/10/2022_HISTORIA_LOGO_HERO_3D_BLK_RGB.png" group-title="Entretenimento",História
-https://vavoo.to/vavoo-iptv/play/52553831439c933d566ef
+https://vavoo.to/vavoo-iptv/play/1471702249632c76c543a9
 #EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/discovery-channel-es.png" group-title="Entretenimento",Discovery Channel Portugal
 https://vavoo.to/vavoo-iptv/play/78318791484a7ab86cea1
 #EXTINF:-1 tvg-id="NatGeo.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/national-geographic-hd-es.png" group-title="Entretenimento",National Geographic PT
-https://vavoo.to/vavoo-iptv/play/1196955352dcf13e1e10c5
+https://vavoo.to/vavoo-iptv/play/503347396572e08f52c01
 #EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/national-geographic-wild-hd-es.png" group-title="Entretenimento",Wild National Geographic PT
-https://vavoo.to/vavoo-iptv/play/278568941d0da5f3a5da0
+https://vavoo.to/vavoo-iptv/play/269328975361837c5e0705
 
 #EXTINF:-1 tvg-id="Love.Nature.ca" tvg-name="Love Nature 4K" tvg-logo="https://i.ibb.co/SdSKhsj/love-nature-4k.png" group-title="Entretenimento",Love Nature 4K
 https://vavoo.to/vavoo-iptv/play/10782221721cd1db332b6b
