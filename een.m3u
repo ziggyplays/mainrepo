@@ -308,10 +308,7 @@ https://vavoo.to/vavoo-iptv/play/856449196a28cd55e042b
 https://vavoo.to/vavoo-iptv/play/372108342920ebb0aa2a3f
 
 #EXTINF:-1 group-title="Generalista" tvg-id="TNTMusic.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/%D0%A2%D0%9D%D0%A2_Music_3.png",TNT Music
-https://vavoo.to/vavoo-iptv/play/2045635278962af29ba91e
-
-#EXTINF:-1 group-title="Generalista" tvg-id="Smotrim.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/da/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B_%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D0%BC.svg/1024px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B_%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D0%BC.svg.png",Smotrim
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+https://vavoo.to/vavoo-iptv/play/3783797318d9b7d3edde28
 
 
 # Info
@@ -356,6 +353,11 @@ https://vavoo.to/vavoo-iptv/play/3789436766177fc207d7db
 https://vavoo.to/vavoo-iptv/play/3164307077695efa4093e2
 #EXTINF:-1 tvg-id="StingrayDjazz.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stingray_Djazz.svg/1024px-Stingray_Djazz.svg.png" group-title="Música",Stingray Djazz
 https://vavoo.to/vavoo-iptv/play/15441409037043dcf99254
+#EXTINF:-1 tvg-id="StingrayLoud.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/stingray-loud-ca.png" group-title="Música",Stingray Loud
+https://vavoo.to/vavoo-iptv/play/16052425729d9f04de9dee
+#EXTINF:-1 tvg-id="StingrayRetro.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/stingray-retro-ca.png" group-title="Música",Stingray Retro
+https://vavoo.to/vavoo-iptv/play/216763212240408f426082
+
 #EXTINF:-1 group-title="Música" tvg-id="MTV.pt" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" tvg-name="MTV",MTV Portugal
 https://vavoo.to/vavoo-iptv/play/35557164194cdcc75fb42f
 #EXTINF:-1 group-title="Música" tvg-id="MTV.Live.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" tvg-name="MTV Live",MTV Live
