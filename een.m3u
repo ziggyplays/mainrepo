@@ -391,7 +391,7 @@ https://vavoo.to/vavoo-iptv/play/2388085718aac399ec7591
 https://vavoo.to/vavoo-iptv/play/9617437686176dd6c94ea
 #EXTINF:-1 tvg-id="Syfy.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/6f7efcdd03d80c9117b317647a274fa26f56d00e/countries/united-states/syfy-us.png" group-title="Cinema",SyFy
 https://vavoo.to/vavoo-iptv/play/233396691104ac37aed2c4
-#EXTINF:-1 group-title="Cinema tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvcine-action-hd-pt.png",TVCine Action
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvcine-action-hd-pt.png",TVCine Action
 https://vavoo.to/vavoo-iptv/play/7936318033db25a8648aa
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvcine-edition-hd-pt.png",TVCine Edition
 https://vavoo.to/vavoo-iptv/play/2599146036b6364834e9f6
