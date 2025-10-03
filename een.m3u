@@ -89,7 +89,7 @@ https://vavoo.to/vavoo-iptv/play/16316567992e16be5e5da3
 https://vavoo.to/vavoo-iptv/play/2221887416d7fbe08fe097
 
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",Canal+
-https://vavoo.to/vavoo-iptv/play/4177424223ffc540a587de
+https://vavoo.to/vavoo-iptv/play/3168549818d46b381b66c9
 
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",France 24
 https://vavoo.to/vavoo-iptv/play/28978935900b836e00a311
@@ -519,6 +519,19 @@ https://vavoo.to/vavoo-iptv/play/2996716607fa7f27cf1de6
 
 # France
 
+#EXTINF:-1 tvg-id="CanalSport.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",Canal+ Sport
+https://vavoo.to/vavoo-iptv/play/964513003fd74156da846
+#EXTINF:-1 tvg-id="CanalSport2.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-2-pl.png",Canal+ Sport 2
+https://vavoo.to/vavoo-iptv/play/376957008a6758012e22c
+#EXTINF:-1 tvg-id="CanalSport3.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-3-pl.png",Canal+ Sport 3
+https://vavoo.to/vavoo-iptv/play/7229772486535de597ff2
+#EXTINF:-1 tvg-id="CanalSport4.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-4-pl.png",Canal+ Sport 4
+https://vavoo.to/vavoo-iptv/play/25705261923a09d8e847e3
+#EXTINF:-1 tvg-id="CanalSport5.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-5-pl.png",Canal+ Sport 5
+https://vavoo.to/vavoo-iptv/play/2757178432ae94a0dbf9e5
+#EXTINF:-1 tvg-id="Canal360.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png",Canal+ Sport 360
+https://vavoo.to/vavoo-iptv/play/33851593067956c6cbd57a
+
 #EXTINF:-1 tvg-id="BeIN1.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",BeIN Sports 1
 https://vavoo.to/vavoo-iptv/play/38449168821b069f8d9798
 #EXTINF:-1 tvg-id="BeIN2.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",BeIN Sports 2
@@ -539,19 +552,6 @@ https://vavoo.to/vavoo-iptv/play/43025867523e38c979b76
 https://vavoo.to/vavoo-iptv/play/35745447496310ad38622d
 #EXTINF:-1 tvg-id="BeIN10.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 10
 https://vavoo.to/vavoo-iptv/play/2473905459c9915439d19a
-
-#EXTINF:-1 tvg-id="CanalSport.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",Canal+ Sport
-https://vavoo.to/vavoo-iptv/play/2391290436f997307577fc
-#EXTINF:-1 tvg-id="CanalSport2.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-2-pl.png",Canal+ Sport 2
-https://vavoo.to/vavoo-iptv/play/376957008a6758012e22c
-#EXTINF:-1 tvg-id="CanalSport3.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-3-pl.png",Canal+ Sport 3
-https://vavoo.to/vavoo-iptv/play/7229772486535de597ff2
-#EXTINF:-1 tvg-id="CanalSport4.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-4-pl.png",Canal+ Sport 4
-https://vavoo.to/vavoo-iptv/play/25705261923a09d8e847e3
-#EXTINF:-1 tvg-id="CanalSport5.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-5-pl.png",Canal+ Sport 5
-https://vavoo.to/vavoo-iptv/play/2757178432ae94a0dbf9e5
-#EXTINF:-1 tvg-id="Canal360.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png",Canal+ Sport 360
-https://vavoo.to/vavoo-iptv/play/33851593067956c6cbd57a
 
 #EXTINF:-1 tvg-id="Eurosport1.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-1-fr.png",Eurosport 1 FR
 https://vavoo.to/vavoo-iptv/play/2935192752de8d99286a38
