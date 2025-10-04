@@ -251,9 +251,9 @@ https://vavoo.to/vavoo-iptv/play/1793902345ba4e8f87b805
 https://vavoo.to/vavoo-iptv/play/191691580637456ed75f1b
 
 #EXTINF:-1 tvg-id="RBB.de" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rbb_Logo_2017.08.svg/1024px-Rbb_Logo_2017.08.svg.png",RBB
-https://vavoo.to/vavoo-iptv/play/314975002001d5fb89693d
+https://vavoo.to/vavoo-iptv/play/3220801594c8b53ca0ba03
 #EXTINF:-1 tvg-id="SWR.de" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/swr-de.png",SWR
-https://vavoo.to/vavoo-iptv/play/3399533194c0a562623742
+https://vavoo.to/vavoo-iptv/play/552107304a81351a3dffb
 
 # Austria
 
@@ -381,15 +381,15 @@ https://vavoo.to/vavoo-iptv/play/16245534278bc26f14bccb
 https://vavoo.to/vavoo-iptv/play/1452208816b61914455259
 #EXTINF:-1 tvg-id="Cinemundo.pt" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/CineMundo_2014.png/revision/latest?cb=20240801165050&path-prefix=pt" group-title="Cinema",CineMundo
 https://vavoo.to/vavoo-iptv/play/425440450378b6ca4cf7d3
-#EXTINF:-1 tvg-id="StarChannel.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Star_Channel_2023.svg/1024px-Star_Channel_2023.svg.png" group-title="Cinema",STAR Channel
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/star-channel-pt.png" group-title="Cinema",STAR Channel
 https://vavoo.to/vavoo-iptv/play/2307894905bc7fcefcfee0
-#EXTINF:-1 tvg-id="StarComedy.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/1024px-Star_Comedy_2024.svg.png" group-title="Cinema",STAR Comedy
+#EXTINF:-1 tvg-id="StarComedy.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/star-comedy-pt.png" group-title="Cinema",STAR Comedy
 https://vavoo.to/vavoo-iptv/play/1074247462aa408dfc00f9
-#EXTINF:-1 tvg-id="StarCrime.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/1024px-Star_Crime_2023.svg.png" group-title="Cinema",STAR Crime
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/star-crime-pt.png" group-title="Cinema",STAR Crime
 https://vavoo.to/vavoo-iptv/play/1417221973f221b83cc6dc
-#EXTINF:-1 tvg-id="StarLife.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Star_Life_2023.svg/1024px-Star_Life_2023.svg.png" group-title="Cinema",STAR Life
+#EXTINF:-1 tvg-id="StarLife.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/star-life-pt.png" group-title="Cinema",STAR Life
 https://vavoo.to/vavoo-iptv/play/2388085718aac399ec7591
-#EXTINF:-1 tvg-id="StarMovies.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/1024px-Star_Movies_2023.svg.png" group-title="Cinema",STAR Movies
+#EXTINF:-1 tvg-id="StarMovies.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/star-movies-pt.png" group-title="Cinema",STAR Movies
 https://vavoo.to/vavoo-iptv/play/9617437686176dd6c94ea
 #EXTINF:-1 tvg-id="Syfy.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/6f7efcdd03d80c9117b317647a274fa26f56d00e/countries/united-states/syfy-us.png" group-title="Cinema",SyFy
 https://vavoo.to/vavoo-iptv/play/233396691104ac37aed2c4
