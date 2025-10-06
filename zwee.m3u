@@ -27,20 +27,20 @@ https://world-proxifier.xyz/daddylive_go/p/A4DB44LSNZ7XA5DDP4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1024px-TSN5.svg.png",TSN5
 https://world-proxifier.xyz/daddylive_go/p/A4DB44DSNZ7XA5DDPY/index.m3u8
 
-#EXTINF:-1 tvg-id="SNW.ca" group-title="Canada",Sportsnet West
+#EXTINF:-1 tvg-id="SNW.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-snw-ca.png" group-title="Canada",Sportsnet West
 https://world-proxifier.xyz/daddylive_go/p/AAST6NZGG45TKMLSDQQCURISDEPBABAAA4/index.m3u8
-#EXTINF:-1 tvg-id="SNE.ca" group-title="Canada",Sportsnet East
+#EXTINF:-1 tvg-id="SNE.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sne-ca.png" group-title="Canada",Sportsnet East
 https://world-proxifier.xyz/daddylive_go/p/AAST6NZGG45TKMLSBYSCURISDEPBABAABA/index.m3u8
-#EXTINF:-1 tvg-id="SNO.ca" group-title="Canada",Sportsnet Ontario
+#EXTINF:-1 tvg-id="SNO.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sno-ca.png" group-title="Canada",Sportsnet Ontario
 https://world-proxifier.xyz/daddylive_go/p/AAST6NZGG45TKMLSAQVS2UCALJNRAGQ2CBTWKZQ/index.m3u8
-#EXTINF:-1 tvg-id="SNP.ca" group-title="Canada",Sportsnet Pacific
+#EXTINF:-1 tvg-id="SNP.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-snp-ca.png" group-title="Canada",Sportsnet Pacific
 https://wikinew.newkso.ru/wiki/primasportsnetpacific/mono.m3u8
-#EXTINF:-1 tvg-id="SN1.ca" group-title="Canada",Sportsnet One
+#EXTINF:-1 tvg-id="SN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sn1-ca.png" group-title="Canada",Sportsnet One
 https://world-proxifier.xyz/daddylive_go/p/AAST6NZGG45TKMLSAQVTYEIYDEKAIAIB/index.m3u8
-#EXTINF:-1 tvg-id="SN360.ca" group-title="Canada",Sportsnet 360
+#EXTINF:-1 tvg-id="SN360.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sn360-ca.png" group-title="Canada",Sportsnet 360
 https://world-proxifier.xyz/daddylive_go/p/AAST6NZGG45TKMLSPBZWSEIYDEKAIAAJ/index.m3u8
 
-#EXTINF:-1 tvg-id="SNWO.ca" group-title="Canada",Sportsnet World
+#EXTINF:-1 tvg-id="SNWO.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-snworld-ca.png" group-title="Canada",Sportsnet World
 https://world-proxifier.xyz/daddylive_go/p/AAST6NZGG45TKMLSDQVCWXKWCMPBUEAEAFRQ/index.m3u8
 
 
