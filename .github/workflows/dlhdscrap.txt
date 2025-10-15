@@ -1,0 +1,98 @@
+name: Sync zwee with dhld (filtered by tvg-id)
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"  # toutes les 3 heures
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch daddylive playlist
+        run: |
+          curl -s -L "https://raw.githubusercontent.com/pigzillaaa/daddylive/main/daddylive-channels-events.m3u8" -o daddylive.m3u
+
+      - name: Update zwee.m3u based on tvg-id with filters
+        run: |
+          python3 <<'EOF'
+import re
+
+# === CONFIGURATION FILTRAGE ===
+# group-title à GARDER (si vide => garder tout)
+GROUPS_TO_KEEP = ["Sports", "News"]
+
+# mots-clés à SUPPRIMER (non sensible à la casse)
+BLOCKED_KEYWORDS = ["xxx", "test", "backup"]
+
+def parse_m3u(content):
+    entries = {}
+    lines = content.strip().splitlines()
+    for i in range(len(lines)):
+        if lines[i].startswith('#EXTINF:'):
+            match = re.search(r'tvg-id="([^"]+)"', lines[i])
+            if match:
+                tvgid = match.group(1)
+                url = lines[i + 1].strip() if i + 1 < len(lines) else ""
+                entries[tvgid] = (lines[i], url)
+    return entries
+
+def should_keep(extinf_line):
+    """Renvoie True si la chaîne doit être gardée"""
+    # Vérifie group-title
+    if GROUPS_TO_KEEP:
+        group_match = re.search(r'group-title="([^"]+)"', extinf_line)
+        group = group_match.group(1) if group_match else ""
+        if not any(g.lower() in group.lower() for g in GROUPS_TO_KEEP):
+            return False
+
+    # Vérifie les mots-clés interdits
+    name_part = extinf_line.lower()
+    if any(bad.lower() in name_part for bad in BLOCKED_KEYWORDS):
+        return False
+
+    return True
+
+# Lire les fichiers
+with open("daddylive.m3u", "r", encoding="utf-8", errors="ignore") as f:
+    daddylive = f.read()
+with open("zwee.m3u", "r", encoding="utf-8", errors="ignore") as f:
+    zwee = f.read()
+
+# Parser
+daddy_dict = parse_m3u(daddylive)
+zwee_lines = zwee.strip().splitlines()
+
+output = []
+i = 0
+while i < len(zwee_lines):
+    line = zwee_lines[i]
+    if line.startswith('#EXTINF:'):
+        match = re.search(r'tvg-id="([^"]+)"', line)
+        if match:
+            tvgid = match.group(1)
+            if tvgid in daddy_dict:
+                extinf, url = daddy_dict[tvgid]
+                if should_keep(extinf):
+                    output.append(extinf)
+                    output.append(url)
+                i += 2
+                continue
+    i += 1
+
+# Écrire le fichier mis à jour
+with open("zwee.m3u", "w", encoding="utf-8") as f:
+    f.write("\n".join(output) + "\n")
+
+EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add zwee.m3u
+          git commit -m "Auto-sync zwee.m3u (filtered by tvg-id)" || echo "No changes"
+          git push
