@@ -339,9 +339,6 @@ https://live-hls-web-aje.getaj.net/AJE/master.m3u8
 #EXTINF:-1 group-title="Informações" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png",CGTN News
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
-#EXTINF:-1 group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1024px-KBS_World_%282009%29.svg.png" tvg-id="KBSWorld.kr",KBS World
-http://mytv.dothome.co.kr/ch/catv/7.php
-
 
 # Music
 
@@ -522,18 +519,12 @@ https://vavoo.to/vavoo-iptv/play/2996716607fa7f27cf1de6
 
 # France
 
-#EXTINF:-1 tvg-id="CanalSport.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",Canal+ Sport
+#EXTINF:-1 tvg-id="Canal+Sport.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",Canal+ Sport
 https://vavoo.to/vavoo-iptv/play/964513003fd74156da846
-#EXTINF:-1 tvg-id="CanalSport2.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-2-pl.png",Canal+ Sport 2
-https://vavoo.to/vavoo-iptv/play/376957008a6758012e22c
-#EXTINF:-1 tvg-id="CanalSport3.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-3-pl.png",Canal+ Sport 3
-https://vavoo.to/vavoo-iptv/play/7229772486535de597ff2
-#EXTINF:-1 tvg-id="CanalSport4.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-4-pl.png",Canal+ Sport 4
-https://vavoo.to/vavoo-iptv/play/25705261923a09d8e847e3
-#EXTINF:-1 tvg-id="CanalSport5.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-5-pl.png",Canal+ Sport 5
-https://vavoo.to/vavoo-iptv/play/2757178432ae94a0dbf9e5
-#EXTINF:-1 tvg-id="Canal360.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png",Canal+ Sport 360
+#EXTINF:-1 tvg-id="Canal+360.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png",Canal+ Sport 360
 https://vavoo.to/vavoo-iptv/play/33851593067956c6cbd57a
+#EXTINF:-1 tvg-id="Canal+Foot.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-foot-fr.png",Canal+ Foot
+https://vavoo.to/vavoo-iptv/play/3894356861918e3c4076be
 
 #EXTINF:-1 tvg-id="BeIN1.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",BeIN Sports 1
 https://vavoo.to/vavoo-iptv/play/38449168821b069f8d9798
@@ -622,3 +613,47 @@ https://vavoo.to/vavoo-iptv/play/3213760279562369dfad61
 https://vavoo.to/vavoo-iptv/play/969769750e8e6ff224bdd
 #EXTINF:-1 tvg-id="MatchBoets.ru" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-boets-ru.png" group-title="Desporto",Match! Boets
 https://vavoo.to/vavoo-iptv/play/11388711212e6db4b4e4af
+
+
+# Canal+ Live Sports
+
+#EXTINF:-1 tvg-id="Canal+Live1.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 1
+https://vavoo.to/vavoo-iptv/play/238649294745f23982ccd5
+#EXTINF:-1 tvg-id="Canal+Live2.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 2
+https://vavoo.to/vavoo-iptv/play/3382609091ff339c6b1a86
+#EXTINF:-1 tvg-id="Canal+Live3.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 3
+https://vavoo.to/vavoo-iptv/play/411033125162c27168a7fa
+#EXTINF:-1 tvg-id="Canal+Live4.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 4
+https://vavoo.to/vavoo-iptv/play/1188983139562006548a2b
+#EXTINF:-1 tvg-id="Canal+Live5.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 5
+https://vavoo.to/vavoo-iptv/play/20760721478c2ef52474c3
+#EXTINF:-1 tvg-id="Canal+Live6.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 6
+https://vavoo.to/vavoo-iptv/play/100860774768d9fd6dec06
+#EXTINF:-1 tvg-id="Canal+Live7.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 7
+https://vavoo.to/vavoo-iptv/play/25037747030ff67271d1
+#EXTINF:-1 tvg-id="Canal+Live8.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 8
+https://vavoo.to/vavoo-iptv/play/22008699864e3ca0786b97
+#EXTINF:-1 tvg-id="Canal+Live9.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 9
+https://vavoo.to/vavoo-iptv/play/31928293948cc03ffcaf62
+#EXTINF:-1 tvg-id="Canal+Live10.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 10
+https://vavoo.to/vavoo-iptv/play/178193799229f297add28d
+#EXTINF:-1 tvg-id="Canal+Live11.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 11
+https://vavoo.to/vavoo-iptv/play/1465261816c827b52db106
+#EXTINF:-1 tvg-id="Canal+Live12.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 12
+https://vavoo.to/vavoo-iptv/play/284582952c2f55ac02df1
+#EXTINF:-1 tvg-id="Canal+Live13.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 13
+https://vavoo.to/vavoo-iptv/play/764824984fe9928c881aa
+#EXTINF:-1 tvg-id="Canal+Live14.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 14
+https://vavoo.to/vavoo-iptv/play/26795421527a4968feb537
+#EXTINF:-1 tvg-id="Canal+Live15.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 15
+https://vavoo.to/vavoo-iptv/play/2731980856343f163a7797
+#EXTINF:-1 tvg-id="Canal+Live16.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 16
+https://vavoo.to/vavoo-iptv/play/38497656085e82f0576362
+#EXTINF:-1 tvg-id="Canal+Live17.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 17
+https://vavoo.to/vavoo-iptv/play/36253806968c39b843cd85
+#EXTINF:-1 tvg-id="Canal+Live18.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 18
+https://vavoo.to/vavoo-iptv/play/1514568841140395f47e80
+#EXTINF:-1 tvg-id="Canal+Live19.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1024px-Canal%2B_Live.svg.png",Canal+ Live 19
+https://vavoo.to/vavoo-iptv/play/1730565433393bf95c30df
+
+
