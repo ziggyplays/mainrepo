@@ -311,6 +311,22 @@ https://vavoo.to/vavoo-iptv/play/372108342920ebb0aa2a3f
 https://vavoo.to/vavoo-iptv/play/3783797318d9b7d3edde28
 
 
+# Japan
+
+#EXTINF:-1 group-title="JapanTV" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
+https://mt01.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 group-title="JapanTV" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
+https://mt01.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 group-title="JapanTV" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
+https://mt01.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="JapanTV" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
+https://mt01.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="JapanTV" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
+https://mt01.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 group-title="JapanTV" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
+https://mt01.utako.moe/TV_Asahi/index.m3u8
+
+
 # Info
 
 #EXTINF:-1 group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1024px-CNN_International_logo.svg.png",CNN International
