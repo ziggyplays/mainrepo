@@ -331,6 +331,10 @@ https://mt01.utako.moe/TBS/index.m3u8
 https://mt01.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 group-title="Generalista" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
 https://mt01.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="Generalista" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/NHKBS23Horizontal.svg/1024px-NHKBS23Horizontal.svg.png",NHK BS
+https://mt01.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 group-title="Generalista" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/NHKBSP4KHorizontal.svg/1024px-NHKBSP4KHorizontal.svg.png",NHK BS4K
+https://mt01.utako.moe/bsp4k/index.m3u8
 
 
 # Info
