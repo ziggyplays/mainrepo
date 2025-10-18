@@ -657,7 +657,8 @@ https://fl41.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-id="SNW.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-snw-ca.png" group-title="Canada",Sportsnet West
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2050.ts
 #EXTINF:-1 tvg-id="SNE.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sne-ca.png" group-title="Canada",Sportsnet East
-http://drewlive24.duckdns.org:4123?url=https://windnew.newkso.ru/wind/premium408/mono.m3u8&data=Origin=https://jhoxkplay.xyz|Referer=https://jhoxkplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://drewlive24.duckdns.org:4123?url=https://windnew.newkso.ru/wind/premium408/mono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA==
+
 #EXTINF:-1 tvg-id="SNO.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sno-ca.png" group-title="Canada",Sportsnet Ontario
 http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228746.ts
 #EXTINF:-1 tvg-id="SNP.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-snp-ca.png" group-title="Canada",Sportsnet Pacific
