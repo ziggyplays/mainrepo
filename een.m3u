@@ -97,7 +97,7 @@ https://vavoo.to/vavoo-iptv/play/28978935900b836e00a311
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM Business
 https://vavoo.to/vavoo-iptv/play/1945266328e8e437e6162d
 
-#EXTINF:-1 group-title="Generalista" tvg-id="BFMAlsace.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/BFM-Alsace.svg/1024px-BFM-Alsace.svg.png" ,BFM Alsace
+#EXTINF:-1 group-title="Generalista" tvg-id="BFMAlsace.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/BFM-Alsace.svg/1024px-BFM-Alsace.svg.png",BFM Alsace
 https://vavoo.to/vavoo-iptv/play/32407529590081a502d69b
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/vmqkmDB/moselle.jpg",Moselle TV
 https://vavoo.to/vavoo-iptv/play/4056619196035b42eb7aaa
