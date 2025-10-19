@@ -654,65 +654,19 @@ https://fl41.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1024px-TSN5.svg.png",TSN5
 https://fl41.moveonjoy.com/TSN_5/index.m3u8
 
-#EXTINF:-1 tvg-id="SNW.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-snw-ca.png" group-title="Desporto",Sportsnet West
-http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2050.ts
-#EXTINF:-1 tvg-id="SNE.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sne-ca.png" group-title="Desporto",Sportsnet East
-http://drewlive24.duckdns.org:4123?url=https://windnew.newkso.ru/wind/premium408/mono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA==
-#EXTINF:-1 tvg-id="SNO.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sno-ca.png" group-title="Desporto",Sportsnet Ontario
-http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228746.ts
-#EXTINF:-1 tvg-id="SNP.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-snp-ca.png" group-title="Desporto",Sportsnet Pacific
-http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2049.ts
-#EXTINF:-1 tvg-id="SN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sn1-ca.png" group-title="Desporto",Sportsnet One
-http://38.143.48.212:9981/stream/channelid/390027408?profile=pass
-#EXTINF:-1 tvg-id="SN360.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sn360-ca.png" group-title="Desporto",Sportsnet 360
-http://38.143.48.212:9981/stream/channelid/1618628267?profile=pass
-
-#EXTINF:-1 tvg-id="SNWO.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-snworld-ca.png" group-title="Desporto",Sportsnet World
-http://drewlive24.duckdns.org:4123?url=https://windnew.newkso.ru/wind/premium410/mono.m3u8&data=Origin=https://jhoxkplay.xyz|Referer=https://jhoxkplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-
-
-# USA Sports
-
-#EXTINF:-1 tvg-id="SNY.us" group-title="Desporto",Sportsnet New York
-https://fl51.moveonjoy.com/SNY/index.m3u8
-#EXTINF:-1 tvg-id="SNPIT.us" group-title="Desporto",Sportsnet Pittsburgh
-https://tvpass.org/live/sportsnet-pittsburgh/hd
-
-#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png" group-title="Desporto",ESPN
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOIXC4CR4ZIHDACHSGYYCMAAITABKRRW2ZLWGZYGAYDTMB6HE3YI/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png" group-title="Desporto",ESPN2
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOIXC4CR453SDYLBQEIYDEKAIBKMBFSGENBEG52GI2DWMF4CMPAGAQ/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.U.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-u-us.png" group-title="Desporto",ESPNU
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOIXC4CR4IBFHBSXGGYSAEGAQTABAMYTIYDWMQSWMZLQGMXCI2AD/index.m3u8
-
-#EXTINF:-1 tvg-id="MSG.us" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/MSG_Network_logo.png",MSG
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOI7C4JHAEABBJSXGGYSAQBAKTCTKZVGG2DUMERGG2D5MZ7XA3QF/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tnt-us.png",TNT
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOIGBIAXAEABBJSXGGYSAADQQTCWKRTDIZZGMRYTGNT4MIXSCOYC/index.m3u8
-
-#EXTINF:-1 tvg-id="FOXS1.us" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1024px-2015_Fox_Sports_1_logo.svg.png",FOX Sports 1
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOIUFMWXAFRCEQ3S2QQSAIKGKY3RCB4X64DWNM4GG2D5GEXCG2KTKYFVOUQDKMEWM/index.m3u8
-#EXTINF:-1 tvg-id="FOXS2.us" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1024px-FS2_logo_2015.svg.png",FOX Sports 2
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOIUFMWXAFRCEQ3S2QQSAEKGKY3RCB4X64DSM56CSML5MV6HA2YAAQFVOUYEKJJGWNQ/index.m3u8
-
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-us.png" group-title="Desporto",CBS Sports Network
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOIRAYDHAFRCEQ3S2QQSPVIUIR27II4HK6AGCALQMHTMOJQW66ICAIFUQUIBAQCGANBTEAYXMZ3GOY3CS7I/index.m3u8
-#EXTINF:-1 tvg-id="CBS.Sports.Golazo.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-golazo-network-us.png" group-title="Desporto",CBS Sports Golazo
-https://dlhd.dad/watch.php?id=910
+https://fl41.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="NBCSBay.us" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1024px-NBC_Sports_2023.svg.png",NBC Sports Bay Area
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOI4AYLHAFRCEQ3S2QQSOFKUSEDRII3DI4DPPBSGEZLWFZZXAO2QKEDQGCIABAATEMLDERRQ/index.m3u8
-#EXTINF:-1 tvg-id="NBCSBoston.us" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1024px-NBC_Sports_2023.svg.png",NBC Sports Boston
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOI4AYLHAFRCEQ3S2QQSOFNUGRC7LZZX66TFMVYWCLDQNN4SC3KVKADVMAKRA5LGK3JW/index.m3u8
-#EXTINF:-1 tvg-id="NBCSCA.us" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1024px-NBC_Sports_2023.svg.png",NBC Sports California
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOI4AYLHAFRCEQ3S2QQSOBKVYWKWL4QTWOJEOJXH64DSM57DSYKQAJIAICIEAYAWWZRUPU2HKYI/index.m3u8
-#EXTINF:-1 tvg-id="NBCSChicago.us" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1024px-NBC_Sports_2023.svg.png",NBC Sports Chicago
-https://daddylive.sx/stream/stream-776.php
-#EXTINF:-1 tvg-id="NBCSPhiladelphia.us" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1024px-NBC_Sports_2023.svg.png",NBC Sports Philadelphia
-https://dlhd.dad/watch.php?id=777
-#EXTINF:-1 tvg-id="NBCSWashington.us" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1024px-NBC_Sports_2023.svg.png",NBC Sports Washington
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOI4AYLHAFRCEQ3S2QQSMRKUGWCZLY2CCPZLOJXH64DSMVZTSYIGAQBFCVIIBADTCZBVOVTHCZA/index.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mlb-network-us.png" group-title="Desporto",MLB Network
+https://fl41.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nba-tv-us.png" group-title="Desporto",NBA TV
+https://fl41.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-hz-us.png" group-title="Desporto",NFL Network
+https://fl41.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NFLRedZone.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/NFL_Network_Redzone.png" group-title="Desporto",NFL RedZone
+https://fl41.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us@SD" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/nhl-network-usa.png" group-title="Desporto",NHL Network
+https://fl41.moveonjoy.com/NHL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/nhl-network-usa.png" group-title="Desporto",NHL Network
 https://world-proxifier.xyz/daddylive_go/p/C4MWCOI4BQMXACZXH4ZDMQ2ZCNQWG4IQDJ4XKZTTME4GIZJDMUVHOPIEAQDAAUSUBEEGU/index.m3u8
