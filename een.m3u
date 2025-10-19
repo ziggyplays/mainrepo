@@ -497,7 +497,7 @@ https://vavoo.to/vavoo-iptv/play/46981335898e66a40a61f
 https://jmp2.uk/sam-FRBD4800001P4.m3u8
 
 
-# Sports Europe
+# Sports
 
 # Portugal
 
@@ -626,7 +626,7 @@ https://vavoo.to/vavoo-iptv/play/270178612d3bf0bad8c5d
 https://a1xs.vip/2000031
 
 
-# Canada French Sports
+# Canada - French
 
 #EXTINF:-1 tvg-id="TVA.Sports.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-ca.png",TVA Sports
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40645.ts
@@ -641,7 +641,7 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40631.ts
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40627.ts
 
 
-# Canada English Sports
+# Canada - English
 
 #EXTINF:-1 tvg-id="TSN1.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/1024px-TSN1.svg.png",TSN1
 https://fl41.moveonjoy.com/TSN_1/index.m3u8
@@ -653,6 +653,19 @@ https://fl41.moveonjoy.com/TSN_3/index.m3u8
 https://fl41.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1024px-TSN5.svg.png",TSN5
 https://fl41.moveonjoy.com/TSN_5/index.m3u8
+
+[Disabled]
+'EXTINF:-1 tvg-id="SNE.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sne-ca.png" group-title="Canada",Sportsnet East
+'EXTINF:-1 tvg-id="SNW.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-snw-ca.png" group-title="Canada",Sportsnet West
+'EXTINF:-1 tvg-id="SNO.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sno-ca.png" group-title="Canada",Sportsnet Ontario
+'EXTINF:-1 tvg-id="SNP.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-snp-ca.png" group-title="Canada",Sportsnet Pacific
+'EXTINF:-1 tvg-id="SN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sn1-ca.png" group-title="Canada",Sportsnet One
+'EXTINF:-1 tvg-id="SN360.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sn360-ca.png" group-title="Canada",Sportsnet 360
+'EXTINF:-1 tvg-id="SNWO.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-snworld-ca.png" group-title="Canada",Sportsnet World
+
+
+
+# USA
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-us.png" group-title="Desporto",CBS Sports Network
 https://fl41.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
@@ -667,9 +680,6 @@ https://fl41.moveonjoy.com/NFL_NETWORK/index.m3u8
 https://fl41.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us@SD" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/nhl-network-usa.png" group-title="Desporto",NHL Network
 https://fl41.moveonjoy.com/NHL_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/nhl-network-usa.png" group-title="Desporto",NHL Network
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOI4BQMXACZXH4ZDMQ2ZCNQWG4IQDJ4XKZTTME4GIZJDMUVHOPIEAQDAAUSUBEEGU/index.m3u8
 
 
 # Russia
