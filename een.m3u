@@ -362,7 +362,7 @@ https://fl41.moveonjoy.com/FOX_EAST/index.m3u8
 https://fl41.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN.us" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1024px-CNN.svg.png",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CNBC.USA.us" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/961px-CNBC_logo.svg.png",CNBC
 https://fl25.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Channel_logo.png" group-title="Generalista",Fox News
@@ -684,22 +684,24 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40627.ts
 # Canada - English
 
 #EXTINF:-1 tvg-id="TSN1.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/1024px-TSN1.svg.png",TSN1
-https://fl41.moveonjoy.com/TSN_1/index.m3u8
+https://fl7.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="TSN2.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/1024px-TSN2.svg.png",TSN2
-https://fl41.moveonjoy.com/TSN_2/index.m3u8
+https://fl30.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 tvg-id="TSN3.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/1024px-TSN3.svg.png",TSN3
-https://fl41.moveonjoy.com/TSN_3/index.m3u8
+https://fl30.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1 tvg-id="TSN4.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1024px-TSN4.svg.png",TSN4
-https://fl41.moveonjoy.com/TSN_4/index.m3u8
+https://fl7.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1024px-TSN5.svg.png",TSN5
-https://fl41.moveonjoy.com/TSN_5/index.m3u8
+https://fl30.moveonjoy.com/TSN_5/index.m3u8
 
 [Disabled]
 'EXTINF:-1 tvg-id="SNE.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sne-ca.png" group-title="Canada",Sportsnet East
 'EXTINF:-1 tvg-id="SNW.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-snw-ca.png" group-title="Canada",Sportsnet West
 'EXTINF:-1 tvg-id="SNO.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sno-ca.png" group-title="Canada",Sportsnet Ontario
-'EXTINF:-1 tvg-id="SNP.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-snp-ca.png" group-title="Canada",Sportsnet Pacific
-'EXTINF:-1 tvg-id="SN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sn1-ca.png" group-title="Canada",Sportsnet One
+#EXTINF:-1 tvg-id="SNP.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-snp-ca.png" group-title="Canada",Sportsnet Pacific
+http://38.143.48.212:9981/stream/channelid/1546770827?profile=pass
+#EXTINF:-1 tvg-id="SN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sn1-ca.png" group-title="Canada",Sportsnet One
+http://38.143.48.212:9981/stream/channelid/390027408?profile=pass
 'EXTINF:-1 tvg-id="SN360.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sn360-ca.png" group-title="Canada",Sportsnet 360
 'EXTINF:-1 tvg-id="SNWO.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-snworld-ca.png" group-title="Canada",Sportsnet World
 
