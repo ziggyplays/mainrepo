@@ -342,37 +342,37 @@ https://proxyv2.utako.moe/ph.php?&isp=1&id=bs01
 # Western Feed - L.A. TV Pass
 
 #EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-name="ABC (KABC)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-kgo-us.png" group-title="Generalista",ABC Los Angeles
-https://tvpass.org/live/abc-kabc-los-angeles-ca/hd/|Referer=https://tvpass.org/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://tvpass.org
+http://kstv.us:8080/live/Purn3542/38791114838/48784.ts
 #EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-name="CBSLA (KCBS) Los Angeles" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-kcbs-us.png" group-title="Generalista",CBS Los Angeles
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd/|Referer=https://tvpass.org/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://tvpass.org
 #EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-name="FOX (KTTV)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-11-kttv-us.png" group-title="Generalista",FOX Los Angeles
-https://tvpass.org/live/fox-kttv-los-angeles-ca/hd/|Referer=https://tvpass.org/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://tvpass.org
+http://kstv.us:8080/live/Purn3542/38791114838/48788.ts
 #EXTINF:-1 tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-name="NBC (KNBC)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/nbc-4-knbc-us.png" group-title="Generalista",NBC Los Angeles
-https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd/|Referer=https://tvpass.org/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://tvpass.org
+http://kstv.us:8080/live/Purn3542/38791114838/48790.ts
 
 # Eastern Feed - N.Y.
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="Generalista",ABC New York
-https://fl41.moveonjoy.com/ABC_EAST/index.m3u8
+https://fl30.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-wcbs-us.png" group-title="Generalista",CBS New York
-https://fl41.moveonjoy.com/CBS_News/index.m3u8
+https://fl7.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-5-wnyw-us.png" group-title="Generalista",FOX New York
-https://fl41.moveonjoy.com/FOX_EAST/index.m3u8
+https://fl7.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/nbc-4-wnbc-us.png" group-title="Generalista",NBC New York
-https://fl41.moveonjoy.com/NBC_EAST/index.m3u8
+https://fl7.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN.us" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1024px-CNN.svg.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CNBC.USA.us" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/961px-CNBC_logo.svg.png",CNBC
-https://fl25.moveonjoy.com/CNBC/index.m3u8
+https://fl30.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Channel_logo.png" group-title="Generalista",Fox News
-https://fl41.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+https://fl30.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="PBS.-.Network.HD.-.Eastern.us" tvg-name="PBS (WNET) New York, NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1024px-PBS_logo_2019.svg.png" group-title="Generalista",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 
 #EXTINF:-1 group-title="Generalista" tvg-id="C-SPAN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png",C-SPAN
-https://fl41.moveonjoy.com/C-SPAN/index.m3u8
+https://fl7.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="Generalista" tvg-id="C-SPAN2.us" tvg-logo="https://i.imgur.com/9B6XIQC.png",C-SPAN 2
 https://tvpass.org/live/CSPAN2/hd
 
