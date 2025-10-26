@@ -337,47 +337,10 @@ https://proxyv2.utako.moe/ph.php?&isp=1&id=bs11
 https://proxyv2.utako.moe/ph.php?&isp=1&id=bs01
 
 
-# USA
-
-# Western Feed - L.A. TV Pass
-
-#EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-name="ABC (KABC)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-kgo-us.png" group-title="Generalista",ABC Los Angeles
-http://kstv.us:8080/live/Purn3542/38791114838/48784.ts
-#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-name="CBSLA (KCBS) Los Angeles" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-kcbs-us.png" group-title="Generalista",CBS Los Angeles
-https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd/|Referer=https://tvpass.org/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://tvpass.org
-#EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-name="FOX (KTTV)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-11-kttv-us.png" group-title="Generalista",FOX Los Angeles
-http://kstv.us:8080/live/Purn3542/38791114838/48788.ts
-#EXTINF:-1 tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-name="NBC (KNBC)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/nbc-4-knbc-us.png" group-title="Generalista",NBC Los Angeles
-http://kstv.us:8080/live/Purn3542/38791114838/48790.ts
-
-# Eastern Feed - N.Y.
-
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="Generalista",ABC New York
-https://fl30.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-wcbs-us.png" group-title="Generalista",CBS New York
-https://fl7.moveonjoy.com/CBS_News/index.m3u8
-#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-5-wnyw-us.png" group-title="Generalista",FOX New York
-https://fl7.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/nbc-4-wnbc-us.png" group-title="Generalista",NBC New York
-https://fl7.moveonjoy.com/NBC_EAST/index.m3u8
-
-#EXTINF:-1 tvg-id="CNN.us" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1024px-CNN.svg.png",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNBC.USA.us" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/961px-CNBC_logo.svg.png",CNBC
-https://fl30.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="Fox.News.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Channel_logo.png" group-title="Generalista",Fox News
-https://fl30.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-id="PBS.-.Network.HD.-.Eastern.us" tvg-name="PBS (WNET) New York, NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1024px-PBS_logo_2019.svg.png" group-title="Generalista",PBS
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-
-#EXTINF:-1 group-title="Generalista" tvg-id="C-SPAN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png",C-SPAN
-https://fl7.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1 group-title="Generalista" tvg-id="C-SPAN2.us" tvg-logo="https://i.imgur.com/9B6XIQC.png",C-SPAN 2
-https://tvpass.org/live/CSPAN2/hd
-
-
 # Info
+
+#EXTINF:-1 tvg-id="CNN.us" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1024px-CNN.svg.png",CNN USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1024px-CNN_International_logo.svg.png",CNN International
 https://vavoo.to/vavoo-iptv/play/19625673545bc5198c7aa6
@@ -664,62 +627,6 @@ https://vavoo.to/vavoo-iptv/play/27217277804702040fbfdb
 https://vavoo.to/vavoo-iptv/play/270178612d3bf0bad8c5d
 #EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="Desporto",TNT Sports Ultimate UHD
 https://a1xs.vip/2000031
-
-
-# Canada - French
-
-#EXTINF:-1 tvg-id="TVA.Sports.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-ca.png",TVA Sports
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40645.ts
-#EXTINF:-1 tvg-id="TVA.Sports.2.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-2-ca.png",TVA Sports 2
-http://stream.ultimate-tvservice.com:8080/live/Jalen/Jalen16/265220.ts
-
-#EXTINF:-1 tvg-id="RDS.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/RDS_logo.svg/1024px-RDS_logo.svg.png",RDS
-https://mckfq-mytv.hf.space/proxy/manifest.m3u8?url=https%253A%252F%252Fdokko1new.newkso.ru%252Fdokko1%252Fpremium839%252Fmono.m3u8%26data%3DT3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%253D%253D&h_user-agent=Mozilla/5.0&h_referer=https://jxoxkplay.xyz/
-#EXTINF:-1 tvg-id="RDS2.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Reseau_Des_Sport_2.svg/1024px-Reseau_Des_Sport_2.svg.png",RDS2
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium840%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-#EXTINF:-1 tvg-id="RDSInfo.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Rds_info.svg/1024px-Rds_info.svg.png",RDS Info
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40627.ts
-
-
-# Canada - English
-
-#EXTINF:-1 tvg-id="TSN1.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/1024px-TSN1.svg.png",TSN1
-https://fl30.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 tvg-id="TSN2.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/1024px-TSN2.svg.png",TSN2
-https://fl30.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 tvg-id="TSN3.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/1024px-TSN3.svg.png",TSN3
-https://fl30.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 tvg-id="TSN4.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1024px-TSN4.svg.png",TSN4
-https://fl30.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 tvg-id="TSN5.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1024px-TSN5.svg.png",TSN5
-https://fl30.moveonjoy.com/TSN_5/index.m3u8
-
-#EXTINF:-1 tvg-id="SNE.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sne-ca.png" group-title="Canada",Sportsnet East
-#EXTINF:-1 tvg-id="SNW.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-snw-ca.png" group-title="Canada",Sportsnet West
-#EXTINF:-1 tvg-id="SNO.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sno-ca.png" group-title="Canada",Sportsnet Ontario
-#EXTINF:-1 tvg-id="SNP.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-snp-ca.png" group-title="Canada",Sportsnet Pacific
-https://mckfq-mytv.hf.space/proxy/manifest.m3u8?url=http://38.143.48.212:9981/stream/channelid/1546770827?profile=pass
-#EXTINF:-1 tvg-id="SN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sn1-ca.png" group-title="Canada",Sportsnet One
-https://mckfq-mytv.hf.space/proxy/manifest.m3u8?url=http://38.143.48.212:9981/stream/channelid/390027408?profile=pass
-#EXTINF:-1 tvg-id="SN360.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-sn360-ca.png" group-title="Canada",Sportsnet 360
-#EXTINF:-1 tvg-id="SNWO.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-snworld-ca.png" group-title="Canada",Sportsnet World
-
-
-# USA
-
-#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-us.png" group-title="Desporto",CBS Sports Network
-https://fl30.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="MLBNetwork.us@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mlb-network-us.png" group-title="Desporto",MLB Network
-https://fl30.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nba-tv-us.png" group-title="Desporto",NBA TV
-https://fl30.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 tvg-id="NFLNetwork.us@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-hz-us.png" group-title="Desporto",NFL Network
-https://fl30.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="NFLRedZone.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/NFL_Network_Redzone.png" group-title="Desporto",NFL RedZone
-https://fl7.moveonjoy.com/NFL_RedZone/index.m3u8
-#EXTINF:-1 tvg-id="NHLNetwork.us@SD" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/nhl-network-usa.png" group-title="Desporto",NHL Network
-https://fl7.moveonjoy.com/NHL_NETWORK/index.m3u8
 
 
 # Russia
