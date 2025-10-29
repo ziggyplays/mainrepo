@@ -337,6 +337,14 @@ https://us1001.utako.moe/NHK_BS/index.m3u8
 https://us1001.utako.moe/bsp4k/index.m3u8
 
 
+# USA
+
+#EXTINF:-1  tvg-name="NBC West (KNBC)" tvg-id="KNBC-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KNBC_2023.svg/960px-KNBC_2023.svg.png" group-title="Generalista",NBC West (KNBC)
+http://kstv.us:8080/live/Purn3542/38791114838/48790.ts
+#EXTINF:-1  tvg-name="NBC East (WNBC)" tvg-id="WNBC-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WNBC_2023.svg/640px-WNBC_2023.svg.png" group-title="Generalista",NBC East (WNBC)
+http://108.14.66.42:5004/auto/v4.1
+
+
 # Info
 
 #EXTINF:-1 tvg-id="CNN.us" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1024px-CNN.svg.png",CNN USA
