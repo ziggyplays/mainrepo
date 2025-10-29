@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/can
 #EXTINF:-1 tvg-id="t18.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/1024px-Logo_de_la_chaine_T18.svg.png",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/res/t18-dm-highest.m3u8
 #EXTINF:-1 tvg-id="Novo19.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/1024px-Logo_NOVO19_-_2025.svg.png",Novo 19
-https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
+http://62.129.183.89:9981/stream/channelid/135417969?ticket=1F39720368FA2728A7F6DE1FA7D4F104D7690AD6&profile=pass
 #EXTINF:-1 group-title="Generalista" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/1024px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" ,TF1 Séries Films
 https://vavoo.to/vavoo-iptv/play/1760063888f6e9e21d8039
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'Équipe TV
