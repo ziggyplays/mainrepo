@@ -322,19 +322,19 @@ https://vavoo.to/vavoo-iptv/play/3783797318d9b7d3edde28
 # Japan
 
 #EXTINF:-1 group-title="Generalista" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/1024px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",NHK G
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gx06
+https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd01
 #EXTINF:-1 group-title="Generalista" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
-https://mt01.utako.moe/Nippon_TV/index.m3u8
+https://us1001.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 group-title="Generalista" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
-https://mt01.utako.moe/TBS/index.m3u8
+https://us1001.utako.moe/TBS/index.m3u8
 #EXTINF:-1 group-title="Generalista" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
-https://mt01.utako.moe/Fuji_TV/index.m3u8
+https://us1001.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 group-title="Generalista" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
-https://mt01.utako.moe/TV_Asahi/index.m3u8
+https://us1001.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 group-title="Generalista" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/NHKBS23Horizontal.svg/1024px-NHKBS23Horizontal.svg.png",NHK BS
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs11
-#EXTINF:-1 group-title="Generalista" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/NHKBSP4KHorizontal.svg/1024px-NHKBSP4KHorizontal.svg.png",NHK BS4K
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs01
+https://us1001.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 group-title="Generalista" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/NHKBSP4KHorizontal.svg/1024px-NHKBSP4KHorizontal.svg.png",NHK BSP4K
+https://us1001.utako.moe/bsp4k/index.m3u8
 
 
 # Info
@@ -392,6 +392,7 @@ https://vavoo.to/vavoo-iptv/play/1168271890306d3508fdf7
 https://vavoo.to/vavoo-iptv/play/33380412882bc2241af9a8
 #EXTINF:-1 group-title="Música" tvg-id="AlmaLusa.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Logo-channel-c686df60-9ab4-11ea-84f1-15e394418217-250x250.png/revision/latest?cb=20220116184216", Alma Lusa
 https://vavoo.to/vavoo-iptv/play/87621768e1191806a4c0
+
 
 # Movies
 
