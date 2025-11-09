@@ -337,14 +337,6 @@ https://us1001.utako.moe/NHK_BS/index.m3u8
 https://us1001.utako.moe/bsp4k/index.m3u8
 
 
-# USA
-
-#EXTINF:-1  tvg-name="NBC West (KNBC)" tvg-id="KNBC-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KNBC_2023.svg/960px-KNBC_2023.svg.png" group-title="Generalista",NBC West (KNBC)
-http://kstv.us:8080/live/Purn3542/38791114838/48790.ts
-#EXTINF:-1  tvg-name="NBC East (WNBC)" tvg-id="WNBC-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WNBC_2023.svg/640px-WNBC_2023.svg.png" group-title="Generalista",NBC East (WNBC)
-http://108.14.66.42:5004/auto/v4.1
-
-
 # Info
 
 #EXTINF:-1 tvg-id="CNN.us" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1024px-CNN.svg.png",CNN USA
@@ -384,7 +376,7 @@ https://vavoo.to/vavoo-iptv/play/885911308e84f0918467a
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/mezzo-live-fr.png" group-title="Música",Mezzo Live
 https://vavoo.to/vavoo-iptv/play/3789436766177fc207d7db
 #EXTINF:-1 tvg-id="StingrayClassica.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Stingray_Classica_Alternative.svg/1024px-Stingray_Classica_Alternative.svg.png" group-title="Música",Stingray Classica
-https://vavoo.to/vavoo-iptv/play/3164307077695efa4093e2
+https://vavoo.to/vavoo-iptv/play/1654793112564d7dafafc5
 #EXTINF:-1 tvg-id="StingrayDjazz.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stingray_Djazz.svg/1024px-Stingray_Djazz.svg.png" group-title="Música",Stingray Djazz
 https://vavoo.to/vavoo-iptv/play/15441409037043dcf99254
 #EXTINF:-1 tvg-id="StingrayLoud.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/stingray-loud-ca.png" group-title="Música",Stingray Loud
