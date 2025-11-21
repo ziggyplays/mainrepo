@@ -339,8 +339,13 @@ https://us1001.utako.moe/bsp4k/index.m3u8
 
 # Info
 
-#EXTINF:-1 tvg-id="CNN.us" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1024px-CNN.svg.png",CNN USA
+#EXTINF:-1 tvg-id="CNN.us" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1024px-CNN.svg.png",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="FoxNews.us" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-framed-us.png",FOX News
+https://vavoo.to/vavoo-iptv/play/2755612747efccdb2b107e
+
+#EXTINF:-1 tvg-id="CNBCEurope.pt" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-europe/cnbc-eu.png",CNBC Europe
+https://vavoo.to/vavoo-iptv/play/24294931561ec8d27f7119
 
 #EXTINF:-1 group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1024px-CNN_International_logo.svg.png",CNN International
 https://vavoo.to/vavoo-iptv/play/19625673545bc5198c7aa6
@@ -355,6 +360,9 @@ https://vavoo.to/vavoo-iptv/play/18459860014a4e14255cf
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title="Informações" tvg-id="SkyNewsInternational.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png",Sky News
 https://vavoo.to/vavoo-iptv/play/261085535435dd768e8ff9
+
+#EXTINF:-1 group-title="Informações" tvg-id="BloombergEurope.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bloomberg-television-us.png",Bloomberg
+https://vavoo.to/vavoo-iptv/play/2121013634d8ad948358ae
 
 #EXTINF:-1 group-title="Informações" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",France 24
 https://vavoo.to/vavoo-iptv/play/191259571693aa678a7e30
@@ -477,7 +485,7 @@ https://vavoo.to/vavoo-iptv/play/78318791484a7ab86cea1
 #EXTINF:-1 tvg-id="NatGeo.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/national-geographic-hd-es.png" group-title="Entretenimento",National Geographic PT
 https://vavoo.to/vavoo-iptv/play/503347396572e08f52c01
 #EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/national-geographic-wild-hd-es.png" group-title="Entretenimento",Wild National Geographic PT
-https://vavoo.to/vavoo-iptv/play/269328975361837c5e0705
+https://vavoo.to/vavoo-iptv/play/209186434614ca4306bfd6
 
 #EXTINF:-1 tvg-id="Love.Nature.ca" tvg-name="Love Nature 4K" tvg-logo="https://i.ibb.co/SdSKhsj/love-nature-4k.png" group-title="Entretenimento",Love Nature 4K
 https://vavoo.to/vavoo-iptv/play/10782221721cd1db332b6b
@@ -630,6 +638,37 @@ https://vavoo.to/vavoo-iptv/play/270178612d3bf0bad8c5d
 https://a1xs.vip/2000031
 
 
+# Canada-USA
+
+#EXTINF:-1 tvg-id="TSN1.ca" group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/1024px-TSN1.svg.png",TSN1
+https://fl1.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN2.ca" group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/1024px-TSN2.svg.png",TSN2
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca" group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/1024px-TSN3.svg.png",TSN3
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca" group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1024px-TSN4.svg.png",TSN4
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca" group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1024px-TSN5.svg.png",TSN5
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
+
+#EXTINF:-1 group-title="Desporto" tvg-id="FanDuelSportsNetwork.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1024px-FanDuel_Sports_Network_logo.svg.png" ,FanDuel Sports Network
+https://fl1.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-id="FanDuelTV.us@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",FanDuel TV
+https://fl1.moveonjoy.com/TVG/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-us.png" group-title="USA",CBS Sports Network
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Desporto" tvg-id="NHLNetwork.us@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nhl-network-us.png",NHL Network
+https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-id="NBATV.us@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nba-tv-us.png",NBA TV
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-id="NFLNetwork.us@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-us.png",NFL Network
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Desporto" tvg-id="NFLRedZone.us@SD" tvg-logo=https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-us.png",NFL RedZone
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+
+
 # Russia
 
 #EXTINF:-1 tvg-id="KHL.ru" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/khl-ru.png",KHL
@@ -687,3 +726,29 @@ https://vavoo.to/vavoo-iptv/play/1514568841140395f47e80
 https://vavoo.to/vavoo-iptv/play/1730565433393bf95c30df
 
 
+# Magenta Live Sports
+
+#EXTINF:-1 tvg-id="MagenstaSport1.de" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/magenta-sport-1-at.png",Magenta Sport 1
+https://vavoo.to/vavoo-iptv/play/1810523752094405320ffe
+#EXTINF:-1 tvg-id="MagenstaSport2.de" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/magenta-sport-2-at.png",Magenta Sport 2
+https://vavoo.to/vavoo-iptv/play/74305452074b371b4fb35
+#EXTINF:-1 tvg-id="MagenstaSport3.de" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/magenta-sport-3-at.png",Magenta Sport 3
+https://vavoo.to/vavoo-iptv/play/287978760d084d97c8959
+#EXTINF:-1 tvg-id="MagenstaSport4.de" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/magenta-sport-4-at.png",Magenta Sport 4
+https://vavoo.to/vavoo-iptv/play/273540124065012822dc63
+#EXTINF:-1 tvg-id="MagenstaSport5.de" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/magenta-sport-5-at.png",Magenta Sport 5
+https://vavoo.to/vavoo-iptv/play/2657796264bdb87c7b7d2e
+#EXTINF:-1 tvg-id="MagenstaSport6.de" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/magenta-sport-6-at.png",Magenta Sport 6
+https://vavoo.to/vavoo-iptv/play/3653941880fc2dbbc4b55c
+#EXTINF:-1 tvg-id="MagenstaSport7.de" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/magenta-sport-7-at.png",Magenta Sport 7
+https://vavoo.to/vavoo-iptv/play/3209773973bf95c7802d21
+#EXTINF:-1 tvg-id="MagenstaSport8.de" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/magenta-sport-8-at.png",Magenta Sport 8
+https://vavoo.to/vavoo-iptv/play/1727661081b32117de00ca
+#EXTINF:-1 tvg-id="MagenstaSport9.de" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/magenta-sport-9-at.png",Magenta Sport 9
+https://vavoo.to/vavoo-iptv/play/1536830889cccec276305e
+#EXTINF:-1 tvg-id="MagenstaSport10.de" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/magenta-sport-10-at.png",Magenta Sport 10
+https://vavoo.to/vavoo-iptv/play/21487208329b0862cf0f3d
+#EXTINF:-1 tvg-id="MagenstaSport11.de" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/magenta-sport-11-at.png",Magenta Sport 11
+https://vavoo.to/vavoo-iptv/play/2398423057756a9b2cddb0
+#EXTINF:-1 tvg-id="MagenstaSport12.de" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/magenta-sport-12-at.png",Magenta Sport 12
+https://vavoo.to/vavoo-iptv/play/3474801522c4e690e747bc
