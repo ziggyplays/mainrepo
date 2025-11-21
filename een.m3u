@@ -362,7 +362,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 https://vavoo.to/vavoo-iptv/play/261085535435dd768e8ff9
 
 #EXTINF:-1 group-title="Informações" tvg-id="BloombergEurope.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bloomberg-television-us.png",Bloomberg
-https://vavoo.to/vavoo-iptv/play/2121013634d8ad948358ae
+https://vavoo.to/vavoo-iptv/play/1154799044040579fc831a
 
 #EXTINF:-1 group-title="Informações" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",France 24
 https://vavoo.to/vavoo-iptv/play/191259571693aa678a7e30
@@ -393,7 +393,7 @@ https://vavoo.to/vavoo-iptv/play/16052425729d9f04de9dee
 https://vavoo.to/vavoo-iptv/play/216763212240408f426082
 
 #EXTINF:-1 group-title="Música" tvg-id="MTV.pt" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" tvg-name="MTV",MTV Portugal
-https://vavoo.to/vavoo-iptv/play/35557164194cdcc75fb42f
+https://vavoo.to/vavoo-iptv/play/4002046150b2001d9e317f
 #EXTINF:-1 group-title="Música" tvg-id="MTV.Live.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" tvg-name="MTV Live",MTV Live
 https://vavoo.to/vavoo-iptv/play/1168271890306d3508fdf7
 #EXTINF:-1 group-title="Música" tvg-id="ClubbingTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" ,Clubbing TV
@@ -485,7 +485,7 @@ https://vavoo.to/vavoo-iptv/play/78318791484a7ab86cea1
 #EXTINF:-1 tvg-id="NatGeo.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/national-geographic-hd-es.png" group-title="Entretenimento",National Geographic PT
 https://vavoo.to/vavoo-iptv/play/503347396572e08f52c01
 #EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/national-geographic-wild-hd-es.png" group-title="Entretenimento",Wild National Geographic PT
-https://vavoo.to/vavoo-iptv/play/209186434614ca4306bfd6
+https://vavoo.to/vavoo-iptv/play/269328975361837c5e0705
 
 #EXTINF:-1 tvg-id="Love.Nature.ca" tvg-name="Love Nature 4K" tvg-logo="https://i.ibb.co/SdSKhsj/love-nature-4k.png" group-title="Entretenimento",Love Nature 4K
 https://vavoo.to/vavoo-iptv/play/10782221721cd1db332b6b
@@ -530,16 +530,18 @@ https://vavoo.to/vavoo-iptv/play/181097007918fbb14820e
 #EXTINF:-1 tvg-id="SportTV7.pt" tvg-logo="https://epg.pw/media/images/epg/2024/12/11/20241211020550349483_47.png" group-title="Desporto",Sport TV 7
 https://vavoo.to/vavoo-iptv/play/933985183b40f9b0302d3
 
-#EXTINF:-1 tvg-id="DAZN1.pt" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png",DAZN 1 Portugal
+#EXTINF:-1 tvg-id="DAZN1.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-1-be.png",DAZN 1 Portugal
 https://vavoo.to/vavoo-iptv/play/3919670374e8485c0605b7
-#EXTINF:-1 tvg-id="DAZN2.pt" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png",DAZN 2 Portugal
+#EXTINF:-1 tvg-id="DAZN2.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-2-be.png",DAZN 2 Portugal
 https://vavoo.to/vavoo-iptv/play/2919306934b8d3d6aa8ab1
-#EXTINF:-1 tvg-id="DAZN3.pt" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png",DAZN 3 Portugal
+#EXTINF:-1 tvg-id="DAZN3.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-3-be.png",DAZN 3 Portugal
 https://vavoo.to/vavoo-iptv/play/247262387809c5bac8f8ee
-#EXTINF:-1 tvg-id="DAZN4.pt" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png",DAZN 4 Portugal
+#EXTINF:-1 tvg-id="DAZN4.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-4-be.png",DAZN 4 Portugal
 https://vavoo.to/vavoo-iptv/play/557966102d41cc7f5739f
-#EXTINF:-1 tvg-id="DAZN5.pt" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/DAZN_5.png",DAZN 5 Portugal
+#EXTINF:-1 tvg-id="DAZN5.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-5-be.png",DAZN 5 Portugal
 https://vavoo.to/vavoo-iptv/play/471976614113b1745b03c
+#EXTINF:-1 tvg-id="DAZN6.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-6-be.png",DAZN 6 Portugal
+https://vavoo.to/vavoo-iptv/play/15352259742b04a0a18020
 
 #EXTINF:-1 tvg-id="Canal11.pt" tvg-logo= "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/canal11-pt.png" group-title="Desporto",Canal 11
 https://vavoo.to/vavoo-iptv/play/1088798341f1feb1c492e6
