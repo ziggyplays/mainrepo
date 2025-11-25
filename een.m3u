@@ -81,6 +81,9 @@ https://vavoo.to/vavoo-iptv/play/2957270266f8a57fc4d110
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/36/RMC_Life.png",RMC Life
 https://vavoo.to/vavoo-iptv/play/19697030465be86491cf97
 
+#EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",Canal+
+https://vavoo.to/vavoo-iptv/play/3168549818d46b381b66c9
+
 #EXTINF:-1 group-title="Generalista" tvg-name="Paris Première" tvg-id="ParisPremiere.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ParisPremi%C3%A8re.webp" ,Paris Première
 https://vavoo.to/vavoo-iptv/play/21397590080b92bf1cb6f0
 #EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/RTL9-logo-2023.svg/1024px-RTL9-logo-2023.svg.png" group-title="Generalista",RTL9
@@ -88,8 +91,8 @@ https://vavoo.to/vavoo-iptv/play/16316567992e16be5e5da3
 #EXTINF:-1 tvg-id="Teva.fr" tvg-name="Téva" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/T%C3%A9va_logo_2021.svg/1024px-T%C3%A9va_logo_2021.svg.png" group-title="Generalista",Téva
 https://vavoo.to/vavoo-iptv/play/2221887416d7fbe08fe097
 
-#EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",Canal+
-https://vavoo.to/vavoo-iptv/play/3168549818d46b381b66c9
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="Entretenimento",Comedy Central FR
+https://vavoo.to/vavoo-iptv/play/1771155734a84f028b7c5b
 
 #EXTINF:-1 group-title="Informações" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",France 24
 https://vavoo.to/vavoo-iptv/play/28978935900b836e00a311
@@ -518,7 +521,7 @@ https://vavoo.to/vavoo-iptv/play/21803015125c6ca0e5cfeb
 https://vavoo.to/vavoo-iptv/play/3400596977008c5ef91f91
 
 #EXTINF:-1 tvg-id="JDCV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/RMC_S00334306_program_logo.png" group-title="Entretenimento",J'irai dormir chez vous
-https://dwsx9zc2hxqhl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-k0j7zahecxb3y/index.m3u8
+https://jmp2.uk/stvp-FRBD4800001P4
 
 
 # Sports
