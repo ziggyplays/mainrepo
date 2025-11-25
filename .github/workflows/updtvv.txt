@@ -1,4 +1,4 @@
-#DRAFT
+#Gestoppt
 name: updtvv
 on:
   schedule:
