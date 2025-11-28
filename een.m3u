@@ -84,7 +84,7 @@ https://vavoo.to/vavoo-iptv/play/19697030465be86491cf97
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",Canal+
 https://vavoo.to/vavoo-iptv/play/3168549818d46b381b66c9
 
-#EXTINF:-1 group-title="Generalista" tvg-name="Paris Première" tvg-id="ParisPremiere.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ParisPremi%C3%A8re.webp" ,Paris Première
+#EXTINF:-1 group-title="Generalista" tvg-name="Paris Première" tvg-id="ParisPremiere.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/paris-premiere-fr.png" ,Paris Première
 https://vavoo.to/vavoo-iptv/play/21397590080b92bf1cb6f0
 #EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/RTL9-logo-2023.svg/1024px-RTL9-logo-2023.svg.png" group-title="Generalista",RTL9
 https://vavoo.to/vavoo-iptv/play/16316567992e16be5e5da3
@@ -100,7 +100,7 @@ https://vavoo.to/vavoo-iptv/play/28978935900b836e00a311
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM Business
 https://vavoo.to/vavoo-iptv/play/1945266328e8e437e6162d
 
-#EXTINF:-1 group-title="Generalista" tvg-id="BFMAlsace.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/BFM-Alsace.svg/1024px-BFM-Alsace.svg.png",BFM Alsace
+#EXTINF:-1 group-title="Generalista" tvg-id="BFMAlsace.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/BFMALSACE-2024.svg/1025px-BFMALSACE-2024.svg.png",BFM Alsace
 https://vavoo.to/vavoo-iptv/play/26063334418e4198ca0b21
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/vmqkmDB/moselle.jpg",Moselle TV
 https://vavoo.to/vavoo-iptv/play/4056619196035b42eb7aaa
@@ -156,7 +156,7 @@ https://vavoo.to/vavoo-iptv/play/1324733956dd45e42ab076
 https://vavoo.to/vavoo-iptv/play/22357320045f329c720096
 #EXTINF:-1 tvg-id="Canale5.it" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/1222px-Canale_5_-_2018_logo.svg.png" ,Canale 5
 https://vavoo.to/vavoo-iptv/play/2665955926596cea87e04c
-#EXTINF:-1 tvg-id="It1.it" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/1024px-Italia_1.svg.png" ,Italia 1
+#EXTINF:-1 tvg-id="It1.it" group-title="Generalista" tvg-logo="https:/https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia1-it.png" ,Italia 1
 https://vavoo.to/vavoo-iptv/play/3793416915770628af1cfd
 #EXTINF:-1 tvg-id="La7.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/1014px-LA7_-_Logo_2011.svg.png" group-title="Generalista",La7
 https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
@@ -277,7 +277,7 @@ https://vavoo.to/vavoo-iptv/play/33544307137e27ad4a29ae
 
 # Poland
 
-#EXTINF:-1 tvg-id="TVPInfo.pl" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TVP_Info_%282024%29.svg/1024px-TVP_Info_%282024%29.svg.png",TVP Info
+#EXTINF:-1 tvg-id="TVPInfo.pl" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-info-pl.png",TVP Info
 https://vavoo.to/vavoo-iptv/play/7147195252bb4ee9fa4ab
 #EXTINF:-1 tvg-id="TVN24.pl" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Tvn24_Logo.svg/799px-Tvn24_Logo.svg.png",TVN24
 https://vavoo.to/vavoo-iptv/play/13715527946fbc8d3643ca
