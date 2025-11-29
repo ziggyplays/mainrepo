@@ -21,7 +21,7 @@ https://vavoo.to/vavoo-iptv/play/40802503527749c5f13b52
 #EXTINF:-1 tvg-id="CMTV.HD.pt" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png",CMTV
 https://vavoo.to/vavoo-iptv/play/384601660517fa3552a29f
 
-#EXTINF:-1 group-title="Informações" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
+#EXTINF:-1 group-title="Informações" tvg-id="EuronewsPortugues.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
 https://vavoo.to/vavoo-iptv/play/17533035504c031b8c8191
 
 #EXTINF:-1 group-title="Generalista" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
@@ -156,13 +156,14 @@ https://vavoo.to/vavoo-iptv/play/1324733956dd45e42ab076
 https://vavoo.to/vavoo-iptv/play/22357320045f329c720096
 #EXTINF:-1 tvg-id="Canale5.it" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/1222px-Canale_5_-_2018_logo.svg.png" ,Canale 5
 https://vavoo.to/vavoo-iptv/play/2665955926596cea87e04c
-#EXTINF:-1 tvg-id="It1.it" group-title="Generalista" tvg-logo="https:/https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia1-it.png" ,Italia 1
+#EXTINF:-1 tvg-id="It1.it" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia1-it.png" ,Italia 1
 https://vavoo.to/vavoo-iptv/play/3793416915770628af1cfd
 #EXTINF:-1 tvg-id="La7.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/1014px-LA7_-_Logo_2011.svg.png" group-title="Generalista",La7
 https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 
 #EXTINF:-1 tvg-id="RaiNews24.it.it" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/1024px-Rai_News_24_logo_%282022%29.svg.png" ,Rai News 24
 https://vavoo.to/vavoo-iptv/play/2239645272d37ede79369f
+
 
 # Luxembourg
 
@@ -495,7 +496,7 @@ https://vavoo.to/vavoo-iptv/play/116586212bc06a80d8220
 https://vavoo.to/vavoo-iptv/play/381899296874b63a022c47
 #EXTINF:-1 tvg-id="Historia.pt" tvg-logo="https://amcnetworks.pt/wp-content/uploads/2022/10/2022_HISTORIA_LOGO_HERO_3D_BLK_RGB.png" group-title="Entretenimento",História
 https://vavoo.to/vavoo-iptv/play/1471702249632c76c543a9
-#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/discovery-channel-es.png" group-title="Entretenimento",Discovery Channel Portugal
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/discovery-channel-es.png" group-title="Entretenimento",Discovery Channel PT
 https://vavoo.to/vavoo-iptv/play/78318791484a7ab86cea1
 #EXTINF:-1 tvg-id="NatGeo.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/national-geographic-hd-es.png" group-title="Entretenimento",National Geographic PT
 https://vavoo.to/vavoo-iptv/play/503347396572e08f52c01
