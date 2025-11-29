@@ -112,9 +112,9 @@ https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u
 
 # Spain
 
-#EXTINF:-1 tvg-id="TVE1.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/1148px-Logo_La_1.svg.png" ,TVE 1
+#EXTINF:-1 tvg-id="TVE1.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/1148px-Logo_La_1.svg.png" ,La 1
 https://vavoo.to/vavoo-iptv/play/2673626663280df7ccd0b9
-#EXTINF:-1 tvg-id="TVE2.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1097px-Logo_La_2.svg.png" ,TVE 2
+#EXTINF:-1 tvg-id="TVE2.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1097px-Logo_La_2.svg.png" ,La 2
 https://vavoo.to/vavoo-iptv/play/1211143750a850014749ba
 #EXTINF:-1 tvg-id="Antena3.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1092px-Antena_3_2025_%28sin_wordmark%29.svg.png" ,Antena 3
 https://vavoo.to/vavoo-iptv/play/2255480833e01ee307061e
@@ -207,11 +207,11 @@ https://vavoo.to/vavoo-iptv/play/30730039139f8c853a7789
 
 #EXTINF:-1 tvg-id="BBC3.uk" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/1024px-BBC_Three_2022.svg.png" ,BBC Three
 https://vavoo.to/vavoo-iptv/play/5898674922cb86a04fcd0
-#EXTINF:-1 tvg-id="ITV2.uk" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1024px-ITV2_logo_2022.svg.png" ,ITV2
+#EXTINF:-1 tvg-id="ITV2.uk" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/itv-2-uk.png" ,ITV2
 https://vavoo.to/vavoo-iptv/play/5898674922cb86a04fcd0
 #EXTINF:-1 tvg-id="BBC4.uk" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/1024px-BBC_Four_logo_2021.svg.png" ,BBC Four
 https://vavoo.to/vavoo-iptv/play/108837268588b4d929f810
-#EXTINF:-1 tvg-id="ITV3.uk" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1024px-ITV3_logo_2022.svg.png" ,ITV3
+#EXTINF:-1 tvg-id="ITV3.uk" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/itv-3-uk.png" ,ITV3
 https://vavoo.to/vavoo-iptv/play/537712899327b1f11eb82
 #EXTINF:-1 tvg-id="ITV4.uk" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1024px-ITV4_logo_%282022%29.svg.png" ,ITV4
 https://vavoo.to/vavoo-iptv/play/2452358419bb547b9d6149
