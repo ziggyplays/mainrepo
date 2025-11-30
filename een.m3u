@@ -534,7 +534,7 @@ https://vavoo.to/vavoo-iptv/play/2461729052cdf1be39f840
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-1-pt.png" group-title="Desporto",Sport TV 1
 https://vavoo.to/vavoo-iptv/play/310244511920ec6cd099d9
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-2-pt.png" group-title="Desporto",Sport TV 2
-https://vavoo.to/vavoo-iptv/play/165899391805b3c6eebe1e
+https://vavoo.to/vavoo-iptv/play/4283167983b0b640da505f
 #EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-3-pt.png" group-title="Desporto",Sport TV 3
 https://vavoo.to/vavoo-iptv/play/3257654623624df8a4a5b1
 #EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-4-pt.png" group-title="Desporto",Sport TV 4
@@ -555,6 +555,8 @@ https://vavoo.to/vavoo-iptv/play/247262387809c5bac8f8ee
 #EXTINF:-1 tvg-id="DAZN4.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-4-be.png",DAZN 4 Portugal
 https://vavoo.to/vavoo-iptv/play/557966102d41cc7f5739f
 #EXTINF:-1 tvg-id="DAZN5.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-5-be.png",DAZN 5 Portugal
+https://vavoo.to/vavoo-iptv/play/471976614113b1745b03c
+#EXTINF:-1 tvg-id="DAZN6.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-6-be.png",DAZN 6 Portugal
 https://vavoo.to/vavoo-iptv/play/471976614113b1745b03c
 
 #EXTINF:-1 tvg-id="Canal11.pt" tvg-logo= "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/canal11-pt.png" group-title="Desporto",Canal 11
@@ -652,6 +654,9 @@ https://vavoo.to/vavoo-iptv/play/27217277804702040fbfdb
 https://vavoo.to/vavoo-iptv/play/270178612d3bf0bad8c5d
 #EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="Desporto",TNT Sports Ultimate UHD
 https://a1xs.vip/2000031
+
+#EXTINF:-1 tvg-id="RedBullTV.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/red-bull-tv-de.png",Red Bull TV
+https://vavoo.to/vavoo-iptv/play/852046284590b908de7e
 
 
 # Canada-USA
