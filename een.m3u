@@ -39,7 +39,7 @@ https://vavoo.to/vavoo-iptv/play/35330736891b9b36efb55f
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/France_4_-_logo_2018.svg/1024px-France_4_-_logo_2018.svg.png",France 4
 https://vavoo.to/vavoo-iptv/play/28154726aea7337828a2
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/France_5_-_logo_2018.svg/1024px-France_5_-_logo_2018.svg.png",France 5
-https://vavoo.to/vavoo-iptv/play/15743448890eaf9d60a67b
+https://vavoo.to/vavoo-iptv/play/3004974450980927089433
 #EXTINF:-1 tvg-id="M6.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_(2020%2C_fond_clair).svg/1024px-Logo_M6_(2020%2C_fond_clair).svg.png",M6
 https://vavoo.to/vavoo-iptv/play/688242401078f5e51c480
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",arte
@@ -524,6 +524,9 @@ https://vavoo.to/vavoo-iptv/play/3400596977008c5ef91f91
 #EXTINF:-1 tvg-id="JDCV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/RMC_S00334306_program_logo.png" group-title="Entretenimento",J'irai dormir chez vous
 https://jmp2.uk/stvp-FRBD4800001P4
 
+#EXTINF:-1 tvg-id="RedBullTV.de" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/red-bull-tv-de.png",Red Bull TV
+https://vavoo.to/vavoo-iptv/play/852046284590b908de7e
+
 
 # Sports
 
@@ -654,9 +657,6 @@ https://vavoo.to/vavoo-iptv/play/27217277804702040fbfdb
 https://vavoo.to/vavoo-iptv/play/270178612d3bf0bad8c5d
 #EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="Desporto",TNT Sports Ultimate UHD
 https://a1xs.vip/2000031
-
-#EXTINF:-1 tvg-id="RedBullTV.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/red-bull-tv-de.png",Red Bull TV
-https://vavoo.to/vavoo-iptv/play/852046284590b908de7e
 
 
 # Canada-USA
