@@ -14,7 +14,7 @@ https://vavoo.to/vavoo-iptv/play/3101553820b7b6d69e54fc
 #EXTINF:-1 tvg-id="RTP3.pt" group-title="Informações" tvg-logo="https://i.imgur.com/rXGPWqg.png" ,RTP Notícias
 https://vavoo.to/vavoo-iptv/play/30134993f0b7704738c7
 #EXTINF:-1 group-title="Informações" tvg-id="SICNoticias.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_Not%C3%ADcias_%282023%29.svg/1024px-SIC_Not%C3%ADcias_%282023%29.svg.png",SIC Notícias
-https://vavoo.to/vavoo-iptv/play/213263083005d8ef8a565c
+https://vavoo.to/vavoo-iptv/play/2215396366d4d951b77cab
 #EXTINF:-1 group-title="Informações" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 https://vavoo.to/vavoo-iptv/play/40802503527749c5f13b52
 
@@ -82,7 +82,7 @@ https://vavoo.to/vavoo-iptv/play/2957270266f8a57fc4d110
 https://vavoo.to/vavoo-iptv/play/19697030465be86491cf97
 
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",Canal+
-https://vavoo.to/vavoo-iptv/play/3168549818d46b381b66c9
+https://vavoo.to/vavoo-iptv/play/4177424223ffc540a587de
 
 #EXTINF:-1 group-title="Generalista" tvg-name="Paris Première" tvg-id="ParisPremiere.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/paris-premiere-fr.png" ,Paris Première
 https://vavoo.to/vavoo-iptv/play/21397590080b92bf1cb6f0
@@ -349,7 +349,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://vavoo.to/vavoo-iptv/play/2755612747efccdb2b107e
 
 #EXTINF:-1 tvg-id="CNBCEurope.pt" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-europe/cnbc-eu.png",CNBC Europe
-https://vavoo.to/vavoo-iptv/play/24294931561ec8d27f7119
+https://vavoo.to/vavoo-iptv/play/23037322826fbc08c3e18
 
 #EXTINF:-1 group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1024px-CNN_International_logo.svg.png",CNN International
 https://vavoo.to/vavoo-iptv/play/19625673545bc5198c7aa6
@@ -447,8 +447,6 @@ https://vavoo.to/vavoo-iptv/play/42449186895ab4e8a8349d
 https://vavoo.to/vavoo-iptv/play/2898387495718e66ec3be
 #EXTINF:-1 tvg-id="CanalGrandEcran.fr" tvg-name="Canal+ Grand Ecran" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/da/C%2B_Grand_%C3%89cran.png" group-title="Cinema",Canal+ Grand Ecran
 https://vavoo.to/vavoo-iptv/play/25481898009fc4dd96f118
-#EXTINF:-1 tvg-id="Canal+Series.fr" tvg-name="Canal+ Séries" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/C%2B_S%C3%A9ries.png" group-title="Cinema",Canal+ Séries
-https://vavoo.to/vavoo-iptv/play/2141653939fb56edcf97da
 #EXTINF:-1 tvg-id="Cine+OCS.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-ocs-fr.png" group-title="Cinema",Ciné+ OCS
 https://vavoo.to/vavoo-iptv/play/39492386874d4fad823cb3
 #EXTINF:-1 tvg-id="Cine+Frisson.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-frisson-fr.png" group-title="Cinema",Ciné+ Frisson
