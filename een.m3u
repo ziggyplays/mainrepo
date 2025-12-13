@@ -470,12 +470,15 @@ https://vavoo.to/vavoo-iptv/play/359484756863389f637100
 #EXTINF:-1 tvg-id="Localvisao.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/6f7efcdd03d80c9117b317647a274fa26f56d00e/countries/portugal/localvisao-tv-pt.png" group-title="Generalista",Localvisão
 https://vavoo.to/vavoo-iptv/play/4001042963fc5a476493a8
 
-#EXTINF:-1 tvg-id="SICRadical.pt" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png",SIC Radical
-https://vavoo.to/vavoo-iptv/play/289277316baba9c984cd9
 #EXTINF:-1 tvg-id="Biggs.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Biggs_2023_logo.png" group-title="Entretenimento",Biggs
 https://vavoo.to/vavoo-iptv/play/16787288851ba06d422ac9
 #EXTINF:-1 tvg-id="CanalQ.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Canal-Q.svg/revision/latest/scale-to-width-down/1000?cb=20180528000318" group-title="Generalista",Canal Q
 https://vavoo.to/vavoo-iptv/play/27670925185f9621be33b0
+
+#EXTINF:-1 tvg-id="SICRadical.pt" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png",SIC Radical
+https://vavoo.to/vavoo-iptv/play/289277316baba9c984cd9
+#EXTINF:-1 tvg-id="SICCaras.pt" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-caras-pt.png",SIC Caras
+https://vavoo.to/vavoo-iptv/play/12562475659afaeb5b4323
 
 #EXTINF:-1 tvg-id="24Kitchen.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/24Kitchen.svg/1024px-24Kitchen.svg.png" group-title="Entretenimento",24Kitchen Portugal
 https://vavoo.to/vavoo-iptv/play/6066165874da2208e8a63
@@ -497,7 +500,7 @@ https://vavoo.to/vavoo-iptv/play/625298821b3ac52f09092
 #EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/discovery-channel-es.png" group-title="Entretenimento",Discovery Channel PT
 https://vavoo.to/vavoo-iptv/play/78318791484a7ab86cea1
 #EXTINF:-1 tvg-id="NatGeo.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/national-geographic-hd-es.png" group-title="Entretenimento",National Geographic PT
-https://vavoo.to/vavoo-iptv/play/503347396572e08f52c01
+https://vavoo.to/vavoo-iptv/play/42764597048749e28e26ad
 #EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/national-geographic-wild-hd-es.png" group-title="Entretenimento",Wild National Geographic PT
 https://vavoo.to/vavoo-iptv/play/269328975361837c5e0705
 
