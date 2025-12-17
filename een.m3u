@@ -361,9 +361,9 @@ https://vavoo.to/vavoo-iptv/play/545089696a5997218fba8
 https://vavoo.to/vavoo-iptv/play/18459860014a4e14255cf
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1024px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="Informações",BBC News
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+https://vavoo.to/vavoo-iptv/play/24373348534649729456fb
 #EXTINF:-1 group-title="Informações" tvg-id="SkyNewsInternational.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png",Sky News
-https://vavoo.to/vavoo-iptv/play/261085535435dd768e8ff9
+https://vavoo.to/vavoo-iptv/play/119539989712fb87bf8b4c
 
 #EXTINF:-1 group-title="Informações" tvg-id="BloombergEurope.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bloomberg-television-us.png",Bloomberg
 https://vavoo.to/vavoo-iptv/play/1154799044040579fc831a
@@ -375,7 +375,7 @@ https://vavoo.to/vavoo-iptv/play/191259571693aa678a7e30
 https://vavoo.to/vavoo-iptv/play/1270998289568828c961a7
 
 #EXTINF:-1 group-title="Informações" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png",Al Jazeera News
-https://live-hls-web-aje.getaj.net/AJE/master.m3u8
+https://vavoo.to/vavoo-iptv/play/3156684376f46f961117e8
 
 #EXTINF:-1 group-title="Informações" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png",CGTN News
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
