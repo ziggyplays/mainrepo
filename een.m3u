@@ -16,7 +16,7 @@ https://vavoo.to/vavoo-iptv/play/30134993f0b7704738c7
 #EXTINF:-1 group-title="Informações" tvg-id="SICNoticias.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_Not%C3%ADcias_%282023%29.svg/1024px-SIC_Not%C3%ADcias_%282023%29.svg.png",SIC Notícias
 https://vavoo.to/vavoo-iptv/play/2215396366d4d951b77cab
 #EXTINF:-1 group-title="Informações" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
-https://vavoo.to/vavoo-iptv/play/40802503527749c5f13b52
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 
 #EXTINF:-1 tvg-id="CMTV.HD.pt" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png",CMTV
 https://vavoo.to/vavoo-iptv/play/384601660517fa3552a29f
@@ -101,7 +101,7 @@ https://vavoo.to/vavoo-iptv/play/28978935900b836e00a311
 https://vavoo.to/vavoo-iptv/play/1945266328e8e437e6162d
 
 #EXTINF:-1 group-title="Generalista" tvg-id="BFMAlsace.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/BFMALSACE-2024.svg/1025px-BFMALSACE-2024.svg.png",BFM Alsace
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/vmqkmDB/moselle.jpg",Moselle TV
 https://vavoo.to/vavoo-iptv/play/4056619196035b42eb7aaa
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/qkkHNPR/vosges.png",Vosges TV
@@ -459,8 +459,6 @@ https://vavoo.to/vavoo-iptv/play/3870490542c46fe0c645ec
 https://vavoo.to/vavoo-iptv/play/101417840984d7bcd57533
 #EXTINF:-1 tvg-id="Cine+Classic.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-classic-fr.png" group-title="Cinema",Ciné+ Classic
 https://vavoo.to/vavoo-iptv/play/942032338f1c42c56e094
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1052px-Paramount_Channel.svg.png" group-title="Cinema",Paramount Channel
-https://vavoo.to/vavoo-iptv/play/4154938214b3c7d6235f2a
 
 
 # Entertainment
