@@ -35,7 +35,7 @@ https://vavoo.to/vavoo-iptv/play/2913521200ae11151a1fc4
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-2-fr.png",France 2
 https://vavoo.to/vavoo-iptv/play/3118025835b0fa704b6345
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-3-fr.png",France 3
-https://vavoo.to/vavoo-iptv/play/35330736891b9b36efb55f
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/flor.m3u8
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-4-fr.png",France 4
 https://vavoo.to/vavoo-iptv/play/28154726aea7337828a2
 #EXTINF:-1 group-title="Generalista" tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-5-fr.png",France 5
@@ -396,10 +396,6 @@ https://vavoo.to/vavoo-iptv/play/16052425729d9f04de9dee
 #EXTINF:-1 tvg-id="StingrayRetro.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/stingray-retro-ca.png" group-title="Música",Stingray Retro
 https://vavoo.to/vavoo-iptv/play/216763212240408f426082
 
-#EXTINF:-1 group-title="Música" tvg-id="MTV.pt" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" tvg-name="MTV",MTV Portugal
-https://vavoo.to/vavoo-iptv/play/4002046150b2001d9e317f
-#EXTINF:-1 group-title="Música" tvg-id="MTV.Live.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" tvg-name="MTV Live",MTV Live
-https://vavoo.to/vavoo-iptv/play/1168271890306d3508fdf7
 #EXTINF:-1 group-title="Música" tvg-id="ClubbingTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" ,Clubbing TV
 https://vavoo.to/vavoo-iptv/play/33380412882bc2241af9a8
 #EXTINF:-1 group-title="Música" tvg-id="AlmaLusa.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Logo-channel-c686df60-9ab4-11ea-84f1-15e394418217-250x250.png/revision/latest?cb=20220116184216", Alma Lusa
@@ -521,7 +517,7 @@ https://vavoo.to/vavoo-iptv/play/21803015125c6ca0e5cfeb
 https://vavoo.to/vavoo-iptv/play/3400596977008c5ef91f91
 
 #EXTINF:-1 tvg-id="JDCV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/RMC_S00334306_program_logo.png" group-title="Entretenimento",J'irai dormir chez vous
-https://jmp2.uk/stvp-FRBD4800001P4
+https://dwsx9zc2hxqhl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-k0j7zahecxb3y/index.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV.de" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/red-bull-tv-de.png",Red Bull TV
 https://vavoo.to/vavoo-iptv/play/852046284590b908de7e
