@@ -657,7 +657,7 @@ https://a1xs.vip/2000031
 # Canada-USA
 
 #EXTINF:-1 tvg-id="TSN1.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/1024px-TSN1.svg.png",TSN1
-https://fl1.moveonjoy.com/TSN_1/index.m3u8
+http://cord-cutter.net:8080/bn80NG/909467/57292
 #EXTINF:-1 tvg-id="TSN2.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/1024px-TSN2.svg.png",TSN2
 https://fl1.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 tvg-id="TSN3.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/1024px-TSN3.svg.png",TSN3
