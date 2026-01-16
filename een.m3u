@@ -348,7 +348,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-id="FoxNews.us" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-framed-us.png",FOX News
 https://vavoo.to/vavoo-iptv/play/2755612747efccdb2b107e
 
-#EXTINF:-1 tvg-id="CNBCEurope.pt" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-europe/cnbc-eu.png",CNBC Europe
+#EXTINF:-1 tvg-id="CNBCEurope.pt" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/1280px-CNBC_2025.svg.png",CNBC Europe
 https://vavoo.to/vavoo-iptv/play/23037322826fbc08c3e18
 
 #EXTINF:-1 group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1024px-CNN_International_logo.svg.png",CNN International
@@ -509,6 +509,9 @@ https://vavoo.to/vavoo-iptv/play/17216680819322c17c1162
 #EXTINF:-1 tvg-id="MyZen.4K.fr" tvg-name="MyZen 4K" tvg-logo="https://i.imgur.com/GDZobhF.png" group-title="Entretenimento",MyZen TV
 https://vavoo.to/vavoo-iptv/play/2233165627cefa09c11eba
 
+#EXTINF:-1 tvg-id="RedBullTV.de" group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/red-bull-tv-de.png",Red Bull TV
+https://vavoo.to/vavoo-iptv/play/852046284590b908de7e
+
 #EXTINF:-1 tvg-id="Cacavision.pt" tvg-logo="https://www.pngkey.com/png/full/663-6635924_caca-png.png" group-title="Entretenimento", Caçavision
 https://vavoo.to/vavoo-iptv/play/3894754486d69faf433529
 #EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/caca-e-pesca-pt.png" group-title="Entretenimento",Caça e Pesca
@@ -519,8 +522,6 @@ https://vavoo.to/vavoo-iptv/play/3400596977008c5ef91f91
 #EXTINF:-1 tvg-id="JDCV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/RMC_S00334306_program_logo.png" group-title="Entretenimento",J'irai dormir chez vous
 https://jmp2.uk/stvp-FRBD4800001P4
 
-#EXTINF:-1 tvg-id="RedBullTV.de" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/red-bull-tv-de.png",Red Bull TV
-https://vavoo.to/vavoo-iptv/play/852046284590b908de7e
 
 
 # Sports
@@ -656,67 +657,49 @@ https://a1xs.vip/2000031
 
 # Canada-USA
 
+#EXTINF:-1 tvg-id="Reseau.des.Sports.RDS.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/rds-ca.png",RDS
+https://daddyhd.com/watch.php?id=839
+#EXTINF:-1 tvg-id="Reseau.des.Sports2.RDS2.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/rds-2-ca.png",RDS2
+https://daddyhd.com/watch.php?id=840
+#EXTINF:-1 tvg-id="RDSInfo.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/rds-info-ca.png",RDS Info
+https://daddyhd.com/watch.php?id=841
+
+#EXTINF:-1 tvg-id="TVASports.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-ca.png",TVA Sports
+https://daddyhd.com/watch.php?id=833
+#EXTINF:-1 tvg-id="TVASPorts2.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-2-ca.png",TVA Sports 2
+https://daddyhd.com/watch.php?id=834
+
 #EXTINF:-1 tvg-id="TSN1.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/1024px-TSN1.svg.png",TSN1
-http://cord-cutter.net:8080/bn80NG/909467/57292
+https://daddyhd.com/watch.php?id=111
 #EXTINF:-1 tvg-id="TSN2.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/1024px-TSN2.svg.png",TSN2
-http://cord-cutter.net:8080/bn80NG/909467/47442
+https://daddyhd.com/watch.php?id=112
 #EXTINF:-1 tvg-id="TSN3.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/1024px-TSN3.svg.png",TSN3
-http://cord-cutter.net:8080/bn80NG/909467/10389
+https://daddyhd.com/watch.php?id=113
 #EXTINF:-1 tvg-id="TSN4.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1024px-TSN4.svg.png",TSN4
-http://cord-cutter.net:8080/bn80NG/909467/16130
+https://daddyhd.com/watch.php?id=114
 #EXTINF:-1 tvg-id="TSN5.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1024px-TSN5.svg.png",TSN5
-http://cord-cutter.net:8080/bn80NG/909467/16131
+https://daddyhd.com/watch.php?id=115
 
-#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-name="CA Sportsnet 360 (HD)" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet 360 (HD)
-http://cord-cutter.net:8080/bn80NG/909467/57299
-#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-name="CA Sportsnet 360 HD" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet 360 HD
-http://cord-cutter.net:8080/bn80NG/909467/2219
-#EXTINF:-1 tvg-id="Sportsnet.East.ca2" tvg-name="CA Sportsnet East (D)" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet East (D)
-http://cord-cutter.net:8080/bn80NG/909467/41836
-#EXTINF:-1 tvg-id="Sportsnet.East.ca2" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet East HD (F)
-http://cord-cutter.net:8080/bn80NG/909467/57298
-#EXTINF:-1 tvg-id="Sportsnet.One.ca2" tvg-name="CA Sportsnet One (E)" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet One (E)
-http://cord-cutter.net:8080/bn80NG/909467/10247
-#EXTINF:-1 tvg-id="Sportsnet.One.ca2" tvg-name="CA Sportsnet One (FHD)" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet One (FHD)
-http://cord-cutter.net:8080/bn80NG/909467/57297
-#EXTINF:-1 tvg-id="Sportsnet.One.ca2" tvg-name="CA Sportsnet One (HD)" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet One (HD)
-http://cord-cutter.net:8080/bn80NG/909467/47379
-#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-name="CA Sportsnet Ontario (FHD)" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet Ontario (FHD)
-http://cord-cutter.net:8080/bn80NG/909467/11649
-#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-name="CA Sportsnet Ontario HD" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet Ontario HD
-http://cord-cutter.net:8080/bn80NG/909467/57296
-#EXTINF:-1 tvg-id="Sportsnet.(Pacific).HD.ca2" tvg-name="CA Sportsnet Pacific (FHD)" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet Pacific (FHD)
-http://cord-cutter.net:8080/bn80NG/909467/9860
-#EXTINF:-1 tvg-id="Sportsnet.(Pacific).HD.ca2" tvg-name="CA Sportsnet Pacific HD" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet Pacific HD
-http://cord-cutter.net:8080/bn80NG/909467/47387
-#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-name="CA Sportsnet West (FHD)" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet West (FHD)
-http://cord-cutter.net:8080/bn80NG/909467/20975
-#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-name="CA Sportsnet World HD" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet World HD
-http://cord-cutter.net:8080/bn80NG/909467/75675
-#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-name="CA: Sportsnet Ontario" tvg-logo="" group-title="Sports Temp 2",CA: Sportsnet Ontario
-http://cord-cutter.net:8080/bn80NG/909467/57463
-#EXTINF:-1 tvg-id="Sportsnet.(Pacific).ca2" tvg-name="CA: SPORTSNET WEST" tvg-logo="" group-title="Sports Temp 2",CA: SPORTSNET WEST
-http://cord-cutter.net:8080/bn80NG/909467/57300
 
-#EXTINF:-1 tvg-id="TVA.Sports.HD.ca2" tvg-name="CA-FR | TVA SPORTS 1" tvg-logo="" group-title="Sports Temp 2",CA-FR | TVA SPORTS 1
-http://cord-cutter.net:8080/bn80NG/909467/57498
+#EXTINF:-1 tvg-id="SportsNet.East.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-ca.png",Sportsnet East
+https://daddyhd.com/watch.php?id=408
+#EXTINF:-1 tvg-id="SportsNet.Weste.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",Sportsnet West
+https://daddyhd.com/watch.php?id=407
+#EXTINF:-1 tvg-id="SportsNet.Ontario.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-ontario-ca.png",Sportsnet Ontario
+https://daddyhd.com/watch.php?id=406
+#EXTINF:-1 tvg-id="SportsNet.Pacific.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-pacific-ca.pngg",Sportsnet Pacific
+https://cord-cutter.net:8080/bn80NG/909467/47387
+#EXTINF:-1 tvg-id="SportsNet.One.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-one-ca.png",Sportsnet One
+https://daddyhd.com/watch.php?id=411
+#EXTINF:-1 tvg-id="SportsNet.360.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-360-ca.png",Sportsnet 360
+https://daddyhd.com/watch.php?id=409
+#EXTINF:-1 tvg-id="SportsNet.World.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",Sportsnet World
+https://daddyhd.com/watch.php?id=410
 
-#EXTINF:-1 group-title="Desporto" tvg-id="FanDuelSportsNetwork.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1024px-FanDuel_Sports_Network_logo.svg.png" ,FanDuel Sports Network
-https://fl1.moveonjoy.com/PAC_12/index.m3u8
-#EXTINF:-1 group-title="Desporto" tvg-id="FanDuelTV.us@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",FanDuel TV
-https://fl1.moveonjoy.com/TVG/index.m3u8
-
-#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-us.png" group-title="Desporto",CBS Sports Network
-https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-
-#EXTINF:-1 group-title="Desporto" tvg-id="NHLNetwork.us@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nhl-network-us.png",NHL Network
-https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Desporto" tvg-id="NBATV.us@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nba-tv-us.png",NBA TV
-https://fl1.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="Desporto" tvg-id="NFLNetwork.us@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-us.png",NFL Network
-https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Desporto" tvg-id="NFLRedZone.us@SD" tvg-logo=https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-us.png",NFL RedZone
-https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 tvg-id="SNY.SportsNet.NewYork.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sny-us.png",SportsNet New York
+https://daddyhd.com/watch.php?id=759
+#EXTINF:-1 tvg-id="SportsNet.Pittsburg.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-pittsburgh-us.png",SportsNet Pittsburgh
+https://daddyhd.com/watch.php?id=922
 
 
 # Russia
