@@ -657,15 +657,49 @@ https://a1xs.vip/2000031
 # Canada-USA
 
 #EXTINF:-1 tvg-id="TSN1.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/1024px-TSN1.svg.png",TSN1
-https://a1xs.vip/6000001
+http://cord-cutter.net:8080/bn80NG/909467/57292
 #EXTINF:-1 tvg-id="TSN2.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/1024px-TSN2.svg.png",TSN2
-https://fl1.moveonjoy.com/TSN_2/index.m3u8
+http://cord-cutter.net:8080/bn80NG/909467/47442
 #EXTINF:-1 tvg-id="TSN3.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/1024px-TSN3.svg.png",TSN3
-https://fl1.moveonjoy.com/TSN_3/index.m3u8
+http://cord-cutter.net:8080/bn80NG/909467/10389
 #EXTINF:-1 tvg-id="TSN4.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1024px-TSN4.svg.png",TSN4
-https://fl1.moveonjoy.com/TSN_4/index.m3u8
+http://cord-cutter.net:8080/bn80NG/909467/16130
 #EXTINF:-1 tvg-id="TSN5.ca" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1024px-TSN5.svg.png",TSN5
-https://fl1.moveonjoy.com/TSN_5/index.m3u8
+http://cord-cutter.net:8080/bn80NG/909467/16131
+
+#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-name="CA Sportsnet 360 (HD)" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet 360 (HD)
+http://cord-cutter.net:8080/bn80NG/909467/57299
+#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-name="CA Sportsnet 360 HD" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet 360 HD
+http://cord-cutter.net:8080/bn80NG/909467/2219
+#EXTINF:-1 tvg-id="Sportsnet.East.ca2" tvg-name="CA Sportsnet East (D)" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet East (D)
+http://cord-cutter.net:8080/bn80NG/909467/41836
+#EXTINF:-1 tvg-id="Sportsnet.East.ca2" tvg-name="CA Sportsnet East HD (F)" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet East HD (F)
+http://cord-cutter.net:8080/bn80NG/909467/57298
+#EXTINF:-1 tvg-id="Sportsnet.One.ca2" tvg-name="CA Sportsnet One (E)" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet One (E)
+http://cord-cutter.net:8080/bn80NG/909467/10247
+#EXTINF:-1 tvg-id="Sportsnet.One.ca2" tvg-name="CA Sportsnet One (FHD)" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet One (FHD)
+http://cord-cutter.net:8080/bn80NG/909467/57297
+#EXTINF:-1 tvg-id="Sportsnet.One.ca2" tvg-name="CA Sportsnet One (HD)" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet One (HD)
+http://cord-cutter.net:8080/bn80NG/909467/47379
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-name="CA Sportsnet Ontario (FHD)" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet Ontario (FHD)
+http://cord-cutter.net:8080/bn80NG/909467/11649
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-name="CA Sportsnet Ontario HD" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet Ontario HD
+http://cord-cutter.net:8080/bn80NG/909467/57296
+#EXTINF:-1 tvg-id="Sportsnet.(Pacific).HD.ca2" tvg-name="CA Sportsnet Pacific (FHD)" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet Pacific (FHD)
+http://cord-cutter.net:8080/bn80NG/909467/9860
+#EXTINF:-1 tvg-id="Sportsnet.(Pacific).HD.ca2" tvg-name="CA Sportsnet Pacific HD" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet Pacific HD
+http://cord-cutter.net:8080/bn80NG/909467/47387
+#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-name="CA Sportsnet West (FHD)" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet West (FHD)
+http://cord-cutter.net:8080/bn80NG/909467/20975
+#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-name="CA Sportsnet World HD" tvg-logo="" group-title="Sports Temp 2",CA Sportsnet World HD
+http://cord-cutter.net:8080/bn80NG/909467/75675
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-name="CA: Sportsnet Ontario" tvg-logo="" group-title="Sports Temp 2",CA: Sportsnet Ontario
+http://cord-cutter.net:8080/bn80NG/909467/57463
+#EXTINF:-1 tvg-id="Sportsnet.(Pacific).ca2" tvg-name="CA: SPORTSNET WEST" tvg-logo="" group-title="Sports Temp 2",CA: SPORTSNET WEST
+http://cord-cutter.net:8080/bn80NG/909467/57300
+
+#EXTINF:-1 tvg-id="TVA.Sports.HD.ca2" tvg-name="CA-FR | TVA SPORTS 1" tvg-logo="" group-title="Sports Temp 2",CA-FR | TVA SPORTS 1
+http://cord-cutter.net:8080/bn80NG/909467/57498
 
 #EXTINF:-1 group-title="Desporto" tvg-id="FanDuelSportsNetwork.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/1024px-FanDuel_Sports_Network_logo.svg.png" ,FanDuel Sports Network
 https://fl1.moveonjoy.com/PAC_12/index.m3u8
