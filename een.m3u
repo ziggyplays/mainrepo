@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="RTP1.pt" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP1
 https://vavoo.to/vavoo-iptv/play/13944010473df831073dad
 #EXTINF:-1 tvg-id="RTP2.pt" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP2
-https://vavoo.to/vavoo-iptv/play/13944010473df831073dad
+https://vavoo.to/vavoo-iptv/play/416376590230300f8c5498
 #EXTINF:-1 tvg-id="SIC.pt" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
 https://vavoo.to/vavoo-iptv/play/3099098765ec02550cde6f
 #EXTINF:-1 group-title="Generalista" tvg-id="TVI.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png",TVI
@@ -365,29 +365,29 @@ https://vavoo.to/vavoo-iptv/play/3972324290e61b379317ce
 
 # Movies
 #EXTINF:-1 tvg-id="AMC.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/amc-hd-pt.png" group-title="Cinema",AMC Portugal
-https://vavoo.to/vavoo-iptv/play/332290414873aceb4cbae0
+https://vavoo.to/vavoo-iptv/play/2341819341f129f357dbdb
 #EXTINF:-1 tvg-id="AXNHD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/AXN_HD_Logo_2015.svg/1024px-AXN_HD_Logo_2015.svg.png" group-title="Cinema",AXN HD
 https://vavoo.to/vavoo-iptv/play/3143462075dfa9e885f3b2
 #EXTINF:-1 tvg-id="AXNMovies.pt" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/axn-movies-hd-pt.png",AXN Movies
-https://vavoo.to/vavoo-iptv/play/2370723370bb823495ff98
+https://vavoo.to/vavoo-iptv/play/47475930279ac9dcfd9c1
 #EXTINF:-1 tvg-id="AXNWhite.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1024px-AXN_White_logo_%282015%29.svg.png" group-title="Cinema",AXN White
 https://vavoo.to/vavoo-iptv/play/328698532772b83e8ca83a
 #EXTINF:-1 tvg-id="CanalHollywood.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1024px-HWD_logo.svg.png" group-title="Cinema",Canal Hollywood
-https://vavoo.to/vavoo-iptv/play/24123874663883d5ba2d59
+https://vavoo.to/vavoo-iptv/play/7080840411e9f3bd3b681
 #EXTINF:-1 tvg-id="Cinemundo.pt" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/CineMundo_2014.png/revision/latest?cb=20240801165050&path-prefix=pt" group-title="Cinema",CineMundo
 https://vavoo.to/vavoo-iptv/play/425440450378b6ca4cf7d3
 #EXTINF:-1 tvg-id="StarChannel.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/star-channel-pt.png" group-title="Cinema",STAR Channel
 https://vavoo.to/vavoo-iptv/play/737435862bedf0cf54964
 #EXTINF:-1 tvg-id="StarComedy.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/star-comedy-pt.png" group-title="Cinema",STAR Comedy
-https://vavoo.to/vavoo-iptv/play/9927413899bfcad187b88
+https://vavoo.to/vavoo-iptv/play/12827816780db2bd5f3f4f
 #EXTINF:-1 tvg-id="StarCrime.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/star-crime-pt.png" group-title="Cinema",STAR Crime
-https://vavoo.to/vavoo-iptv/play/1009109875825780d41942
+https://vavoo.to/vavoo-iptv/play/2422531998791bd1474314
 #EXTINF:-1 tvg-id="StarLife.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/star-life-pt.png" group-title="Cinema",STAR Life
-https://vavoo.to/vavoo-iptv/play/2739768128827479a32fe6
+https://vavoo.to/vavoo-iptv/play/4075632687044396f1dc6a
 #EXTINF:-1 tvg-id="StarMovies.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/star-movies-pt.png" group-title="Cinema",STAR Movies
-https://vavoo.to/vavoo-iptv/play/3499798327eb1f80e520b3
+https://vavoo.to/vavoo-iptv/play/8913585440f7b064a2665
 #EXTINF:-1 tvg-id="Syfy.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/syfy-hd-hz-us.png" group-title="Cinema",SyFy
-https://vavoo.to/vavoo-iptv/play/386545214879c36205f79e
+https://vavoo.to/vavoo-iptv/play/1633515070747da24b8d0a
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvcine-action-hd-pt.png",TVCine Action
 https://vavoo.to/vavoo-iptv/play/3790970324f06b4796f2fe
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvcine-edition-hd-pt.png",TVCine Edition
