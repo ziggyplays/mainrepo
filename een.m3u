@@ -17,7 +17,7 @@ https://vavoo.to/vavoo-iptv/play/213263083005d8ef8a565c
 #EXTINF:-1 group-title="Informações" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:-1 tvg-id="CMTV.HD.pt" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png",CMTV
-https://vavoo.to/vavoo-iptv/play/805844173b05e1a81e31d
+https://vavoo.to/vavoo-iptv/play/384601660517fa3552a29f
 #EXTINF:-1 group-title="Informações" tvg-id="EuronewsPortugues.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
 https://38cf202f635c4e6d9a9ecd1dc805222a.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/aa7d84c5-ed1b-4706-aa89-11c525faf07d/5.m3u8
 #EXTINF:-1 group-title="Generalista" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
@@ -348,7 +348,7 @@ https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/mezzo-fr.png" group-title="Música",Mezzo
 https://vavoo.to/vavoo-iptv/play/86247815017bcd61d5dbc
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/mezzo-live-fr.png" group-title="Música",Mezzo Live
-https://vavoo.to/vavoo-iptv/play/3602344519640e3a7e1fb2
+https://vavoo.to/vavoo-iptv/play/187506502594b281da82dc
 #EXTINF:-1 tvg-id="StingrayClassica.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Stingray_Classica_Alternative.svg/1024px-Stingray_Classica_Alternative.svg.png" group-title="Música",Stingray Classica
 https://vavoo.to/vavoo-iptv/play/296948497449bcfe0b3360
 #EXTINF:-1 tvg-id="StingrayDjazz.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stingray_Djazz.svg/1024px-Stingray_Djazz.svg.png" group-title="Música",Stingray Djazz
@@ -389,15 +389,14 @@ https://vavoo.to/vavoo-iptv/play/3499798327eb1f80e520b3
 #EXTINF:-1 tvg-id="Syfy.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/syfy-hd-hz-us.png" group-title="Cinema",SyFy
 https://vavoo.to/vavoo-iptv/play/386545214879c36205f79e
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvcine-action-hd-pt.png",TVCine Action
-https://vavoo.to/vavoo-iptv/play/7936318033db25a8648aa
+https://vavoo.to/vavoo-iptv/play/3790970324f06b4796f2fe
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvcine-edition-hd-pt.png",TVCine Edition
-https://vavoo.to/vavoo-iptv/play/2599146036b6364834e9f6
+https://vavoo.to/vavoo-iptv/play/1761868334d8c26523c126
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvcine-emotion-hd-pt.png",TVCine Emotion
-https://vavoo.to/vavoo-iptv/play/406450924438bf8ed91739
+https://vavoo.to/vavoo-iptv/play/385958923062108a82180c
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvcine-top-hd-pt.png",TVCine Top
-https://vavoo.to/vavoo-iptv/play/40561975950bd1a2ae20e
-
-#EXTINF:-1 group-title="Cinema" tvg-logo="https://zupimages.net/up/26/06/vp8x.png",NOS Studios
+https://vavoo.to/vavoo-iptv/play/11677026147f6051732333
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://zupimages.net/up/26/06/ocpn.png",NOS Studios
 https://vavoo.to/vavoo-iptv/play/27261441035e4b72b92904
 
 #EXTINF:-1 tvg-id="CanalBoxOffice.fr" tvg-name="Canal+ Box Office" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="Cinema",Canal+ Box Office
@@ -471,7 +470,7 @@ https://vavoo.to/vavoo-iptv/play/852046284590b908de7e
 https://vavoo.to/vavoo-iptv/play/36824777946514747ec085
 #EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/caca-e-pesca-pt.png" group-title="Entretenimento",Caça e Pesca
 https://vavoo.to/vavoo-iptv/play/700421686a2540175cb7b
-#EXTINF:-1 tvg-id="OneToro.es" group-title="Entretenimento" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk_0uSCZ0xNsRXOROPxNc1ZOTZ_YjdSa3vMA&s.png",OneToro
+#EXTINF:-1 tvg-id="OneToro.es" group-title="Entretenimento" tvg-logo="https://zupimages.net/up/26/06/u0wb.png",OneToro
 https://vavoo.to/vavoo-iptv/play/1243809524ae367b5e76b4
 #EXTINF:-1 tvg-id="JDCV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/RMC_S00334306_program_logo.png" group-title="Entretenimento",J'irai dormir chez vous
 https://jmp2.uk/stvp-FRBD4800001P4
