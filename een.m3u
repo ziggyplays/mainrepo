@@ -156,20 +156,20 @@ https://vavoo.to/vavoo-iptv/play/2239645272d37ede79369f
 
 
 # Luxembourg
-#EXTINF:-1 group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/luxembourg/rtl-letzebuerg-lu.png",RTL
+#EXTINF:-1 tvg-id="RTL.Lëtzebuerg.lu" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/luxembourg/rtl-letzebuerg-lu.png",RTL
 https://vavoo.to/vavoo-iptv/play/1082703593c754bc53c802
-#EXTINF:-1 group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/luxembourg/rtl-zwee-lu.png",RTL Zwee
+#EXTINF:-1 tvg-id="RTL.Zwee.lu" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/luxembourg/rtl-zwee-lu.png",RTL Zwee
 https://vavoo.to/vavoo-iptv/play/35959086591b1805164683
 
 
 # Belgium
-#EXTINF:-1 group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTBF_La_Une_logo.svg/1024px-RTBF_La_Une_logo.svg.png",La Une
+#EXTINF:-1 tvg-id="RTBF.La1.be" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTBF_La_Une_logo.svg/1024px-RTBF_La_Une_logo.svg.png",La Une
 https://vavoo.to/vavoo-iptv/play/3428561083cff8b155b93b
-#EXTINF:-1 group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Tipikrtbf.png",Tipik
+#EXTINF:-1 tvg-id="RTBF.Tipik.La2.be" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Tipikrtbf.png",Tipik
 https://vavoo.to/vavoo-iptv/play/2248897642e41a1d725e8f
-#EXTINF:-1 group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/RTBF_La_Trois_logo.svg/1128px-RTBF_La_Trois_logo.svg.png",La Trois
+#EXTINF:-1 tvg-id="RTBF.La3.be" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/RTBF_La_Trois_logo.svg/1128px-RTBF_La_Trois_logo.svg.png",La Trois
 https://vavoo.to/vavoo-iptv/play/2866202423d20e4e0ddb21
-#EXTINF:-1 group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/rtl-tvi-be.png",RTL TVI
+#EXTINF:-1 tvg-id="RTL.TVI.be" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/rtl-tvi-be.png",RTL TVI
 https://vavoo.to/vavoo-iptv/play/163940748110735d3b5bf8
 
 
