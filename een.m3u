@@ -12,13 +12,13 @@ https://vavoo.to/vavoo-iptv/play/3762658364bbe49f476ccc
 https://vavoo.to/vavoo-iptv/play/3101553820b7b6d69e54fc
 #EXTINF:-1 tvg-id="RTP.Noticias.pt" group-title="Informações" tvg-logo="https://i.imgur.com/rXGPWqg.png" ,RTP Notícias
 https://vavoo.to/vavoo-iptv/play/1422411879787483e9b7f6
-#EXTINF:-1 tvg-id="SICNoticias.pt group-title="Informações"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_Not%C3%ADcias_%282023%29.svg/1024px-SIC_Not%C3%ADcias_%282023%29.svg.png",SIC Notícias
+#EXTINF:-1 tvg-id="SIC.Noticias.pt group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_Not%C3%ADcias_%282023%29.svg/1024px-SIC_Not%C3%ADcias_%282023%29.svg.png",SIC Notícias
 https://vavoo.to/vavoo-iptv/play/41129700899740bd35f1f2
-#EXTINF:-1 tvg-id="CNNPortugal.pt" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
+#EXTINF:-1 tvg-id="CNN.Portugal.pt" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 https://vavoo.to/vavoo-iptv/play/218268277581f3e112713e
 #EXTINF:-1 tvg-id="CMTV.HD.pt" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png",CMTV
 https://vavoo.to/vavoo-iptv/play/384601660517fa3552a29f
-#EXTINF:-1 tvg-id="EuronewsPortugues.pt" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
+#EXTINF:-1 tvg-id="Euronews.Portugues.pt" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
 https://38cf202f635c4e6d9a9ecd1dc805222a.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/aa7d84c5-ed1b-4706-aa89-11c525faf07d/5.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
 https://vavoo.to/vavoo-iptv/play/38071720908efeff4f518
