@@ -641,10 +641,22 @@ http://cord-cutter.net:8080/bn80NG/909467/57299
 http://cord-cutter.net:8080/bn80NG/909467/75675
 
 #EXTINF:-1 tvg-id="SNY.SportsNet.NewYork.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sny-us.png",SportsNet New York
-https://daddyhd.com/watch.php?id=759
+http://cord-cutter.net:8080/bn80NG/909467/20938
 #EXTINF:-1 tvg-id="SportsNet.Pittsburg.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sportsnet-pittsburgh-us.png",SportsNet Pittsburgh
-https://daddyhd.com/watch.php?id=922
+http://cord-cutter.net:8080/bn80NG/909467/108178
 
+#EXTINF:-1 tvg-id="ESPN.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png",ESPN 1
+http://cord-cutter.net:8080/bn80NG/909467/9802
+#EXTINF:-1 tvg-id="ESPN2.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png",ESPN 2
+http://cord-cutter.net:8080/bn80NG/909467/2210
+
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-network-us.png",CBS Sports Network
+http://cord-cutter.net:8080/bn80NG/909467/10454
+
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png",FOX Sports 1
+http://cord-cutter.net:8080/bn80NG/909467/46792
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-2-us.png",FOX Sports 2
+http://cord-cutter.net:8080/bn80NG/909467/1847
 
 # Russia
 #EXTINF:-1 tvg-id="KHL.ru" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/khl-ru.png",KHL
