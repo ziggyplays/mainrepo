@@ -15,7 +15,7 @@ https://vavoo.to/vavoo-iptv/play/1422411879787483e9b7f6
 #EXTINF:-1 tvg-id="SIC.Noticias.pt" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_Not%C3%ADcias_%282023%29.svg/1024px-SIC_Not%C3%ADcias_%282023%29.svg.png" ,SIC Notícias
 https://vavoo.to/vavoo-iptv/play/41129700899740bd35f1f2
 #EXTINF:-1 tvg-id="CNN.Portugal.pt" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
-https://vavoo.to/vavoo-iptv/play/218268277581f3e112713e
+https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/CNN_Portugal.m3u
 #EXTINF:-1 tvg-id="CMTV.HD.pt" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png",CMTV
 https://vavoo.to/vavoo-iptv/play/384601660517fa3552a29f
 #EXTINF:-1 tvg-id="Euronews.Portugues.pt" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
