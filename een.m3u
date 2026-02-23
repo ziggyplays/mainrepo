@@ -604,11 +604,11 @@ https://vavoo.to/vavoo-iptv/play/1229280683b3c73f5d9ad5
 
 # Canada-USA
 #EXTINF:-1 tvg-id="Reseau.des.Sports.RDS.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/rds-ca.png",RDS
-http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/5252.ts
+http://kstv.us:8080/live/N427DpynGE/7049166651/40629.ts
 #EXTINF:-1 tvg-id="Reseau.des.Sports2.RDS2.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/rds-2-ca.png",RDS2
-https://daddyhd.com/watch.php?id=840
+http://kstv.us:8080/live/N427DpynGE/7049166651/40628.ts
 #EXTINF:-1 tvg-id="RDSInfo.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/rds-info-ca.png",RDS Info
-https://daddyhd.com/watch.php?id=841
+http://kstv.us:8080/live/N427DpynGE/7049166651/40627.ts
 #EXTINF:-1 tvg-id="TVASports.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-ca.png",TVA Sports
 http://cord-cutter.net:8080/bn80NG/909467/57498
 #EXTINF:-1 tvg-id="TVASports2.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-2-ca.png",TVA Sports 2
