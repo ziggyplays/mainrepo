@@ -301,6 +301,19 @@ https://vavoo.to/vavoo-iptv/play/372108342920ebb0aa2a3f
 https://vavoo.to/vavoo-iptv/play/3783797318d9b7d3edde28
 
 
+# USA
+#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" group-title="Generalista",KNBC-TV NBC 4 (Los Angeles CA)
+http://s.rocketdns.info:8080/live/52748969/72335180/2453.ts
+#EXTINF:-1 tvg-id="KTLA-DT.us_locals1" group-title="Generalista",KTLA-TV CW 5 (Los Angeles CA)
+http://s.rocketdns.info:8080/live/52748969/72335180/87547.ts
+#EXTINF:-1 tvg-id="KABC-DT.us_locals1" group-title="Generalista",KABC-TV ABC 7 (Los Angeles CA)
+http://s.rocketdns.info:8080/live/52748969/72335180/2684.ts
+#EXTINF:-1 tvg-id="KCAL-TV.us" group-title="Generalista",KCAL-TV CBS/Ind. 9 (Los Angeles CA)
+http://s.rocketdns.info:8080/live/52748969/72335180/87548.ts
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" group-title="Generalista",KTTV-TV FOX 11 (Los Angeles CA)
+http://s.rocketdns.info:8080/live/52748969/72335180/2550.ts
+
+
 # Japan
 #EXTINF:-1 tvg-id="NHK.G.Tokyo.jp" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/1024px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",NHK G
 https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd01
