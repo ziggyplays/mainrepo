@@ -302,16 +302,18 @@ https://vavoo.to/vavoo-iptv/play/3783797318d9b7d3edde28
 
 
 # USA
-#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" group-title="Generalista",KNBC-TV NBC 4 (Los Angeles CA)
-http://s.rocketdns.info:8080/live/52748969/72335180/2453.ts
-#EXTINF:-1 tvg-id="KTLA-DT.us_locals1" group-title="Generalista",KTLA-TV CW 5 (Los Angeles CA)
-http://s.rocketdns.info:8080/live/52748969/72335180/87547.ts
-#EXTINF:-1 tvg-id="KABC-DT.us_locals1" group-title="Generalista",KABC-TV ABC 7 (Los Angeles CA)
+#EXTINF:-1 tvg-id="KABC-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png",ABC (Los Angeles CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2684.ts
-#EXTINF:-1 tvg-id="KCAL-TV.us" group-title="Generalista",KCAL-TV CBS/Ind. 9 (Los Angeles CA)
+#EXTINF:-1 tvg-id="KCAL-TV.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png",CBS (Los Angeles CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/87548.ts
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" group-title="Generalista",KTTV-TV FOX 11 (Los Angeles CA)
+#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-us.png",NBC (Los Angeles CA)
+http://s.rocketdns.info:8080/live/52748969/72335180/2453.ts
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png",FOX (Los Angeles CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2550.ts
+#EXTINF:-1 tvg-id="KTLA-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cw-us.png",CW (Los Angeles CA)
+http://s.rocketdns.info:8080/live/52748969/72335180/87547.ts
+#EXTINF:-1 tvg-id="ABC.National.Feed.Pacific.us2" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png",PBS National (West)
+https://cors-proxy.cooks.fyi/https://pbs.lls.cdn.pbs.org/pst/index_1080p.m3u8
 
 
 # Japan
