@@ -29,8 +29,8 @@ jobs:
       - name: commit
         run: |
           git pull
-          git add mainscr.m3u
-          git commit -m "Aktualiséiert"
+          git add een.m3u
+          git commit -m "Aktualiseiert"
           git push origin main
 
 # Workflow credits: https://github.com/LITUATUI/M3UPT
