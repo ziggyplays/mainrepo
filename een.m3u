@@ -23,8 +23,7 @@ https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:-1 tvg-id="TVI.pt" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDI2IDg6NDc6MzAgUE0maGFzaF92YWx1ZT0zM2JQcTU1K0tpLzZzbGNhNG5SdWhnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjBlN2ExZTQtYzZkMC00ZjYzLWE3NjMtZmIzYjUxOGQ3NzE5/
-
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI2IDEyOjE1OjEwIFBNJmhhc2hfdmFsdWU9VmRqd0p5K3BNUzFyZU9mQ3BRdGwvUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQ2Y2U0YmQxLTIwYWQtNGQ3Yy1hZjExLTgyOGQwZDEyMGU5Yg==/
 
 #EXTINF:-1 tvg-id="RTP.Noticias.pt" group-title="Informações" tvg-logo="https://i.imgur.com/rXGPWqg.png" ,RTP Notícias
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
@@ -39,7 +38,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 https://sicnot.live.impresa.pt/sicnot.m3u8
 
 #EXTINF:-1 tvg-id="CNN.Portugal.pt" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDI2IDg6NDc6MzEgUE0maGFzaF92YWx1ZT1hL2VSUDBEQ1pMWThSaWg1ZGFqRDVRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjExZDFhMzEtMzUzOC00OTdmLWI5ZDctYzFmMWMyMmEzZjI4/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI2IDEyOjE1OjExIFBNJmhhc2hfdmFsdWU9ZjByaUo3ZzZ4cTlQTkQ4Ry8wV0FqQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTBlNWJmMDVmLTUwNmItNGZlYy05YThmLTljOGNlOTNkZmIzOA==/
 #EXTINF:-1 tvg-id="CMTV.HD.pt" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png",CMTV
 https://kool.to/kool-iptv/play/384601660517fa3552a29f
 #EXTINF:-1 tvg-id="Euronews.Portugues.pt" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
@@ -76,9 +75,9 @@ https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_BFMTV_2019.svg/1024px-Logo_BFMTV_2019.svg.png",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
 #EXTINF:-1 tvg-id="CNews.fr" group-title="Informações" tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNews
-https://kool.to/kool-iptv/play/25945826014cdc04dbd4e
+https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" group-title="Informações" tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/15188/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
 #EXTINF:-1 tvg-id="FranceInfo.fr" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/franceinfo-fr.png",franceinfo:
 https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CStar
@@ -104,12 +103,6 @@ https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6005/index.m3u8
 #EXTINF:-1 tvg-name="ParisPremiere.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/paris-premiere-fr.png" ,Paris Première
 http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6146/index.m3u8
-#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/RTL9-logo-2023.svg/1024px-RTL9-logo-2023.svg.png",RTL9
-https://kool.to/kool-iptv/play/16316567992e16be5e5da3
-#EXTINF:-1 tvg-id="Teva.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/T%C3%A9va_logo_2021.svg/1024px-T%C3%A9va_logo_2021.svg.png",Téva
-https://kool.to/kool-iptv/play/2221887416d7fbe08fe097
-#EXTINF:-1 tvg-id="ComedyCentral.fr" group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png",Comedy Central FR
-https://kool.to/kool-iptv/play/2053910442ad820032ca57
 
 #EXTINF:-1 tvg-id="France24.Francais.fr" group-title="Informações" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",France 24
 https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
@@ -118,7 +111,7 @@ https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3
 
 #EXTINF:-1 tvg-id="BFMAlsace.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/BFMALSACE-2024.svg/1025px-BFMALSACE-2024.svg.png",BFM Alsace
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="PuissanceTVe.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png",Puissance TV
+#EXTINF:-1 tvg-id="PuissanceTV.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png",Puissance TV
 https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 
 
@@ -140,30 +133,20 @@ https://cors-proxy.cooks.fyi/https://pbs.lls.cdn.pbs.org/pst/index_1080p.m3u8
 # Info
 #EXTINF:-1 tvg-id="CNN.us" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1024px-CNN.svg.png",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="FoxNews.us" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-framed-us.png",FOX News
-https://kool.to/kool-iptv/play/2755612747efccdb2b107e
 #EXTINF:-1 tvg-id="CNBCEurope.us" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/1280px-CNBC_2025.svg.png",CNBC Europe
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTINF:-1 tvg-id="CNN.International.us" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1024px-CNN_International_logo.svg.png",CNN International
-https://kool.to/kool-iptv/play/19625673545bc5198c7aa6
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NHK-World.png",NHK World Japan
-https://kool.to/kool-iptv/play/545089696a5997218fba8
+ttps://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="Euronews.English.fr" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews EN
-https://kool.to/kool-iptv/play/18459860014a4e14255cf
+https://www.youtube.com/watch?v=pykpO5kQJ98
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1024px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="Informações",BBC News
-https://kool.to/kool-iptv/play/24373348534649729456fb
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="SkyNewsInternational.uk" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png",Sky News
-https://kool.to/kool-iptv/play/261085535435dd768e8ff9
+https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
 #EXTINF:-1 tvg-id="BloombergEurope.us" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bloomberg-television-us.png",Bloomberg
 https://kool.to/kool-iptv/play/1154799044040579fc831a
 #EXTINF:-1 tvg-id="France24.English.fr" group-title="Informações" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",France 24
 https://kool.to/kool-iptv/play/191259571693aa678a7e30
-#EXTINF:-1 tvg-id="DWEnglish.de" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1024px-Deutsche_Welle_symbol_2012.svg.png",Deutsche Welle
-https://kool.to/kool-iptv/play/3047039556bfca90068b32
-#EXTINF:-1 tvg-id="AlJazeera.us" group-title="Informações" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png",Al Jazeera News
-https://kool.to/kool-iptv/play/3156684376f46f961117e8
-#EXTINF:-1 tvg-id="CGTN.cn" group-title="Informações" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png",CGTN News
-https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
 
 #EXTINF:-1 tvg-id="JDCV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/RMC_S00334306_program_logo.png" group-title="Entretenimento",J'irai dormir chez vous
@@ -191,7 +174,7 @@ http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31947/index.m3u8
 http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31948/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN1.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-1-be.png",DAZN 1 Portugal
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2531/index.m3u8
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31954/index.m3u8
 #EXTINF:-1 tvg-id="DAZN2.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-2-be.png",DAZN 2 Portugal
 http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2532/index.m3u8
 #EXTINF:-1 tvg-id="DAZN3.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-3-be.png",DAZN 3 Portugal
@@ -203,17 +186,19 @@ http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2535/index.m3u8
 #EXTINF:-1 tvg-id="DAZN6.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-6-be.png",DAZN 6 Portugal
 http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2536/index.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport1.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-1-fr.png",Eurosport 1
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31949/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-2-fr.png",Eurosport 2
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31950/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal11.pt" tvg-logo= "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/canal11-pt.png" group-title="Desporto",Canal 11
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31592/index.m3u8
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31592/index.m3u8
 #EXTINF:-1 tvg-id="ABola.pt" tvg-logo= "https://static.wikia.nocookie.net/logopedia/images/b/b2/A_Bola_TV_logo.png/revision/latest?cb=20131129194554" group-title="Desporto",A Bola TV
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/31951/index.m3u8
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31951/index.m3u8
 
 #EXTINF:-1 tvg-id="BTV.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/1024px-BTV_Red.svg.png" group-title="Desporto",Benfica TV
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/19160/index.m3u8
-#EXTINF:-1 tvg-id="PortoCanal.pt" group-title="Desporto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XCbfQy-ZUKwIVNDr6JKlWPjr7lq8OTWBkA&s.png" ,Porto Canal
-https://kool.to/kool-iptv/play/186208766320a16e3dd9d2
-#EXTINF:-1 tvg-id="SportingTV.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sporting-tv-pt.png",Sporting TV
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5NR6V3CDUZNTZL/2530/index.m3u8
+http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31952/index.m3u8
+
 
 
 # Canada-USA
