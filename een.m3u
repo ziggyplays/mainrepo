@@ -104,6 +104,9 @@ http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6005/index.m3u8
 #EXTINF:-1 tvg-name="ParisPremiere.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/paris-premiere-fr.png" ,Paris Première
 http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6146/index.m3u8
 
+#EXTINF:-1 tvg-id="ComedyCentral.fr" group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png",Comedy Central FR
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2053910442ad820032ca57
+
 #EXTINF:-1 tvg-id="France24.Francais.fr" group-title="Informações" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",France 24
 https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
 #EXTINF:-1 tvg-id="BFM.Business.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM Business
@@ -113,6 +116,120 @@ https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="PuissanceTV.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png",Puissance TV
 https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
+
+
+
+# Spain
+#EXTINF:-1 tvg-id="Canal.La1.TVE.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/1148px-Logo_La_1.svg.png" ,La 1
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2673626663280df7ccd0b9
+#EXTINF:-1 tvg-id="Canal.La2.TVE.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1097px-Logo_La_2.svg.png" ,La 2
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/779986648a39769595123
+#EXTINF:-1 tvg-id="Antena3.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1092px-Antena_3_2025_%28sin_wordmark%29.svg.png" ,Antena 3
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2255480833e01ee307061e
+#EXTINF:-1 tvg-id="Cuatro.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1024px-Logotipo_de_Cuatro.svg.png",Cuatro
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/4194733823af66ad33c883
+#EXTINF:-1 tvg-id="Telecinco.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1024px-Telecinco.svg.png",Telecinco
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3530959720aaf7aac4561
+#EXTINF:-1 tvg-id="LaSexta.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/LaSexta_2024_Logo.svg/827px-LaSexta_2024_Logo.svg.png" ,La Sexta
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2389016718049b6c216ad
+
+#EXTINF:-1 tvg-id="Movistar+.es" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-plus-es.png" ,Movistar+
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/28816684640315c1e26095
+
+#EXTINF:-1 tvg-id="ETB1.es" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/etb1-es.png" ,ETB 1
+#EXTVLCOPT:http-referrer=https://www.eitb.eus/
+https://multimedia.eitb.eus/live-content/etb1eus-hls/master.m3u8
+#EXTINF:-1 tvg-id="ETB2.es" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/etb2-es.png" ,ETB 2
+#EXTVLCOPT:http-referrer=https://www.eitb.eus/
+https://multimedia.eitb.eus/live-content/etb2eus-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="TVGalicia.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" ,TV Galicia
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/408088832332d80c000ab7
+#EXTINF:-1 tvg-id="TV3Cat.es"group-title="Generalista" tvg-id="TV3cat.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tv3-cat-es.png",TV3 Catalunya
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2235179797b72f603efdd6
+
+#EXTINF:-1 tvg-id="TVE24h.es" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/1200px-Logo_Canal_24_horas.svg.png",Canal 24 horas
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1537807715bf7b793e7a1b
+
+#EXTINF:-1 tvg-id="TDP.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",Teledeporte
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2183991865322ec9dc545e
+
+# United Kingdom
+#EXTINF:-1 tvg-id="BBC1.uk" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1024px-BBC_One_logo_2021.svg.png" ,BBC One
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/4708189018e7c80cde0eb
+#EXTINF:-1 tvg-id="BBC2.uk" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/1024px-BBC_Two_logo_2021.svg.png" ,BBC Two
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2105758006567811414eb2
+#EXTINF:-1 tvg-id="ITV1.uk" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1024px-ITV1_logo_%282022%29.svg.png" ,ITV1
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/5761772265272ae71e9e2
+#EXTINF:-1 tvg-id="Channel4.uk" group-title="Generalista" tvg-logo=" https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/759px-Channel_4_%28On_Demand%29_2023.svg.png" ,Channel 4
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/23201362494838efda8ca4
+#EXTINF:-1 tvg-id="Channel5.uk" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Channel_5_2025.svg/960px-Channel_5_2025.svg.png" ,Channel 5
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/30730039139f8c853a7789
+#EXTINF:-1 tvg-id="BBC3.uk" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/1024px-BBC_Three_2022.svg.png" ,BBC Three
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/5898674922cb86a04fcd0
+#EXTINF:-1 tvg-id="ITV2.uk" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/itv-2-uk.png" ,ITV2
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/5898674922cb86a04fcd0
+#EXTINF:-1 tvg-id="BBC4.uk" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/1024px-BBC_Four_logo_2021.svg.png" ,BBC Four
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/108837268588b4d929f810
+#EXTINF:-1 tvg-id="ITV3.uk" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/itv-3-uk.png" ,ITV3
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/537712899327b1f11eb82
+#EXTINF:-1 tvg-id="ITV4.uk" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1024px-ITV4_logo_%282022%29.svg.png" ,ITV4
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2452358419bb547b9d6149
+
+
+# Germany
+#EXTINF:-1 tvg-id="DasErste.de" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/das-erste-hd-de.png" ,Das Erste
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/550012320c466b1bd3788
+#EXTINF:-1 tvg-id="ZDF.de" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1024px-ZDF_logo.svg.png" ,ZDF
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/28662925545be6c8be8ec1
+#EXTINF:-1 tvg-id="RTL.de" group-title="Generalista" tvg-logo="https://i.ibb.co/Msmh0pG/rtlde.png",RTL
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/27281196731bd935dafe5f
+#EXTINF:-1 tvg-id="SAT1.de" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png" ,SAT.1
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/207344905eef691a089fb
+#EXTINF:-1 tvg-id="Pro7.de" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1024px-ProSieben_Logo_2015.svg.png" ,ProSieben
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3488435572cb9067893c14
+#EXTINF:-1 tvg-id="Kabel1.de" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/1024px-Kabel_eins_Logo_2015.svg.png" ,Kabel Eins
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3390031045c0fa916eb545
+#EXTINF:-1 tvg-id="RTLZwei.de" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/993px-RTLZWEI_Logo_2019.svg.png" ,RTL Zwei
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/160203873fc8ecba6377a
+#EXTINF:-1 tvg-id="Vox.de" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/vox-de.png" ,VOX
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1008785305d4c07777f6aa
+#EXTINF:-1 tvg-id="3sat.de" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/3sat_HD_2019.svg/1024px-3sat_HD_2019.svg.png" ,3sat
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3228877884bc18a7941f56
+#EXTINF:-1 tvg-id="SuperRTL.de" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTL_Super_Logo_2023.svg/1024px-RTL_Super_Logo_2023.svg.png" ,Super RTL
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1077497828624b07013b07
+#EXTINF:-1 tvg-id="Sixx.de" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/1024px-Sixx_Logo.svg.png" ,Sixx
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1018615269527a186c7ec8
+#EXTINF:-1 tvg-id="Pro7Maxx.de" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/pro-sieben-maxx-de.png" ,ProSieben Maxx
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1793902345ba4e8f87b805
+
+#EXTINF:-1 tvg-id="ntv.de" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/1024px-N-tv_logo-september2017.svg.png",n-tv
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/191691580637456ed75f1b
+
+
+# Russia
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png",Perviy Kanal
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1459109869ef4a6ee00075
+#EXTINF:-1 tvg-id="Russia1.ru" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png",Rossiya 1
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/37003946697e6f099ea610
+#EXTINF:-1 tvg-id="NTV.ru" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1024px-NTV_logo_2003.svg.png",NTV
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3337128760a75a9d1ccea7
+#EXTINF:-1 tvg-id="Channel5.ru" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/1024px-5-tv_logo_%282023%29.svg.png",5 Kanal
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/118303099373624d397e2a
+#EXTINF:-1 tvg-id="Russia24.ru" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/1024px-Rossiya-24_Logo.svg.png",Rossiya 24
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/24425768105db83a0a345a
+#EXTINF:-1 tvg-id="RussiaK.ru" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/1024px-Russia-Cultura.svg.png",Rossiya K
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3547554077a3cba35322b8
+#EXTINF:-1 tvg-id="RENTV.ru" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/885px-REN_TV_logo_2017.svg.png",REN TV
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/34179420655d6c9ac9ae28
+#EXTINF:-1 tvg-id="STS.ru" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_%D0%A1%D0%A2%D0%A1_23-10-2017.png",STS
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/255848970f673d5b0f311
+#EXTINF:-1 tvg-id="Pyatnitsa.Friday.ru" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg/1024px-%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg.png",Pyatnitsa!
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3912170555159ef4b0566
+#EXTINF:-1 tvg-id="TNT.ru" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_tnt.png",TNT
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/372108342920ebb0aa2a3f
+#EXTINF:-1 tvg-id="TNTMusic.ru" group-title="Generalista" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/%D0%A2%D0%9D%D0%A2_Music_3.png",TNT Music
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3783797318d9b7d3edde28
 
 
 # USA
@@ -144,10 +261,139 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-id="SkyNewsInternational.uk" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png",Sky News
 https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
 #EXTINF:-1 tvg-id="BloombergEurope.us" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bloomberg-television-us.png",Bloomberg
-https://kool.to/kool-iptv/play/1154799044040579fc831a
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1154799044040579fc831a
 #EXTINF:-1 tvg-id="France24.English.fr" group-title="Informações" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",France 24
-https://kool.to/kool-iptv/play/191259571693aa678a7e30
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/191259571693aa678a7e30
 
+
+# Music
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/mezzo-fr.png" group-title="Música",Mezzo
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/439553705b74f1c43e6ad
+#EXTINF:-1 tvg-id="MezzoLive.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/mezzo-live-fr.png" group-title="Música",Mezzo Live
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/187506502594b281da82dc
+#EXTINF:-1 tvg-id="StingrayClassica.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Stingray_Classica_Alternative.svg/1024px-Stingray_Classica_Alternative.svg.png" group-title="Música",Stingray Classica
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/296948497449bcfe0b3360
+#EXTINF:-1 tvg-id="StingrayDjazz.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stingray_Djazz.svg/1024px-Stingray_Djazz.svg.png" group-title="Música",Stingray Djazz
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2897120181ffa02aa19db9
+#EXTINF:-1 tvg-id="StingrayLoud.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/stingray-loud-ca.png" group-title="Música",Stingray Loud
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/16052425729d9f04de9dee
+#EXTINF:-1 tvg-id="StingrayRetro.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/stingray-retro-ca.png" group-title="Música",Stingray Retro
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/216763212240408f426082
+#EXTINF:-1 tvg-id="ClubbingTV.fr" group-title="Música" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" ,Clubbing TV
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3759226559cd778140d3fb
+#EXTINF:-1 tvg-id="AlmaLusa.pt" group-title="Música" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Logo-channel-c686df60-9ab4-11ea-84f1-15e394418217-250x250.png/revision/latest?cb=20220116184216", Alma Lusa
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3972324290e61b379317ce
+
+
+# Movies
+#EXTINF:-1 tvg-id="AMC.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/amc-hd-pt.png" group-title="Cinema",AMC Portugal
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2341819341f129f357dbdb
+#EXTINF:-1 tvg-id="AXNHD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/AXN_HD_Logo_2015.svg/1024px-AXN_HD_Logo_2015.svg.png" group-title="Cinema",AXN HD
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3143462075dfa9e885f3b2
+#EXTINF:-1 tvg-id="AXNMovies.pt" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/axn-movies-hd-pt.png",AXN Movies
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/47475930279ac9dcfd9c1
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1024px-AXN_White_logo_%282015%29.svg.png" group-title="Cinema",AXN White
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/328698532772b83e8ca83a
+#EXTINF:-1 tvg-id="CanalHollywood.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1024px-HWD_logo.svg.png" group-title="Cinema",Canal Hollywood
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/7080840411e9f3bd3b681
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/CineMundo_2014.png/revision/latest?cb=20240801165050&path-prefix=pt" group-title="Cinema",CineMundo
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/425440450378b6ca4cf7d3
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/star-channel-pt.png" group-title="Cinema",STAR Channel
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/737435862bedf0cf54964
+#EXTINF:-1 tvg-id="StarComedy.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/star-comedy-pt.png" group-title="Cinema",STAR Comedy
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/12827816780db2bd5f3f4f
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/star-crime-pt.png" group-title="Cinema",STAR Crime
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2422531998791bd1474314
+#EXTINF:-1 tvg-id="StarLife.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/star-life-pt.png" group-title="Cinema",STAR Life
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/4075632687044396f1dc6a
+#EXTINF:-1 tvg-id="StarMovies.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/star-movies-pt.png" group-title="Cinema",STAR Movies
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/8913585440f7b064a2665
+#EXTINF:-1 tvg-id="Syfy.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/syfy-hd-hz-us.png" group-title="Cinema",SyFy
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1633515070747da24b8d0a
+#EXTINF:-1 tvg-id="TVCine.Action.pt" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvcine-action-hd-pt.png",TVCine Action
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3790970324f06b4796f2fe
+#EXTINF:-1 tvg-id="TVCine.Edition.pt" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvcine-edition-hd-pt.png",TVCine Edition
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1761868334d8c26523c126
+#EXTINF:-1 tvg-id="TVCine.Emotion.pt" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvcine-emotion-hd-pt.png",TVCine Emotion
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/385958923062108a82180c
+#EXTINF:-1 tvg-id="TVCine.Top.pt" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvcine-top-hd-pt.png",TVCine Top
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/11677026147f6051732333
+#EXTINF:-1 tvg-id="NOS.Studios.pt" group-title="Cinema" tvg-logo="https://zupimages.net/up/26/06/ocpn.png",NOS Studios
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/27261441035e4b72b92904
+
+#EXTINF:-1 tvg-id="CanalBoxOffice.fr" tvg-name="Canal+ Box Office" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="Cinema",Canal+ Box Office
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/97238400212a5a98e376c
+#EXTINF:-1 tvg-id="CanalCinema.fr" tvg-name="Canal+ Cinéma(s)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/eb/C%2B_Cin%C3%A9ma%28s%29.png" group-title="Cinema",Canal+ Cinéma(s)
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2898387495718e66ec3be
+#EXTINF:-1 tvg-id="CanalGrandEcran.fr" tvg-name="Canal+ Grand Ecran" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/da/C%2B_Grand_%C3%89cran.png" group-title="Cinema",Canal+ Grand Ecran
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/25481898009fc4dd96f118
+#EXTINF:-1 tvg-id="Cine+OCS.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-ocs-fr.png" group-title="Cinema",Ciné+ OCS
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1241349700d812a2e9224f
+#EXTINF:-1 tvg-id="Cine+Frisson.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-frisson-fr.png" group-title="Cinema",Ciné+ Frisson
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/4419846843b1345797858
+#EXTINF:-1 tvg-id="Cine+Emotion.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-emotion-fr.png" group-title="Cinema",Ciné+ Emotion
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2737270354dc417dc353b0
+#EXTINF:-1 tvg-id="Cine+Family.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-family-fr.png" group-title="Cinema",Ciné+ Family
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2704150133fbb48751b7b5
+#EXTINF:-1 tvg-id="Cine+Festival.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-festival-fr.png" group-title="Cinema",Ciné+ Festival
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/26514025573f474a0abd81
+#EXTINF:-1 tvg-id="Cine+Classic.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-classic-fr.png" group-title="Cinema",Ciné+ Classic
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/351213883544926ea6dec5
+
+
+# Entertainment
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg/1024px-RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg.png" group-title="Generalista",RTP Memória
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/359484756863389f637100
+#EXTINF:-1 tvg-id="Localvisao.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/6f7efcdd03d80c9117b317647a274fa26f56d00e/countries/portugal/localvisao-tv-pt.png" group-title="Generalista",Localvisão
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/4001042963fc5a476493a8
+#EXTINF:-1 tvg-id="Biggs.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Biggs_2023_logo.png" group-title="Entretenimento",Biggs
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2693440346ecd2a273bc8f
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Canal-Q.svg/revision/latest/scale-to-width-down/1000?cb=20180528000318" group-title="Generalista",Canal Q
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/27670925185f9621be33b0
+#EXTINF:-1 tvg-id="SICRadical.pt" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png",SIC Radical
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1788642980ad9a247245d
+#EXTINF:-1 tvg-id="SICCaras.pt" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-caras-pt.png",SIC Caras
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/349548203924edaa45dbfa
+
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/24Kitchen.svg/1024px-24Kitchen.svg.png" group-title="Entretenimento",24Kitchen Portugal
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/5749782816432d260b9f8
+#EXTINF:-1 tvg-id="CasaECozinha.pt" tvg-logo="https://i.ibb.co/BKCgF75L/Casa-e-cozinha-Logo-fotor-bg-remover-2025092710047.png" group-title="Entretenimento",Casa e Cozinha
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3354497993e05327d67195
+#EXTINF:-1 tvg-id="HGTV.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/6f7efcdd03d80c9117b317647a274fa26f56d00e/countries/united-states/hgtv-us.png" group-title="Entretenimento",HGTV
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/310002268589f0484d477b
+#EXTINF:-1 tvg-id="AMCBreak.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/1024px-AMC_Break.svg.png" group-title="Entretenimento",AMC Break
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1676049953943aabe65b98
+#EXTINF:-1 tvg-id="AMCCrime.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/1024px-AMC_Crime.svg.png" group-title="Entretenimento",AMC Crime
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/20771957888051379ac4aa
+
+#EXTINF:-1 tvg-id="Odisseia.pt" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vpyypr1462122978.png" group-title="Entretenimento",Odisseia
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/21117855506273662f1163
+#EXTINF:-1 tvg-id="Historia.pt" tvg-logo="https://amcnetworks.pt/wp-content/uploads/2022/10/2022_HISTORIA_LOGO_HERO_3D_BLK_RGB.png" group-title="Entretenimento",História
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1471702249632c76c543a9
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/discovery-channel-es.png" group-title="Entretenimento",Discovery Channel PT
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/78318791484a7ab86cea1
+#EXTINF:-1 tvg-id="NatGeo.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/national-geographic-hd-es.png" group-title="Entretenimento",National Geographic PT
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/503347396572e08f52c01
+#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/national-geographic-wild-hd-es.png" group-title="Entretenimento",Wild National Geographic PT
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/269328975361837c5e0705
+
+#EXTINF:-1 tvg-id="Love.Nature.ca" tvg-name="Love Nature 4K" tvg-logo="https://i.ibb.co/SdSKhsj/love-nature-4k.png" group-title="Entretenimento",Love Nature 4K
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/10782221721cd1db332b6b
+#EXTINF:-1 tvg-id="travelxp.4K.de" tvg-name="Travelxp 4K" tvg-logo="https://i.ibb.co/GCKtvqn/Travelxp-4-K.png" group-title="Entretenimento",Travelxp 4K
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/12531586512287ce04c39
+#EXTINF:-1 tvg-id="MuseumTV.fr" tvg-name="Museum TV" tvg-logo="https://i.imgur.com/a55LkwU.png" group-title="Entretenimento",Museum TV
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/27363886393b5b106b00d8
+#EXTINF:-1 tvg-id="MyZen.4K.fr" tvg-name="MyZen 4K" tvg-logo="https://i.imgur.com/GDZobhF.png" group-title="Entretenimento",MyZen TV
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2233165627cefa09c11eba
+
+#EXTINF:-1 tvg-id="RedBullTV.de" group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/red-bull-tv-de.png",Red Bull TV
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/852046284590b908de7e
+#EXTINF:-1 tvg-id="Cacavision.pt" tvg-logo="https://www.pngkey.com/png/full/663-6635924_caca-png.png" group-title="Entretenimento", Caçavision
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/36824777946514747ec085
+#EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/caca-e-pesca-pt.png" group-title="Entretenimento",Caça e Pesca
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/700421686a2540175cb7b
+#EXTINF:-1 tvg-id="OneToro.es" group-title="Entretenimento" tvg-logo="https://zupimages.net/up/26/06/u3ul.png",OneToro
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1243809524ae367b5e76b4
 
 #EXTINF:-1 tvg-id="JDCV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/RMC_S00334306_program_logo.png" group-title="Entretenimento",J'irai dormir chez vous
 https://jmp2.uk/stvp-FRBD4800001P4
@@ -200,6 +446,41 @@ http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31951/index.m3u8
 http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31952/index.m3u8
 
 
+# France
+#EXTINF:-1 tvg-id="Canal+Sport.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",Canal+ Sport
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/40213668447d8ff3bec243
+#EXTINF:-1 tvg-id="Canal+360.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png",Canal+ Sport 360
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/18148197605eb108ea4ea5
+#EXTINF:-1 tvg-id="Canal+Foot.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-foot-fr.png",Canal+ Foot
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3010946034470bbc7286f0
+
+#EXTINF:-1 tvg-id="BeIN1.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",BeIN Sports 1
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/38449168821b069f8d9798
+#EXTINF:-1 tvg-id="BeIN2.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",BeIN Sports 2
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/27271322266c34c78c9b73
+#EXTINF:-1 tvg-id="BeIN3.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",BeIN Sports 3
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2683082226fbcf85179319
+#EXTINF:-1 tvg-id="BeIN4.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 4
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/4005135586b15ded037655
+#EXTINF:-1 tvg-id="BeIN5.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 5
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/21915351386eae8b57922f
+#EXTINF:-1 tvg-id="BeIN6.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 6
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2044179858f10ce4a226b
+#EXTINF:-1 tvg-id="BeIN7.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 7
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/32299528632d8185a706e0
+#EXTINF:-1 tvg-id="BeIN8.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/43025867523e38c979b76
+#EXTINF:-1 tvg-id="BeIN9.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 9
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/35745447496310ad38622d
+#EXTINF:-1 tvg-id="BeIN10.fr" group-title="Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 10
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2473905459c9915439d19a
+
+#EXTINF:-1 tvg-id="Eurosport1.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-1-fr.png",Eurosport 1 FR
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1801327897a89211f65c72
+#EXTINF:-1 tvg-id="Eurosport2.fr" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-2-fr.png",Eurosport 2 FR
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/391453244816ed0170f0da
+#EXTINF:-1 tvg-id="SportenFrance.fr" group-title="Desporto" "tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8a/Sport_en_France_2L_RVB.png" ,Sport en France
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/28990515040b9592deaeeb
 
 # Canada-USA
 #EXTINF:-1 tvg-id="Reseau.des.Sports.RDS.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/rds-ca.png",RDS
