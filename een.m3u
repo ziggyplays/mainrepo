@@ -2,13 +2,13 @@
 
 
 # Portugal
-#EXTINF:-1 tvg-id="RTP1.pt" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-1-pt.png",RTP1
+#EXTINF:-1 tvg-id="RTP1.pt" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTP1_2026.svg/1280px-RTP1_2026.svg.png",RTP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTP2.pt" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-2-pt.png",RTP2
+#EXTINF:-1 tvg-id="RTP2.pt" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/RTP2_2026.svg/1280px-RTP2_2026.svg.png",RTP2
 #EXTINF:-1 group-title="TV" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
@@ -100,9 +100,9 @@ https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouvert
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 
 #EXTINF:-1 tvg-id="Canal+.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",Canal+
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6005/index.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/255809511268dc26567e82
 #EXTINF:-1 tvg-name="ParisPremiere.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/paris-premiere-fr.png" ,Paris Première
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/6146/index.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/21397590080b92bf1cb6f0
 
 #EXTINF:-1 tvg-id="ComedyCentral.fr" group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png",Comedy Central FR
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2053910442ad820032ca57
@@ -116,7 +116,6 @@ https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="PuissanceTV.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png",Puissance TV
 https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
-
 
 
 # Spain
@@ -153,6 +152,7 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1537
 
 #EXTINF:-1 tvg-id="TDP.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",Teledeporte
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2183991865322ec9dc545e
+
 
 # United Kingdom
 #EXTINF:-1 tvg-id="BBC1.uk" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1024px-BBC_One_logo_2021.svg.png" ,BBC One
@@ -236,7 +236,7 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3783
 #EXTINF:-1 tvg-id="KABC-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png",ABC (Los Angeles CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2684.ts
 #EXTINF:-1 tvg-id="KCAL-TV.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png",CBS (Los Angeles CA)
-http://s.rocketdns.info:8080/live/52748969/72335180/87548.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/2637.ts
 #EXTINF:-1 tvg-id="KNBC-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-us.png",NBC (Los Angeles CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2453.ts
 #EXTINF:-1 tvg-id="KTTV-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png",FOX (Los Angeles CA)
@@ -253,7 +253,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-id="CNBCEurope.us" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/1280px-CNBC_2025.svg.png",CNBC Europe
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NHK-World.png",NHK World Japan
-ttps://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/545089696a5997218fba8
 #EXTINF:-1 tvg-id="Euronews.English.fr" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews EN
 https://www.youtube.com/watch?v=pykpO5kQJ98
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1024px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="Informações",BBC News
@@ -403,47 +403,49 @@ https://jmp2.uk/stvp-FRBD4800001P4
 
 # Portugal
 #EXTINF:-1 tvg-id="SportTV+.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-mais-pt.png" group-title="Desporto",Sport TV+
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31941/index.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/211283081051caac7287c4
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-1-pt.png" group-title="Desporto",Sport TV 1
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31942/index.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/34289402226976c68b9b9e
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-2-pt.png" group-title="Desporto",Sport TV 2
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31943/index.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/234468235087a9bf800929
 #EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-3-pt.png" group-title="Desporto",Sport TV 3
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31944/index.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3064015582353b13df33ce
 #EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-4-pt.png" group-title="Desporto",Sport TV 4
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31945/index.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/7562619003d91faa3445
 #EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-5-pt.png" group-title="Desporto",Sport TV 5
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31946/index.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/12763267051751832c99d9
 #EXTINF:-1 tvg-id="SportTV6.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-6-pt.png" group-title="Desporto",Sport TV 6
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31947/index.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2118231470742cd8dad95f
 #EXTINF:-1 tvg-id="SportTV7.pt" tvg-logo="https://epg.pw/media/images/epg/2024/12/11/20241211020550349483_47.png" group-title="Desporto",Sport TV 7
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31948/index.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31948/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN1.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-1-be.png",DAZN 1 Portugal
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31954/index.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/288268168b686746a7a16
 #EXTINF:-1 tvg-id="DAZN2.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-2-be.png",DAZN 2 Portugal
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2532/index.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1452205400454b0a22c6ec
 #EXTINF:-1 tvg-id="DAZN3.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-3-be.png",DAZN 3 Portugal
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/7062/index.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1810812136b0581e0c39ab
 #EXTINF:-1 tvg-id="DAZN4.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-4-be.png",DAZN 4 Portugal
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2534/index.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/36541606320e0b5747f04e
 #EXTINF:-1 tvg-id="DAZN5.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-5-be.png",DAZN 5 Portugal
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2535/index.m3u8
-#EXTINF:-1 tvg-id="DAZN6.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-6-be.png",DAZN 6 Portugal
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/2536/index.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3836623176848a0884f3da
 
-#EXTINF:-1 tvg-id="Eurosport1.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-1-fr.png",Eurosport 1
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31949/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-2-fr.png",Eurosport 2
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31950/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-1-fr.png",Eurosport 1 PT
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/25495184398c97e1fbefd8
+#EXTINF:-1 tvg-id="Eurosport2.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-2-fr.png",Eurosport 2 PT
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3495357111684554a016fd
 
 #EXTINF:-1 tvg-id="Canal11.pt" tvg-logo= "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/canal11-pt.png" group-title="Desporto",Canal 11
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31592/index.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/18359357199e074371cdbd
 #EXTINF:-1 tvg-id="ABola.pt" tvg-logo= "https://static.wikia.nocookie.net/logopedia/images/b/b2/A_Bola_TV_logo.png/revision/latest?cb=20131129194554" group-title="Desporto",A Bola TV
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31951/index.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/186535245741ba973dc10b
 
 #EXTINF:-1 tvg-id="BTV.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/1024px-BTV_Red.svg.png" group-title="Desporto",Benfica TV
-http://y2y3qoep.socminlt.org/iptv/MYP54SLFPF2BKB/31952/index.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1059923452c630d2b84864
+#EXTINF:-1 tvg-id="PortoCanal.pt" group-title="Desporto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XCbfQy-ZUKwIVNDr6JKlWPjr7lq8OTWBkA&s.png" ,Porto Canal
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/186208766320a16e3dd9d2
+#EXTINF:-1 tvg-id="SportingTV.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sporting-tv-pt.png",Sporting TV
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/324754431106bc8943cf0e
 
 
 # France
@@ -481,6 +483,7 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1801
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/391453244816ed0170f0da
 #EXTINF:-1 tvg-id="SportenFrance.fr" group-title="Desporto" "tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8a/Sport_en_France_2L_RVB.png" ,Sport en France
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/28990515040b9592deaeeb
+
 
 # Canada-USA
 #EXTINF:-1 tvg-id="Reseau.des.Sports.RDS.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/rds-ca.png",RDS
