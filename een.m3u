@@ -205,6 +205,52 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1793
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/191691580637456ed75f1b
 
 
+# Luxembourg
+#EXTINF:-1 tvg-id="RTL.Lëtzebuerg.lu" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/luxembourg/rtl-letzebuerg-lu.png",RTL
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL.Zwee.lu" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/luxembourg/rtl-zwee-lu.png",RTL Zwee
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+
+
+# Belgium
+#EXTINF:-1 tvg-id="RTBF.La1.be" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTBF_La_Une_logo.svg/1024px-RTBF_La_Une_logo.svg.png",La Une
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3428561083cff8b155b93b
+#EXTINF:-1 tvg-id="RTBF.Tipik.La2.be" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Tipikrtbf.png",Tipik
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2248897642e41a1d725e8f
+#EXTINF:-1 tvg-id="RTBF.La3.be" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/RTBF_La_Trois_logo.svg/1128px-RTBF_La_Trois_logo.svg.png",La Trois
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2866202423d20e4e0ddb21
+#EXTINF:-1 tvg-id="RTL.TVI.be" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/rtl-tvi-be.png",RTL TVI
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/163940748110735d3b5bf8
+
+
+# USA
+#EXTINF:-1 tvg-id="KABC-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png",ABC (Los Angeles CA)
+http://s.rocketdns.info:8080/live/52748969/72335180/2684.ts
+#EXTINF:-1 tvg-id="KCAL-TV.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png",CBS (Los Angeles CA)
+http://s.rocketdns.info:8080/live/52748969/72335180/2637.ts
+#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-us.png",NBC (Los Angeles CA)
+http://s.rocketdns.info:8080/live/52748969/72335180/2453.ts
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png",FOX (Los Angeles CA)
+http://s.rocketdns.info:8080/live/52748969/72335180/2550.ts
+#EXTINF:-1 tvg-id="KTLA-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cw-us.png",CW (Los Angeles CA)
+http://s.rocketdns.info:8080/live/52748969/72335180/87547.ts
+#EXTINF:-1 tvg-id="ABC.National.Feed.Pacific.us2" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png",PBS National (West)
+https://cors-proxy.cooks.fyi/https://pbs.lls.cdn.pbs.org/pst/index_1080p.m3u8
+
+
+# Japan
+#EXTINF:-1 tvg-id="NHK.G.Osaka.jp" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/1024px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",NHK G
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+#EXTINF:-1 tvg-id="FujiTV.jp" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+#EXTINF:-1 tvg-id="TV.Asahi.jp" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+#EXTINF:-1 tvg-id="NHK.BS.jp" group-title="Generalista" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/NHKBS23Horizontal.svg/1024px-NHKBS23Horizontal.svg.png",NHK BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 tvg-id="NHK.BSP4K.jp" group-title="Generalista" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/NHKBSP4KHorizontal.svg/1024px-NHKBSP4KHorizontal.svg.png",NHK BSP4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+
+
 # Russia
 #EXTINF:-1 tvg-id="ChannelOne.ru" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png",Perviy Kanal
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1459109869ef4a6ee00075
@@ -230,28 +276,13 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3721
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3783797318d9b7d3edde28
 
 
-# USA
-#EXTINF:-1 tvg-id="KABC-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png",ABC (Los Angeles CA)
-http://s.rocketdns.info:8080/live/52748969/72335180/2684.ts
-#EXTINF:-1 tvg-id="KCAL-TV.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png",CBS (Los Angeles CA)
-http://s.rocketdns.info:8080/live/52748969/72335180/2637.ts
-#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-us.png",NBC (Los Angeles CA)
-http://s.rocketdns.info:8080/live/52748969/72335180/2453.ts
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png",FOX (Los Angeles CA)
-http://s.rocketdns.info:8080/live/52748969/72335180/2550.ts
-#EXTINF:-1 tvg-id="KTLA-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cw-us.png",CW (Los Angeles CA)
-http://s.rocketdns.info:8080/live/52748969/72335180/87547.ts
-#EXTINF:-1 tvg-id="ABC.National.Feed.Pacific.us2" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png",PBS National (West)
-https://cors-proxy.cooks.fyi/https://pbs.lls.cdn.pbs.org/pst/index_1080p.m3u8
-
-
 # Info
 #EXTINF:-1 tvg-id="CNN.us" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1024px-CNN.svg.png",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CNBCEurope.us" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/1280px-CNBC_2025.svg.png",CNBC Europe
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NHK-World.png",NHK World Japan
-https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/545089696a5997218fba8
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="Euronews.English.fr" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews EN
 https://www.youtube.com/watch?v=pykpO5kQJ98
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1024px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="Informações",BBC News
@@ -262,6 +293,8 @@ https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1154799044040579fc831a
 #EXTINF:-1 tvg-id="France24.English.fr" group-title="Informações" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",France 24
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/191259571693aa678a7e30
+#EXTINF:-1 tvg-id="IciRDI.ca" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/1280px-ICI_RDI_logo.svg.png",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
 
 # Music
