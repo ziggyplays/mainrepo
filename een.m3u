@@ -2,13 +2,13 @@
 
 
 # Portugal
-#EXTINF:-1 tvg-id="RTP1.pt" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTP1_2026.svg/1280px-RTP1_2026.svg.png",RTP1
+#EXTINF:-1 tvg-id="RTP1.pt" group-title="Generalista" tvg-logo="https://zupimages.net/up/26/14/1lgc.png",RTP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTP2.pt" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/RTP2_2026.svg/1280px-RTP2_2026.svg.png",RTP2
+#EXTINF:-1 tvg-id="RTP2.pt" group-title="Generalista" tvg-logo="https://zupimages.net/up/26/14/rqo5.png",RTP2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp2
@@ -340,7 +340,7 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3512
 
 
 # Entertainment
-#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/RTP_Mem%C3%B3ria_2026.svg/1280px-RTP_Mem%C3%B3ria_2026.svg.png" group-title="Generalista",RTP Memória
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://zupimages.net/up/26/14/pk9j.png" group-title="Generalista",RTP Memória
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/359484756863389f637100
 #EXTINF:-1 tvg-id="Localvisao.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/6f7efcdd03d80c9117b317647a274fa26f56d00e/countries/portugal/localvisao-tv-pt.png" group-title="Generalista",Localvisão
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/4001042963fc5a476493a8
