@@ -340,12 +340,10 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3512
 
 
 # Entertainment
-#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg/1024px-RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg.png" group-title="Generalista",RTP Memória
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/RTP_Mem%C3%B3ria_2026.svg/1280px-RTP_Mem%C3%B3ria_2026.svg.png" group-title="Generalista",RTP Memória
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/359484756863389f637100
 #EXTINF:-1 tvg-id="Localvisao.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/6f7efcdd03d80c9117b317647a274fa26f56d00e/countries/portugal/localvisao-tv-pt.png" group-title="Generalista",Localvisão
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/4001042963fc5a476493a8
-#EXTINF:-1 tvg-id="Biggs.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Biggs_2023_logo.png" group-title="Entretenimento",Biggs
-https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2693440346ecd2a273bc8f
 #EXTINF:-1 tvg-id="CanalQ.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Canal-Q.svg/revision/latest/scale-to-width-down/1000?cb=20180528000318" group-title="Generalista",Canal Q
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/27670925185f9621be33b0
 #EXTINF:-1 tvg-id="SICRadical.pt" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png",SIC Radical
@@ -538,4 +536,27 @@ http://cord-cutter.net:8080/bn80NG/909467/10454
 http://cord-cutter.net:8080/bn80NG/909467/46792
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-2-us.png",FOX Sports 2
 http://cord-cutter.net:8080/bn80NG/909467/1847
+
+
+# United Kingdom
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/67427762708663665a2e3
+#EXTINF:-1 tvg-id="SkySportsArena.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-arena-uk.png",Sky Sports Arena
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/13866680333c42e55b4f34
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-uk.png",Sky Sports Football
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1258853748f8875af76e51
+#EXTINF:-1 tvg-id="SkySportsPL.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-uk.png",Sky Sports Premier League
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/126506577600afd406040
+#EXTINF:-1 tvg-id="SkySportsMix.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-mix-uk.png",Sky Sports Mix
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3733612719fb39b32b4b51
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",TNT Sports 1
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3640268356ada49976faea
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",TNT Sports 2
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/267350338016fe75604f2c
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",TNT Sports 3
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/27217277804702040fbfdb
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png",TNT Sports 4
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/270178612d3bf0bad8c5d
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="Desporto",TNT Sports Ultimate UHD
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1229280683b3c73f5d9ad5
 
