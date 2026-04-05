@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/TVI.m3u
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp3
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SIC.Noticias.pt" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_Not%C3%ADcias_%282023%29.svg/1024px-SIC_Not%C3%ADcias_%282023%29.svg.png" ,SIC Notícias
+#EXTINF:-1 tvg-id="SIC.Noticias.pt" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-noticias-pt.png" ,SIC Notícias
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://sicnoticias.pt
 #EXTVLCOPT:http-referrer=https://sicnoticias.pt/
@@ -46,7 +46,7 @@ https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3
 
 
 # France
-#EXTINF:-1 tvg-id="TF1.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/1024px-Logo_TF1_2013.svg.png",TF1
+#EXTINF:-1 tvg-id="TF1.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png",TF1
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 #EXTINF:-1 tvg-id="France2.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-2-fr.png",France 2
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
@@ -56,21 +56,21 @@ https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
 #EXTINF:-1 tvg-id="France5.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-5-fr.png",France 5
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
-#EXTINF:-1 tvg-id="M6.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_(2020%2C_fond_clair).svg/1024px-Logo_M6_(2020%2C_fond_clair).svg.png",M6
+#EXTINF:-1 tvg-id="M6.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png",M6
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 tvg-id="arte.France.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",arte
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 #EXTINF:-1 tvg-id="LCP-AN.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/lcp-fr.png",LCP-Public Sénat
 https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
-#EXTINF:-1 tvg-id="W9.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/1024px-W9-Logo.svg.png",W9
+#EXTINF:-1 tvg-id="W9.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/w9-fr.png",W9
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1024px-TMC_logo.svg.png",TMC
+#EXTINF:-1 tvg-id="TMC.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tmc-fr.png",TMC
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TFX_logo.svg/1024px-TFX_logo.svg.png",TFX
+#EXTINF:-1 tvg-id="TFX.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tfx-fr.png",TFX
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",Gulli
 https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
-#EXTINF:-1 tvg-id="BFMTV.fr" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_BFMTV_2019.svg/1024px-Logo_BFMTV_2019.svg.png",BFM TV
+#EXTINF:-1 tvg-id="BFMTV.fr" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/bfm-tv-fr.png",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
 #EXTINF:-1 tvg-id="CNews.fr" group-title="Informações" tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNews
 https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
@@ -80,21 +80,21 @@ https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
 https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CStar
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
-#EXTINF:-1 tvg-id="t18.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/1024px-Logo_de_la_chaine_T18.svg.png",T18
+#EXTINF:-1 tvg-id="t18.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/t18-fr.png",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/res/t18-dm-highest.m3u8
-#EXTINF:-1 tvg-id="Novo19.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/1024px-Logo_NOVO19_-_2025.svg.png",Novo 19
+#EXTINF:-1 tvg-id="Novo19.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/novo19-fr.png",Novo 19
 https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/1024px-TF1_S%C3%A9ries_Films_logo_2020.svg.png",TF1 Séries Films
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" group-title="Generalista" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/tf1-series-films-fr.png",TF1 Séries Films
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 #EXTINF:-1 tvg-id="L.EquipeTV.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'Équipe TV
 https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
-#EXTINF:-1 tvg-id="6ter.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png",6ter
+#EXTINF:-1 tvg-id="6ter.fr" group-title="Generalista" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/6ter-fr.png",6ter
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
-#EXTINF:-1 tvg-id="RMC.Story.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RMC_Story_2025.svg/1024px-RMC_Story_2025.svg.png",RMC Story
+#EXTINF:-1 tvg-id="RMC.Story.fr" group-title="Generalista" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/rmc-story-fr.png",RMC Story
 https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
-#EXTINF:-1 tvg-id="RMC.Decouverte.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/47/Logo_RMC_D%C3%A9couverte_2025.png",RMC Découverte
+#EXTINF:-1 tvg-id="RMC.Decouverte.fr" group-title="Generalista" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/rmc-decouverte-fr.png",RMC Découverte
 https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
-#EXTINF:-1 tvg-id="RMC.Life.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/36/RMC_Life.png",RMC Life
+#EXTINF:-1 tvg-id="RMC.Life.fr" group-title="Generalista" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/rmc-life-fr.png",RMC Life
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 
 #EXTINF:-1 tvg-id="Canal+.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",Canal+
@@ -117,17 +117,17 @@ https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u
 
 
 # Spain
-#EXTINF:-1 tvg-id="Canal.La1.TVE.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/1148px-Logo_La_1.svg.png" ,La 1
+#EXTINF:-1 tvg-id="Canal.La1.TVE.es" group-title="Generalista" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/tve-1-es.png" ,La 1
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2673626663280df7ccd0b9
-#EXTINF:-1 tvg-id="Canal.La2.TVE.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1097px-Logo_La_2.svg.png" ,La 2
+#EXTINF:-1 tvg-id="Canal.La2.TVE.es" group-title="Generalista" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/tve-2-es.png" ,La 2
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/779986648a39769595123
-#EXTINF:-1 tvg-id="Antena3.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1092px-Antena_3_2025_%28sin_wordmark%29.svg.png" ,Antena 3
+#EXTINF:-1 tvg-id="Antena3.es" group-title="Generalista" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/antena-3-es.png" ,Antena 3
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2255480833e01ee307061e
-#EXTINF:-1 tvg-id="Cuatro.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1024px-Logotipo_de_Cuatro.svg.png",Cuatro
+#EXTINF:-1 tvg-id="Cuatro.es" group-title="Generalista" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/cuarto-es.png",Cuatro
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/4194733823af66ad33c883
-#EXTINF:-1 tvg-id="Telecinco.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1024px-Telecinco.svg.png",Telecinco
+#EXTINF:-1 tvg-id="Telecinco.es" group-title="Generalista" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/telecinco-es.png",Telecinco
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3530959720aaf7aac4561
-#EXTINF:-1 tvg-id="LaSexta.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/LaSexta_2024_Logo.svg/827px-LaSexta_2024_Logo.svg.png" ,La Sexta
+#EXTINF:-1 tvg-id="LaSexta.es" group-title="Generalista" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/lasexta-es.png" ,La Sexta
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2389016718049b6c216ad
 
 #EXTINF:-1 tvg-id="Movistar+.es" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-plus-es.png" ,Movistar+
@@ -140,12 +140,12 @@ https://multimedia.eitb.eus/live-content/etb1eus-hls/master.m3u8
 #EXTVLCOPT:http-referrer=https://www.eitb.eus/
 https://multimedia.eitb.eus/live-content/etb2eus-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="TVGalicia.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" ,TV Galicia
+#EXTINF:-1 tvg-id="TVGalicia.es" group-title="Generalista" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/galicia-es.png" ,TV Galicia
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/408088832332d80c000ab7
 #EXTINF:-1 tvg-id="TV3Cat.es"group-title="Generalista" tvg-id="TV3cat.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tv3-cat-es.png",TV3 Catalunya
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2235179797b72f603efdd6
 
-#EXTINF:-1 tvg-id="TVE24h.es" group-title="Informações" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/1200px-Logo_Canal_24_horas.svg.png",Canal 24 horas
+#EXTINF:-1 tvg-id="TVE24h.es" group-title="Informações" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/24h-es.png",Canal 24 horas
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1537807715bf7b793e7a1b
 
 #EXTINF:-1 tvg-id="TDP.es" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",Teledeporte
@@ -153,15 +153,15 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2183
 
 
 # United Kingdom
-#EXTINF:-1 tvg-id="BBC1.uk" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1024px-BBC_One_logo_2021.svg.png" ,BBC One
+#EXTINF:-1 tvg-id="BBC1.uk" group-title="Generalista" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/bbc-one-uk.png" ,BBC One
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/4708189018e7c80cde0eb
-#EXTINF:-1 tvg-id="BBC2.uk" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/1024px-BBC_Two_logo_2021.svg.png" ,BBC Two
+#EXTINF:-1 tvg-id="BBC2.uk" group-title="Generalista" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/bbc-two-uk.png" ,BBC Two
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2105758006567811414eb2
-#EXTINF:-1 tvg-id="ITV1.uk" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1024px-ITV1_logo_%282022%29.svg.png" ,ITV1
+#EXTINF:-1 tvg-id="ITV1.uk" group-title="Generalista" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/itv-1-uk.png" ,ITV1
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/5761772265272ae71e9e2
-#EXTINF:-1 tvg-id="Channel4.uk" group-title="Generalista" tvg-logo=" https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/759px-Channel_4_%28On_Demand%29_2023.svg.png" ,Channel 4
+#EXTINF:-1 tvg-id="Channel4.uk" group-title="Generalista" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/channel-4-uk.png" ,Channel 4
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/23201362494838efda8ca4
-#EXTINF:-1 tvg-id="Channel5.uk" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Channel_5_2025.svg/960px-Channel_5_2025.svg.png" ,Channel 5
+#EXTINF:-1 tvg-id="Channel5.uk" group-title="Generalista" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/channel-5-uk.png" ,Channel 5
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/30730039139f8c853a7789
 #EXTINF:-1 tvg-id="BBC3.uk" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/1024px-BBC_Three_2022.svg.png" ,BBC Three
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/5898674922cb86a04fcd0
