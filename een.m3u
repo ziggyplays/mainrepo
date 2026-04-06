@@ -308,15 +308,15 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3972
 # Movies
 #EXTINF:-1 tvg-id="AMC.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/amc-hd-pt.png" group-title="Cinema",AMC Portugal
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2341819341f129f357dbdb
-#EXTINF:-1 tvg-id="AXNHD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/axn-pt.png" group-title="Cinema",AXN HD
+#EXTINF:-1 tvg-id="AXNHD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/axn-hd-pt.png" group-title="Cinema",AXN
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3143462075dfa9e885f3b2
 #EXTINF:-1 tvg-id="AXNMovies.pt" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/axn-movies-hd-pt.png",AXN Movies
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/47475930279ac9dcfd9c1
-#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/axn-white-pt.png" group-title="Cinema",AXN White
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/axn-white-hd-pt.png" group-title="Cinema",AXN White
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/328698532772b83e8ca83a
-#EXTINF:-1 tvg-id="CanalHollywood.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/canal-hollywood-pt.png" group-title="Cinema",Canal Hollywood
+#EXTINF:-1 tvg-id="CanalHollywood.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/canal-hollywood-hd-pt.png" group-title="Cinema",Canal Hollywood
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/7080840411e9f3bd3b681
-#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/cine-mundo-pt.png" group-title="Cinema",CineMundo
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/cine-mundo-hd-pt.png" group-title="Cinema",CineMundo
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/425440450378b6ca4cf7d3
 #EXTINF:-1 tvg-id="StarChannel.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/star-channel-pt.png" group-title="Cinema",STAR Channel
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/737435862bedf0cf54964
@@ -375,7 +375,7 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2767
 
 #EXTINF:-1 tvg-id="24Kitchen.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/24-kitchen-pt.png" group-title="Entretenimento",24Kitchen
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/5749782816432d260b9f8
-#EXTINF:-1 tvg-id="CasaECozinha.pt" tvg-logo="https://i.ibb.co/BKCgF75L/Casa-e-cozinha-Logo-fotor-bg-remover-2025092710047.png" group-title="Entretenimento",Casa e Cozinha
+#EXTINF:-1 tvg-id="CasaECozinha.pt" tvg-logo="https://www.zupimages.net/up/26/15/wd5w.png" group-title="Entretenimento",Casa e Cozinha
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3354497993e05327d67195
 #EXTINF:-1 tvg-id="HGTV.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png" group-title="Entretenimento",HGTV
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/310002268589f0484d477b
