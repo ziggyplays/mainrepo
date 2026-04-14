@@ -530,35 +530,35 @@ http://cord-cutter.net:8080/bn80NG/909467/57498
 https://daddyhd.com/watch.php?id=834
 
 #EXTINF:-1 tvg-id="TSN1.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",TSN1
-http://cord-cutter.net:8080/bn80NG/909467/57292
+http://s.rocketdns.info:8080/live/52748969/72335180/3146.ts
 #EXTINF:-1 tvg-id="TSN2.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",TSN2
-http://cord-cutter.net:8080/bn80NG/909467/47442
+http://s.rocketdns.info:8080/live/52748969/72335180/3145.ts
 #EXTINF:-1 tvg-id="TSN3.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",TSN3
-http://cord-cutter.net:8080/bn80NG/909467/47444
+http://s.rocketdns.info:8080/live/52748969/72335180/3144.ts
 #EXTINF:-1 tvg-id="TSN4.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",TSN4
-http://cord-cutter.net:8080/bn80NG/909467/16130
+http://s.rocketdns.info:8080/live/52748969/72335180/3143.ts
 #EXTINF:-1 tvg-id="TSN5.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",TSN5
-http://cord-cutter.net:8080/bn80NG/909467/16131
+http://s.rocketdns.info:8080/live/52748969/72335180/88079.ts
 
 #EXTINF:-1 tvg-id="SportsNet.East.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-ca.png",Sportsnet East
-http://cord-cutter.net:8080/bn80NG/909467/57298
+http://kstv.us:8080/live/N427DpynGE/7049166651/40617.ts
 #EXTINF:-1 tvg-id="SportsNet.West.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",Sportsnet West
-http://cord-cutter.net:8080/bn80NG/909467/20975
+http://kstv.us:8080/live/N427DpynGE/7049166651/40613.ts
 #EXTINF:-1 tvg-id="SportsNet.Ontario.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-ontario-ca.png",Sportsnet Ontario
-http://cord-cutter.net:8080/bn80NG/909467/11649
+http://kstv.us:8080/live/N427DpynGE/7049166651/40615.ts
 #EXTINF:-1 tvg-id="SportsNet.Pacific.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-pacific-ca.png",Sportsnet Pacific
-https://cord-cutter.net:8080/bn80NG/909467/47387
+http://kstv.us:8080/live/N427DpynGE/7049166651/40614.ts
 #EXTINF:-1 tvg-id="SportsNet.One.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-one-ca.png",Sportsnet One
-http://cord-cutter.net:8080/bn80NG/909467/57297
+http://kstv.us:8080/live/N427DpynGE/7049166651/40616.ts
 #EXTINF:-1 tvg-id="SportsNet.360.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-360-ca.png",Sportsnet 360
-http://cord-cutter.net:8080/bn80NG/909467/57299
+http://kstv.us:8080/live/N427DpynGE/7049166651/40618.ts
 #EXTINF:-1 tvg-id="SportsNet.World.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",Sportsnet World
-http://cord-cutter.net:8080/bn80NG/909467/75675
+http://s.rocketdns.info:8080/live/52748969/72335180/88060.ts
 
-#EXTINF:-1 tvg-id="SNY.SportsNet.NewYork.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sny-us.png",SportsNet New York
-http://cord-cutter.net:8080/bn80NG/909467/20938
-#EXTINF:-1 tvg-id="SportsNet.Pittsburg.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sportsnet-pittsburgh-us.png",SportsNet Pittsburgh
-http://cord-cutter.net:8080/bn80NG/909467/108178
+#EXTINF:-1 tvg-id="SNY.SportsNet.NewYork.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sny-us.png",Sportsnet New York
+http://kstv.us:8080/live/N427DpynGE/7049166651/46400.ts
+#EXTINF:-1 tvg-id="SportsNet.Pittsburg.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sportsnet-pittsburgh-us.png",Sportsnet Pittsburgh
+http://kstv.us:8080/live/N427DpynGE/7049166651/47473.ts
 
 #EXTINF:-1 tvg-id="ESPN.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png",ESPN 1
 http://cord-cutter.net:8080/bn80NG/909467/9802
