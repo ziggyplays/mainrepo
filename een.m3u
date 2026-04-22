@@ -223,17 +223,17 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1639
 
 
 # USA
-#EXTINF:-1 tvg-id="KABC-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png",ABC (Los Angeles CA)
-http://s.rocketdns.info:8080/live/52748969/72335180/2684.ts
-#EXTINF:-1 tvg-id="KCAL-TV.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png",CBS (Los Angeles CA)
-http://s.rocketdns.info:8080/live/52748969/72335180/2637.ts
-#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-us.png",NBC (Los Angeles CA)
-http://s.rocketdns.info:8080/live/52748969/72335180/2453.ts
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png",FOX (Los Angeles CA)
-http://s.rocketdns.info:8080/live/52748969/72335180/2550.ts
-#EXTINF:-1 tvg-id="KTLA-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cw-us.png",CW (Los Angeles CA)
+#EXTINF:-1 tvg-id="WFTS-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png",ABC
+http://stream.cammonitorplus.net/1758/index.m3u8
+#EXTINF:-1 tvg-id="WCBS-TV.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png",CBS
+http://stream.cammonitorplus.net/1810/index.m3u8
+#EXTINF:-1 tvg-id="WTVJ-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-us.png",NBC
+http://stream.cammonitorplus.net/1804/index.m3u8
+#EXTINF:-1 tvg-id="WJBK-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png",FOX
+http://stream.cammonitorplus.net/1772/index.m3u8
+#EXTINF:-1 tvg-id="KTLA-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cw-us.png",CW
 http://s.rocketdns.info:8080/live/52748969/72335180/87547.ts
-#EXTINF:-1 tvg-id="ABC.National.Feed.Pacific.us2" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png",PBS National (West)
+#EXTINF:-1 tvg-id="ABC.National.Feed.Pacific.us2" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png",PBS National
 https://cors-proxy.cooks.fyi/https://pbs.lls.cdn.pbs.org/pst/index_1080p.m3u8
 
 
