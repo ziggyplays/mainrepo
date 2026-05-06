@@ -228,11 +228,11 @@ http://stream.cammonitorplus.net/1758/index.m3u8
 #EXTINF:-1 tvg-id="WCBS-TV.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png",CBS
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1 tvg-id="WTVJ-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-us.png",NBC
-http://stream.cammonitorplus.net/1804/index.m3u8
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/45785
 #EXTINF:-1 tvg-id="WJBK-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png",FOX
 http://stream.cammonitorplus.net/1772/index.m3u8
 #EXTINF:-1 tvg-id="KTLA-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cw-us.png",CW
-http://s.rocketdns.info:8080/live/52748969/72335180/87547.ts
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/171820
 #EXTINF:-1 tvg-id="ABC.National.Feed.Pacific.us2" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png",PBS National
 https://cors-proxy.cooks.fyi/https://pbs.lls.cdn.pbs.org/pst/index_1080p.m3u8
 
@@ -429,8 +429,6 @@ https://jmp2.uk/stvp-FRBD4800001P4
 # Sports
 
 # Portugal
-#EXTINF:-1 tvg-id="SportTV+.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-mais-pt.png" group-title="Desporto",Sport TV+
-https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3862034077c5920f2e95e0
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-1-pt.png" group-title="Desporto",Sport TV 1
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/14386289065b08d49bfc3e
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-2-pt.png" group-title="Desporto",Sport TV 2
@@ -445,6 +443,8 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1276
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2118231470742cd8dad95f
 #EXTINF:-1 tvg-id="SportTV7.pt" tvg-logo="https://www.zupimages.net/up/26/14/a01i.png" group-title="Desporto",Sport TV 7
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/112627203002ec33f64535
+#EXTINF:-1 tvg-id="SportTV+.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-mais-pt.png" group-title="Desporto",Sport TV+
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3862034077c5920f2e95e0
 
 #EXTINF:-1 tvg-id="DAZN1.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-1-be.png",DAZN 1 Portugal
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/288268168b686746a7a16
@@ -531,15 +531,15 @@ http://cord-cutter.net:8080/bn80NG/909467/57498
 https://daddyhd.com/watch.php?id=834
 
 #EXTINF:-1 tvg-id="TSN1.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",TSN1
-http://cord-cutter.net:8080/bn80NG/909467/57292
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/770
 #EXTINF:-1 tvg-id="TSN2.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",TSN2
-http://cord-cutter.net:8080/bn80NG/909467/16129
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/771
 #EXTINF:-1 tvg-id="TSN3.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",TSN3
-http://cord-cutter.net:8080/bn80NG/909467/10389
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/772
 #EXTINF:-1 tvg-id="TSN4.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",TSN4
-http://cord-cutter.net:8080/bn80NG/909467/66783
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/773
 #EXTINF:-1 tvg-id="TSN5.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",TSN5
-http://cord-cutter.net:8080/bn80NG/909467/16131
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/774
 
 #EXTINF:-1 tvg-id="SportsNet.East.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-ca.png",Sportsnet East
 http://kstv.us:8080/live/N427DpynGE/7049166651/40617.ts
@@ -562,17 +562,17 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/46400.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47473.ts
 
 #EXTINF:-1 tvg-id="ESPN.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png",ESPN 1
-http://cord-cutter.net:8080/bn80NG/909467/9802
+http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png",ESPN 2
-http://cord-cutter.net:8080/bn80NG/909467/2210
+http://41.223.30.230/ESPN2/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-network-us.png",CBS Sports Network
-http://cord-cutter.net:8080/bn80NG/909467/10454
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/267357
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png",FOX Sports 1
-http://cord-cutter.net:8080/bn80NG/909467/46792
+http://41.223.30.230/FOXSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-2-us.png",FOX Sports 2
-http://cord-cutter.net:8080/bn80NG/909467/1847
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/757
 
 
 # United Kingdom
