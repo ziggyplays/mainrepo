@@ -228,11 +228,11 @@ http://stream.cammonitorplus.net/1758/index.m3u8
 #EXTINF:-1 tvg-id="WCBS-TV.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png",CBS
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1 tvg-id="WTVJ-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-us.png",NBC
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/45785
+http://stream.cammonitorplus.net/1812/index.m3u8
 #EXTINF:-1 tvg-id="WJBK-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png",FOX
 http://stream.cammonitorplus.net/1772/index.m3u8
 #EXTINF:-1 tvg-id="KTLA-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cw-us.png",CW
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/171820
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/93093.ts
 #EXTINF:-1 tvg-id="ABC.National.Feed.Pacific.us2" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png",PBS National
 https://cors-proxy.cooks.fyi/https://pbs.lls.cdn.pbs.org/pst/index_1080p.m3u8
 
