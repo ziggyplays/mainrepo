@@ -519,11 +519,11 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2899
 
 # Canada-USA
 #EXTINF:-1 tvg-id="Reseau.des.Sports.RDS.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/rds-ca.png",RDS
-http://kstv.us:8080/live/N427DpynGE/7049166651/40629.ts
+http://kstv.us:8080/live/Felix12/3330312491/40629.ts
 #EXTINF:-1 tvg-id="Reseau.des.Sports2.RDS2.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/rds-2-ca.png",RDS2
-http://kstv.us:8080/live/N427DpynGE/7049166651/40628.ts
+http://kstv.us:8080/live/Felix12/3330312491/40628.ts
 #EXTINF:-1 tvg-id="RDSInfo.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/rds-info-ca.png",RDS Info
-http://kstv.us:8080/live/N427DpynGE/7049166651/40627.ts
+http://kstv.us:8080/live/Felix12/3330312491/40627.ts
 #EXTINF:-1 tvg-id="TVASports.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-ca.png",TVA Sports
 http://cord-cutter.net:8080/bn80NG/909467/57498
 #EXTINF:-1 tvg-id="TVASports2.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-2-ca.png",TVA Sports 2
@@ -541,24 +541,24 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/773
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/774
 
 #EXTINF:-1 tvg-id="SportsNet.East.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-ca.png",Sportsnet East
-http://kstv.us:8080/live/N427DpynGE/7049166651/40617.ts
+http://kstv.us:8080/live/Felix12/3330312491/40617.ts
 #EXTINF:-1 tvg-id="SportsNet.West.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",Sportsnet West
-http://kstv.us:8080/live/N427DpynGE/7049166651/40613.ts
+http://kstv.us:8080/live/Felix12/3330312491/40613.ts
 #EXTINF:-1 tvg-id="SportsNet.Ontario.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-ontario-ca.png",Sportsnet Ontario
-http://kstv.us:8080/live/N427DpynGE/7049166651/40615.ts
+http://kstv.us:8080/live/Felix12/3330312491/40615.ts
 #EXTINF:-1 tvg-id="SportsNet.Pacific.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-pacific-ca.png",Sportsnet Pacific
-http://kstv.us:8080/live/N427DpynGE/7049166651/40614.ts
+http://kstv.us:8080/live/Felix12/3330312491/40614.ts
 #EXTINF:-1 tvg-id="SportsNet.One.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-one-ca.png",Sportsnet One
-http://kstv.us:8080/live/N427DpynGE/7049166651/40616.ts
+http://kstv.us:8080/live/Felix12/3330312491/40616.ts
 #EXTINF:-1 tvg-id="SportsNet.360.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-360-ca.png",Sportsnet 360
-http://kstv.us:8080/live/N427DpynGE/7049166651/40618.ts
+http://kstv.us:8080/live/Felix12/3330312491/40618.ts
 #EXTINF:-1 tvg-id="SportsNet.World.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",Sportsnet World
 http://s.rocketdns.info:8080/live/52748969/72335180/88060.ts
 
 #EXTINF:-1 tvg-id="SNY.SportsNet.NewYork.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sny-us.png",Sportsnet New York
-http://kstv.us:8080/live/N427DpynGE/7049166651/46400.ts
+http://kstv.us:8080/live/Felix12/3330312491/46400.ts
 #EXTINF:-1 tvg-id="SportsNet.Pittsburg.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sportsnet-pittsburgh-us.png",Sportsnet Pittsburgh
-http://kstv.us:8080/live/N427DpynGE/7049166651/47473.ts
+http://kstv.us:8080/live/Felix12/3330312491/47473.ts
 
 #EXTINF:-1 tvg-id="ESPN.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png",ESPN 1
 http://41.205.93.154/ESPN/index.m3u8
