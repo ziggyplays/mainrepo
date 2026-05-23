@@ -454,7 +454,7 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1810
 #EXTINF:-1 tvg-id="DAZN4.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-4-be.png",DAZN 4 Portugal
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/36541606320e0b5747f04e
 #EXTINF:-1 tvg-id="DAZN5.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-5-be.png",DAZN 5 Portugal
-https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/51390701566ef1d64c07c
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3836623176848a0884f3da
 
 #EXTINF:-1 tvg-id="Eurosport1.pt" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-1-fr.png",Eurosport 1 PT
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/36546124874bb339930031
@@ -541,7 +541,7 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/773
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/774
 
 #EXTINF:-1 tvg-id="SportsNet.East.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-ca.png",Sportsnet East
-http://kstv.us:8080/live/Felix12/3330312491/40617.ts
+http://cdn1host.online:2999/live//bongus/35zqYxrbg0/2045.ts
 #EXTINF:-1 tvg-id="SportsNet.West.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",Sportsnet West
 http://kstv.us:8080/live/Felix12/3330312491/40613.ts
 #EXTINF:-1 tvg-id="SportsNet.Ontario.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-ontario-ca.png",Sportsnet Ontario
@@ -549,14 +549,14 @@ http://kstv.us:8080/live/Felix12/3330312491/40615.ts
 #EXTINF:-1 tvg-id="SportsNet.Pacific.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-pacific-ca.png",Sportsnet Pacific
 http://kstv.us:8080/live/Felix12/3330312491/40614.ts
 #EXTINF:-1 tvg-id="SportsNet.One.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-one-ca.png",Sportsnet One
-http://kstv.us:8080/live/Felix12/3330312491/40616.ts
+http://cdn1host.online:2999/live//bongus/35zqYxrbg0/2046.ts
 #EXTINF:-1 tvg-id="SportsNet.360.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-360-ca.png",Sportsnet 360
-http://kstv.us:8080/live/Felix12/3330312491/40618.ts
+http://cdn1host.online:2999/live//bongus/35zqYxrbg0/2044.ts
 #EXTINF:-1 tvg-id="SportsNet.World.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",Sportsnet World
 http://s.rocketdns.info:8080/live/52748969/72335180/88060.ts
 
 #EXTINF:-1 tvg-id="SNY.SportsNet.NewYork.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sny-us.png",Sportsnet New York
-http://kstv.us:8080/live/Felix12/3330312491/46400.ts
+http://cdn1host.online:2999/live//bongus/35zqYxrbg0/330.ts
 #EXTINF:-1 tvg-id="SportsNet.Pittsburg.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sportsnet-pittsburgh-us.png",Sportsnet Pittsburgh
 http://kstv.us:8080/live/Felix12/3330312491/47473.ts
 
