@@ -21,7 +21,7 @@ https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:-1 tvg-id="TVI.pt" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvi-pt.png",TVI
-https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/TVI.m3u
+https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/TVI.m3u8
 
 #EXTINF:-1 tvg-id="RTP.Noticias.pt" group-title="Informações" tvg-logo="https://i.imgur.com/rXGPWqg.png",RTP Notícias
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
@@ -36,7 +36,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 https://sicnot.live.impresa.pt/sicnot.m3u8
 
 #EXTINF:-1 tvg-id="CNN.Portugal.pt" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
-https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/CNN_Portugal.m3u
+https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/CNN_Portugal.m3u8
 #EXTINF:-1 tvg-id="CMTV.HD.pt" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png",CMTV
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/805844173b05e1a81e31d
 
@@ -403,6 +403,9 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/5033
 #EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/national-geographic-wild-hd-es.png" group-title="Entretenimento",Wild National Geographic PT
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/269328975361837c5e0705
 
+#EXTINF:-1 tvg-id="Vice.HD.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="Entretenimento",Vice TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
 #EXTINF:-1 tvg-id="Love.Nature.ca" tvg-name="Love Nature 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/love-nature-4k-white-ca.png" group-title="Entretenimento",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
 #EXTINF:-1 tvg-id="travelxp.4K.de" tvg-name="Travelxp 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/travelxp-4k-in.png" group-title="Entretenimento",Travelxp 4K
@@ -411,8 +414,6 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1253
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/27363886393b5b106b00d8
 #EXTINF:-1 tvg-id="MyZen.4K.fr" tvg-name="MyZen 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/my-zen-tv-es.png" group-title="Entretenimento",MyZen TV
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2233165627cefa09c11eba
-#EXTINF:-1 tvg-id="Loupe.tv" tvg-name="Loupe 4K" tvg-logo="https://loupeart.com/cdn/shop/files/Wordmark_gradient_Thick_420x.png?v=1667930176" group-title="Entretenimento",Loupe 4K
-https://pb-bshbbwpmizhpq.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-bshbbwpmizhpq/78e01c1c-40b0-4076-b673-805e59125473/5.m3u8
 
 #EXTINF:-1 tvg-id="Cacavision.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/cacavision-pt.png" group-title="Entretenimento",Caçavision
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/36824777946514747ec085
@@ -573,20 +574,23 @@ http://41.223.30.230/FOXSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-2-us.png",FOX Sports 2
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/757
 
+#EXTINF:-1 tvg-id="TNT.HD.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Desporto",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
 
 # United Kingdom
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySports.MainEvent.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/67427762708663665a2e3
-#EXTINF:-1 tvg-id="SkySportsArena.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-arena-uk.png",Sky Sports Arena
+#EXTINF:-1 tvg-id="SkySports.Arena.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-arena-uk.png",Sky Sports Arena
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/13866680333c42e55b4f34
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-uk.png",Sky Sports Football
+#EXTINF:-1 tvg-id="SkySports.Football.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-uk.png",Sky Sports Football
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1258853748f8875af76e51
-#EXTINF:-1 tvg-id="SkySportsPL.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-uk.png",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySports.PremierLeague.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-uk.png",Sky Sports Premier League
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/126506577600afd406040
-#EXTINF:-1 tvg-id="SkySportsMix.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-mix-uk.png",Sky Sports Mix
+#EXTINF:-1 tvg-id="SkySports.Mix.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-mix-uk.png",Sky Sports Mix
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3733612719fb39b32b4b51
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" group-title="Desporto" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-f1-uhd-uk.png?raw=true",Sky Sports F1
-https://xemzi.short.gy/2000016
+#EXTINF:-1 tvg-id="SkySports.F1.HD.uk" group-title="Desporto" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-f1-uhd-uk.png?raw=true",Sky Sports F1
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/22482667679c82d752c5fb
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",TNT Sports 1
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3640268356ada49976faea
@@ -603,7 +607,7 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1229
 # Russia
 #EXTINF:-1 tvg-id="KHL.ru" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/khl-ru.png",KHL
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2890854598f5b804149c2
-#EXTINF:-1 tvg-id="KHL-Prime.ru" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/khl-prime-ru.png",KHL Prime
+#EXTINF:-1 tvg-id="KHL.Prime.ru" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/khl-prime-ru.png",KHL Prime
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/4045527153e90ef006c64a
 
 
