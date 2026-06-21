@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/TVI.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SIC.Noticias.pt" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-noticias-pt.png" ,SIC Notícias
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:http-origin=https://sicnoticias.pt
 #EXTVLCOPT:http-referrer=https://sicnoticias.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
