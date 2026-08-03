@@ -232,7 +232,7 @@ http://stream.cammonitorplus.net/1812/index.m3u8
 #EXTINF:-1 tvg-id="WJBK-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png",FOX
 http://stream.cammonitorplus.net/1772/index.m3u8
 #EXTINF:-1 tvg-id="KTLA-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cw-us.png",CW
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/93093.ts
+https://gpuserver3.tier1streams.com/CW/index.m3u8
 #EXTINF:-1 tvg-id="PBS.National.us2" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png",PBS National
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:17:02:32; stb_lang=en; timezone=GMT
@@ -250,7 +250,7 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/9836
 #EXTINF:-1 tvg-id="Channel5.ru" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/channel-5-ru.png",5 Kanal
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/118303099373624d397e2a
 #EXTINF:-1 tvg-id="Russia24.ru" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/1280px-Rossiya-24_Logo.svg.png",Rossiya 24
-https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/24425768105db83a0a345a
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/762353583ddde07aed73f
 #EXTINF:-1 tvg-id="RussiaK.ru" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/1280px-Russia-Cultura.svg.png",Rossiya K
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/847607886bd9af14de58
 #EXTINF:-1 tvg-id="RENTV.ru" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/960px-REN_TV_logo_2017.svg.png",REN TV
@@ -261,7 +261,7 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/4248
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/10020562535ccb1175fa8b
 #EXTINF:-1 tvg-id="TNT.ru" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/tnt-ru.png",TNT
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/371099324285e376d4d45c
-#EXTINF:-1 tvg-id="TNTMusic.ru" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/tnt-music-ru.png",TNT Music
+#EXTINF:-1 tvg-id="TNTMusic.ru" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FON_MUSIC_Logo_2026.webp/960px-FON_MUSIC_Logo_2026.webp.png",FON Music
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3783797318d9b7d3edde28
 
 
