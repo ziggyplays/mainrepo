@@ -93,7 +93,7 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3837
 #EXTINF:-1 tvg-id="6ter.fr" group-title="Generalista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png",6ter
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/42396595075411bf41b9be
 #EXTINF:-1 tvg-id="RMC.Story.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-story-fr.png",RMC Story
-https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/9680712917f989558355c
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/104723646397da6b0c2b31
 #EXTINF:-1 tvg-id="RMC.Decouverte.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-decouverte-fr.png",RMC Découverte
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/26066150769be8b83ee804
 #EXTINF:-1 tvg-id="RMC.Life.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-life-fr.png",RMC Life
@@ -274,7 +274,7 @@ https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-news-uk.png" group-title="Informações",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="SkyNewsInternational.uk" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-news-uk.png",Sky News
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/261085535435dd768e8ff9
 
 #EXTINF:-1 tvg-id="CNN.us" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnn-us.png",CNN USA
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2608.ts
@@ -299,7 +299,7 @@ https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/cha
 
 # Music
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/mezzo-fr.png" group-title="Música",Mezzo
-https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2047620470e301f2d22c47
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1556364158c79f762e7b57
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/mezzo-live-fr.png" group-title="Música",Mezzo Live
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3602344519640e3a7e1fb2
 #EXTINF:-1 tvg-id="StingrayClassica.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/stingray-classica-es.png" group-title="Música",Stingray Classica
@@ -557,44 +557,22 @@ http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/47402
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/106610
 
 #EXTINF:-1 tvg-id="TSN1.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",TSN1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E878E0D13FF57506A738096A8F0F6AF
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/30357
-
+https://gpuserver5.tier1streams.com/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="TSN2.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",TSN2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E878E0D13FF57506A738096A8F0F6AF
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/30356
-
+https://restream-live.realiptv.to/69922173979534301/P0ZxXMOVz8qnPU4m/3145
 #EXTINF:-1 tvg-id="TSN3.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",TSN3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E878E0D13FF57506A738096A8F0F6AF
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/30355
-
+https://restream-live.realiptv.to/69922173979534301/P0ZxXMOVz8qnPU4m/3144
 #EXTINF:-1 tvg-id="TSN4.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",TSN4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E878E0D13FF57506A738096A8F0F6AF
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/30354
-
+https://restream-live.realiptv.to/69922173979534301/P0ZxXMOVz8qnPU4m/3143
 #EXTINF:-1 tvg-id="TSN5.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",TSN5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E878E0D13FF57506A738096A8F0F6AF
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/30353
+https://restream-live.realiptv.to/69922173979534301/P0ZxXMOVz8qnPU4m/3142
 
 #EXTINF:-1 tvg-id="SportsNet.East.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-ca.png",Sportsnet East
-http://cdn1host.online:2999/live//bongus/35zqYxrbg0/2045.ts
+https://restream-live.realiptv.to/69922173979534301/P0ZxXMOVz8qnPU4m/3072
 
 #EXTINF:-1 tvg-id="SportsNet.West.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",Sportsnet West
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0E878E0D13FF57506A738096A8F0F6AF
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/42920
-s
+https://restream-live.realiptv.to/69922173979534301/P0ZxXMOVz8qnPU4m/3142
+
 #EXTINF:-1 tvg-id="SportsNet.Ontario.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-ontario-ca.png",Sportsnet Ontario
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
@@ -608,10 +586,10 @@ http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/42922
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/42921
 
 #EXTINF:-1 tvg-id="SportsNet.One.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-one-ca.png",Sportsnet One
-http://cdn1host.online:2999/live//bongus/35zqYxrbg0/2046.ts
+https://restream-live.realiptv.to/69922173979534301/P0ZxXMOVz8qnPU4m/3071
 
 #EXTINF:-1 tvg-id="SportsNet.360.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-360-ca.png",Sportsnet 360
-http://cdn1host.online:2999/live//bongus/35zqYxrbg0/2044.ts
+https://restream-live.realiptv.to/69922173979534301/P0ZxXMOVz8qnPU4m/3073
 
 #EXTINF:-1 tvg-id="SportsNet.World.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",Sportsnet World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -625,17 +603,17 @@ http://cdn1host.online:2999/live//bongus/35zqYxrbg0/330.ts
 http://kstv.us:8080/live/Felix12/3330312491/47473.ts
 
 #EXTINF:-1 tvg-id="ESPN.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png",ESPN 1
-http://41.205.93.154/ESPN/index.m3u8
+https://cdn.telecloud.tv/CH3257/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png",ESPN 2
-http://41.223.30.230/ESPN2/index.m3u8
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-network-us.png",CBS Sports Network
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/267357
+https://restream-live.realiptv.to/69922173979534301/P0ZxXMOVz8qnPU4m/3712
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png",FOX Sports 1
-http://41.223.30.230/FOXSPORTS1/index.m3u8
+https://cdn.telecloud.tv/CH3223/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-2-us.png",FOX Sports 2
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/757
+https://cdn.telecloud.tv/CH3225/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.HD.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Desporto",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
