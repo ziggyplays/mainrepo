@@ -271,7 +271,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/261085535435dd768e8ff9
 
 #EXTINF:-1 tvg-id="CNN.us" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnn-us.png",CNN USA
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2608.ts
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/24.ts
 #EXTINF:-1 tvg-id="CNBCEurope.us" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png",CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-id="FoxNews.us" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-us.png",FOX News
@@ -551,15 +551,15 @@ http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/47402
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/106610
 
 #EXTINF:-1 tvg-id="TSN1.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",TSN1
-https://gpuserver5.tier1streams.com/TSN_1/index.m3u8
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8292.ts
 #EXTINF:-1 tvg-id="TSN2.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",TSN2
-https://restream-live.realiptv.to/69922173979534301/P0ZxXMOVz8qnPU4m/3145
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8293.ts
 #EXTINF:-1 tvg-id="TSN3.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",TSN3
-https://restream-live.realiptv.to/69922173979534301/P0ZxXMOVz8qnPU4m/3144
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8294.ts
 #EXTINF:-1 tvg-id="TSN4.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",TSN4
-https://restream-live.realiptv.to/69922173979534301/P0ZxXMOVz8qnPU4m/3143
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8295.ts
 #EXTINF:-1 tvg-id="TSN5.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",TSN5
-https://restream-live.realiptv.to/69922173979534301/P0ZxXMOVz8qnPU4m/3142
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8296.ts
 
 #EXTINF:-1 tvg-id="SportsNet.East.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-ca.png",Sportsnet East
 https://restream-live.realiptv.to/69922173979534301/P0ZxXMOVz8qnPU4m/3072
