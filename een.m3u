@@ -271,7 +271,11 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/261085535435dd768e8ff9
 
 #EXTINF:-1 tvg-id="CNN.us" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnn-us.png",CNN USA
-https://ccctv.xyz:2096/live/n24/SUZsBNHv12/24.ts
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/cnn-live
+#EXTVLCOPT:http-origin=https://usnewson.com/watch/cnn-live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://p8.usnlive.com/stream/cnn.m3u8
+
 #EXTINF:-1 tvg-id="CNBCEurope.us" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png",CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-id="FoxNews.us" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-us.png",FOX News
