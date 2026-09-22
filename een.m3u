@@ -566,7 +566,8 @@ https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8295.ts
 https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8296.ts
 
 #EXTINF:-1 tvg-id="SportsNet.East.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-ca.png",Sportsnet East
-https://restream-live.realiptv.to/69922173979534301/P0ZxXMOVz8qnPU4m/3072
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTAwNzg0MTk0ODI6Y2RubGl2ZXR2LnR2OmNhMDg0ODFmZThkYWQ2MzQuZjliN2YxZTBkNzZmNDM4ZDJhMWI4NzBhNWY0ZDZlMmFiZTFjN2U2OGNhZWVhYjVjMDQ4NzMxYTBhZjA5YjM5Nw
 
 #EXTINF:-1 tvg-id="SportsNet.West.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",Sportsnet West
 https://restream-live.realiptv.to/69922173979534301/P0ZxXMOVz8qnPU4m/3142
@@ -584,10 +585,12 @@ http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/42922
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/42921
 
 #EXTINF:-1 tvg-id="SportsNet.One.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-one-ca.png",Sportsnet One
-https://restream-live.realiptv.to/69922173979534301/P0ZxXMOVz8qnPU4m/3071
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2b0/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmIwOjE3OTAwNzg0MTk4OTA6Y2RubGl2ZXR2LnR2OjA1N2U1Y2Q5ODZhZjk2NDAuZDYwMDllZGNlNTQ1MTEyNzI4YWU4ZGM1MTE4NmQ3MTU1ZGRiYmMwNTBhMGIwMWZhOTc2ZjE5YzI3MDY4NTkxNg
 
 #EXTINF:-1 tvg-id="SportsNet.360.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-360-ca.png",Sportsnet 360
-https://restream-live.realiptv.to/69922173979534301/P0ZxXMOVz8qnPU4m/3073
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2a5/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmE1OjE3OTAwNzg0MTkyNzI6Y2RubGl2ZXR2LnR2OjNhZDNjZjg3ZWNlYTIzM2EuYWNjZjUzMjZiNjcxN2MyOTllOGMwYjRkZTczM2JlOTIwMGM4ZTFhNjk2NjFiMTdjZjFkNmU2Y2NkZWYzNDU2Yg
 
 #EXTINF:-1 tvg-id="SportsNet.World.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",Sportsnet World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
