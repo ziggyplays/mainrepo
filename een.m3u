@@ -79,7 +79,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/can
 #EXTINF:-1 tvg-id="t18.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/t18-fr.png",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/res/t18-dm-highest.m3u8
 #EXTINF:-1 tvg-id="Novo19.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/novo19-fr.png",Novo 19
-https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/SKDKrilOP4b2/res/JhTQ0ctCuI3MbDdJ-highest.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-series-films-fr.png",TF1 Séries Films
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1760063888f6e9e21d8039
 #EXTINF:-1 tvg-id="L.EquipeTV.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'Équipe TV
@@ -218,15 +218,15 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1639
 
 # USA
 #EXTINF:-1 tvg-id="WFTS-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png",ABC
-http://stream.cammonitorplus.net/1758/index.m3u8
+http://4.30.180.36:8420/abc/index.m3u8?token=test
 #EXTINF:-1 tvg-id="WCBS-TV.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png",CBS
-http://stream.cammonitorplus.net/1810/index.m3u8
+http://4.30.180.36:8420/cbs/index.m3u8?token=test
 #EXTINF:-1 tvg-id="WTVJ-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-us.png",NBC
-http://stream.cammonitorplus.net/1812/index.m3u8
+http://4.30.180.36:8420/nbc/index.m3u8?token=test
 #EXTINF:-1 tvg-id="WJBK-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png",FOX
-http://stream.cammonitorplus.net/1772/index.m3u8
+http://95.143.42.59:1234/stream/fubochannels/fox/master.m3u8
 #EXTINF:-1 tvg-id="KTLA-DT.us_locals1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cw-us.png",CW
-https://gpuserver3.tier1streams.com/CW/index.m3u8
+http://95.143.42.59:1234/stream/fubochannels/thecw/master.m3u8
 #EXTINF:-1 tvg-id="PBS.National.us2" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png",PBS National
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:17:02:32; stb_lang=en; timezone=GMT
@@ -566,6 +566,9 @@ http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15926.ts
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15925.ts
 
 #EXTINF:-1 tvg-id="SportsNet.East.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-ca.png",Sportsnet East
+https://ondemand.st/papi/tv/dlhd/408/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
 
 #EXTINF:-1 tvg-id="SportsNet.West.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",Sportsnet West
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15903.ts
