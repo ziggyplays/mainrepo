@@ -566,10 +566,7 @@ http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15926.ts
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15925.ts
 
 #EXTINF:-1 tvg-id="SportsNet.East.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-ca.png",Sportsnet East
-https://ondemand.st/papi/tv/dlhd/408/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://ondemand.st/
-#EXTVLCOPT:http-origin=https://ondemand.st
-
+https://restream-live.realiptv.to:443/pablo/d2a0996643/3072
 #EXTINF:-1 tvg-id="SportsNet.West.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",Sportsnet West
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15903.ts
 #EXTINF:-1 tvg-id="SportsNet.Ontario.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-ontario-ca.png",Sportsnet Ontario
@@ -599,7 +596,7 @@ http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15944.ts
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png",FOX Sports 1
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15948.ts
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-2-us.png",FOX Sports 2
-https://cdn.telecloud.tv/CH3225/index.m3u8
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15947.ts
 
 #EXTINF:-1 tvg-id="TNT.HD.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Desporto",TNT
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15955.ts
