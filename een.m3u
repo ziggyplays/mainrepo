@@ -533,9 +533,9 @@ http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/47414
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/47413
 
 #EXTINF:-1 tvg-id="TVASports.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-ca.png",TVA Sports
-hhttp://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15903.ts
+hhttp://kstv.us:8080/live/Kh2fHxR0c8/3333726709/29336.ts
 #EXTINF:-1 tvg-id="TVASports2.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-2-ca.png",TVA Sports 2
-http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15903.ts
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/61732.ts
 
 #EXTINF:-1 tvg-id="TSN1.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",TSN1
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15929.ts
@@ -549,7 +549,7 @@ http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15926.ts
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15925.ts
 
 #EXTINF:-1 tvg-id="SportsNet.East.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-ca.png",Sportsnet East
-http://kstv.us:8080/live/Felix12/3330312491/40617.ts
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/40617.ts
 #EXTINF:-1 tvg-id="SportsNet.West.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",Sportsnet West
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15903.ts
 #EXTINF:-1 tvg-id="SportsNet.Ontario.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-ontario-ca.png",Sportsnet Ontario
