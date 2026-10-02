@@ -519,16 +519,16 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2899
 
 # Canada-USA
 #EXTINF:-1 tvg-id="Reseau.des.Sports.RDS.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/rds-ca.png",RDS
-http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29268.ts
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/11388.ts
 #EXTINF:-1 tvg-id="Reseau.des.Sports2.RDS2.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/rds-2-ca.png",RDS2
-http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29363.ts
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/11350.ts
 #EXTINF:-1 tvg-id="RDSInfo.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/rds-info-ca.png",RDS Info
-http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49001.ts
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15903.ts
 
 #EXTINF:-1 tvg-id="TVASports.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-ca.png",TVA Sports
-http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29336.ts
+hhttp://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15903.ts
 #EXTINF:-1 tvg-id="TVASports2.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-2-ca.png",TVA Sports 2
-http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61732.ts
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15903.ts
 
 #EXTINF:-1 tvg-id="TSN1.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",TSN1
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15929.ts
