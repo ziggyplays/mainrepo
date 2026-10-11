@@ -351,7 +351,7 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3512
 
 
 # Entertainment
-#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://zupimages.net/up/26/14/pk9j.png" group-title="Entretenimento",RTP Memória
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/RTP_Mem%C3%B3ria_2026.svg/1280px-RTP_Mem%C3%B3ria_2026.svg.png" group-title="Entretenimento",RTP Memória
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/359484756863389f637100
 #EXTINF:-1 tvg-id="SICRadical.pt" group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-radical-pt.png",SIC Radical
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/114997012299821ebfef73
@@ -426,7 +426,7 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3508
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/12763267051751832c99d9
 #EXTINF:-1 tvg-id="SportTV6.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-6-pt.png" group-title="Desporto",Sport TV 6
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2118231470742cd8dad95f
-#EXTINF:-1 tvg-id="SportTV7.pt" tvg-logo="https://www.zupimages.net/up/26/14/a01i.png" group-title="Desporto",Sport TV 7
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Sport_TV7_%282024%29.png/1280px-Sport_TV7_%282024%29.png" group-title="Desporto",Sport TV 7
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/112627203002ec33f64535
 #EXTINF:-1 tvg-id="SportTV+.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-mais-pt.png" group-title="Desporto",Sport TV+
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3862034077c5920f2e95e0
