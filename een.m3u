@@ -265,7 +265,7 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1154
 #EXTINF:-1 tvg-id="IciRDI.ca" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ici-rdi-ca.png",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NHK-World.png",NHK World Japan
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/d32e347bb7c4c640dceec23957802ad9182f58a6/countries/international/nhk-world-japan-int.png",NHK World Japan
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/kbs-world-int.png",KBS World
 #EXTVLCOPT:http-referrer=https://cinerama.uz/
