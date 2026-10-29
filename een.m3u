@@ -41,7 +41,7 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/3004
 #EXTINF:-1 tvg-id="M6.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png",M6
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/688242401078f5e51c480
 #EXTINF:-1 tvg-id="arte.France.fr" group-title="Generalista" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",arte
-https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/16663524193943bf4b5dde
+https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/621108426057f0edcfe9d
 #EXTINF:-1 tvg-id="LCP-AN.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/lcp-fr.png",LCP-Public Sénat
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/218551255e835771bbd81
 #EXTINF:-1 tvg-id="W9.fr" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/w9-fr.png",W9
@@ -210,9 +210,10 @@ http://4.30.180.36:8420/cbs/index.m3u8?token=test
 #EXTINF:-1 tvg-id="WNBC-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-us.png",NBC
 http://4.30.180.36:8420/nbc/index.m3u8?token=test
 #EXTINF:-1 tvg-id="WNYW-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png",FOX
-https://peaky.techcoder40.workers.dev/82.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cfae/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZmFlOjE3OTMzMTQ4MDM0NzE6Y2RubGl2ZXR2LnR2Ojk4OTg3YjE5MzNlNzM1ZDUuMTE3NDdlOGU2ZDEyNDZkZjQ4MGJkYjM5MWQxMzU3NTRlNGE5Y2NmMThjNjY0ZjczMTE1ZjhmM2UwZDZjZDM0OQ
 #EXTINF:-1 tvg-id="WCCB-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cw-us.png",CW
-http://cord-cutter.net:8080/fattbham@outlook.com/fattbham@2025/120890
+http://23.237.104.106:8080/USA_WGN/index.m3u8
 #EXTINF:-1 tvg-id="PBS.National.us2" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png",PBS National
 https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
 
