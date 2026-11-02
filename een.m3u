@@ -204,16 +204,26 @@ https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1639
 
 # USA
 #EXTINF:-1 tvg-id="WABC-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png",ABC
-http://4.30.180.36:8420/abc/index.m3u8?token=test
-#EXTINF:-1 tvg-id="WCBS-TV.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png",CBS
-http://4.30.180.36:8420/cbs/index.m3u8?token=test
-#EXTINF:-1 tvg-id="WNBC-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-us.png",NBC
-http://4.30.180.36:8420/nbc/index.m3u8?token=test
-#EXTINF:-1 tvg-id="WNYW-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png",FOX
+#EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cfae/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZmFlOjE3OTMzMTQ4MDM0NzE6Y2RubGl2ZXR2LnR2Ojk4OTg3YjE5MzNlNzM1ZDUuMTE3NDdlOGU2ZDEyNDZkZjQ4MGJkYjM5MWQxMzU3NTRlNGE5Y2NmMThjNjY0ZjczMTE1ZjhmM2UwZDZjZDM0OQ
+https://cache0.wonvt.st/live/178232v17z1k5v1nckt35/master.m3u8
+
+#EXTINF:-1 tvg-id="WCBS-TV.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-logo-white-us.png",CBS
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cache0.wonvt.st/live/0x8kufu0m609fs0hv3gqj/master.m3u8
+
+#EXTINF:-1 tvg-id="WNBC-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-us.png",NBC
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cache0.wonvt.st/live/108kde90atgxpe1b70g4o/master.m3u8
+
+#EXTINF:-1 tvg-id="WNYW-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png",FOX
+https://tvsen6.aynaott.com/fox5/index.m3u8
+
 #EXTINF:-1 tvg-id="WCCB-DT.us" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cw-us.png",CW
 http://23.237.104.106:8080/USA_WGN/index.m3u8
+
 #EXTINF:-1 tvg-id="PBS.National.us2" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png",PBS National
 https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
 
@@ -253,13 +263,18 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/261085535435dd768e8ff9
 
 #EXTINF:-1 tvg-id="CNN.us" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnn-us.png",CNN USA
-http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15934.ts
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/cnn-live
+https://p7.usnlive.com/stream/cnn.m3u8
+
 #EXTINF:-1 tvg-id="CNBC.us" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png",CNBC
-http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15902.ts
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FoxNews.us" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-us.png",FOX News
-http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/22530.ts
-#EXTINF:-1 tvg-id="BloombergEurope.us" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bloomberg-television-us.png",Bloomberg
-https://letzmy.dpdns.org/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/1154799044040579fc831a
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
+https://p7.usnlive.com/stream/foxnews.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg.us" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bloomberg-television-us.png",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
 
 #EXTINF:-1 tvg-id="IciRDI.ca" group-title="Informações" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ici-rdi-ca.png",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
