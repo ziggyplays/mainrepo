@@ -540,51 +540,51 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29336.ts
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61732.ts
 
 #EXTINF:-1 tvg-id="TSN1.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",TSN1
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15929.ts?thanos1975
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/15929.ts
 #EXTINF:-1 tvg-id="TSN2.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",TSN2
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15928.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/15928.ts
 #EXTINF:-1 tvg-id="TSN3.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",TSN3
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15927.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/15927.ts
 #EXTINF:-1 tvg-id="TSN4.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",TSN4
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15926.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/15926.ts
 #EXTINF:-1 tvg-id="TSN5.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",TSN5
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15925.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/15925.ts
 
 #EXTINF:-1 tvg-id="SportsNet.East.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-ca.png",Sportsnet East
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/40617.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/40617.ts
 #EXTINF:-1 tvg-id="SportsNet.West.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",Sportsnet West
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15903.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/15903.ts
 #EXTINF:-1 tvg-id="SportsNet.Ontario.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-ontario-ca.png",Sportsnet Ontario
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15937.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/15937.ts
 #EXTINF:-1 tvg-id="SportsNet.Pacific.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-pacific-ca.png",Sportsnet Pacific
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/40614.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/40614.ts
 #EXTINF:-1 tvg-id="SportsNet.One.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-one-ca.png",Sportsnet One
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/40616.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/40616.ts
 #EXTINF:-1 tvg-id="SportsNet.360.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-360-ca.png",Sportsnet 360
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15938.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/15938.ts
 #EXTINF:-1 tvg-id="SportsNet.World.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",Sportsnet World
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15936.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/15936.ts
 
 #EXTINF:-1 tvg-id="SNY.SportsNet.NewYork.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sny-us.png",Sportsnet New York
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/46400.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/46400.ts
 #EXTINF:-1 tvg-id="SportsNet.Pittsburg.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sportsnet-pittsburgh-us.png",Sportsnet Pittsburgh
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/47473.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/47473.ts
 
 #EXTINF:-1 tvg-id="ESPN.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png",ESPN 1
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15951.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/15951.ts
 #EXTINF:-1 tvg-id="ESPN2.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png",ESPN 2
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15950.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/15950.ts
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-network-us.png",CBS Sports Network
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15944.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/15944.ts
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png",FOX Sports 1
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15948.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/15948.ts
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-2-us.png",FOX Sports 2
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15947.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/15947.ts
 
 #EXTINF:-1 tvg-id="TNT.HD.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Desporto",TNT
-http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15955.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/15955.ts
 
 
 # United Kingdom
