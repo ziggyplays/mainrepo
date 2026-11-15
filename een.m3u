@@ -535,9 +535,9 @@ http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/47414
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/47413
 
 #EXTINF:-1 tvg-id="TVASports.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-ca.png",TVA Sports
-http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29336.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/29336.ts
 #EXTINF:-1 tvg-id="TVASports2.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-2-ca.png",TVA Sports 2
-http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61732.ts
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/61732.ts
 
 #EXTINF:-1 tvg-id="TSN1.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png",TSN1
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15929.ts
