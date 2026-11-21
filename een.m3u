@@ -547,7 +547,10 @@ http://kstv.us:8080/live/QX90g3Gk68/11123892408/15926.ts
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15925.ts
 
 #EXTINF:-1 tvg-id="SportsNet.East.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-ca.png",Sportsnet East
-http://kstv.us:8080/live/QX90g3Gk68/11123892408/40617.ts
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6477/index.m3u8
+
+Old http://kstv.us:8080/live/QX90g3Gk68/11123892408/40617.ts
+
 #EXTINF:-1 tvg-id="SportsNet.West.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",Sportsnet West
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15903.ts
 #EXTINF:-1 tvg-id="SportsNet.Ontario.ca" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-ontario-ca.png",Sportsnet Ontario
