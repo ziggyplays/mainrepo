@@ -225,7 +225,7 @@ https://tvsen6.aynaott.com/fox5/index.m3u8
 http://23.237.104.106:8080/USA_WGN/index.m3u8
 
 #EXTINF:-1 tvg-id="PBS.National.us2" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png",PBS National
-https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
+https://proxyfacilissimo.dpdns.org/extractor/video.m3u8?host=dlstreams&url=https://thedaddy.li/watch.php?id=210&redirect_stream=true&max_res=true&api_password=Milito22.
 
 
 # Russia
